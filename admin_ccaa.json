@@ -1,0 +1,3875 @@
+[
+  {
+    "nombre": "Junta de Andalucía - Portal Oficial",
+    "url": "https://www.juntadeandalucia.es/",
+    "comunidad_autonoma": "Andalucía",
+    "organismo": "Junta de Andalucía",
+    "descripcion": "Portal principal del gobierno de Andalucía donde se accede a información y servicios en sus áreas de competencia",
+    "tipo": [
+      "Portal Principal",
+      "Servicios Digitales",
+      "Administración"
+    ],
+    "hashtags": [
+      "#JuntaAndalucía",
+      "#PortalOficial",
+      "#Andalucía"
+    ],
+    "servicios_principales": [
+      "Información administrativa",
+      "Trámites online",
+      "Servicios ciudadanía",
+      "Información sectorial"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Sede Electrónica - Junta de Andalucía",
+    "url": "https://www.juntadeandalucia.es/servicios/sede.html",
+    "comunidad_autonoma": "Andalucía",
+    "organismo": "Junta de Andalucía",
+    "descripcion": "Sede electrónica general de la Junta de Andalucía para realizar trámites digitales de manera segura",
+    "tipo": [
+      "Sede Electrónica",
+      "Servicios Digitales",
+      "Gestión Electrónica"
+    ],
+    "hashtags": [
+      "#SedeElectrónica",
+      "#TrámitesOnline",
+      "#AdminElectrónica"
+    ],
+    "servicios_principales": [
+      "Presentación de documentos",
+      "Trámites administrativos",
+      "Registro telemático",
+      "Gestión de procedimientos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Empleo Público - Andalucía",
+    "url": "https://portalempleopublico.juntadeandalucia.es/",
+    "comunidad_autonoma": "Andalucía",
+    "organismo": "Consejería de Justicia",
+    "descripcion": "Portal unificado para acceso al empleo público en la administración andaluza con información sobre convocatorias y procesos selectivos",
+    "tipo": [
+      "Portal Empleo",
+      "Servicios Digitales",
+      "Empleo Público"
+    ],
+    "hashtags": [
+      "#EmpleoPublico",
+      "#Convocatorias",
+      "#AdminJusta"
+    ],
+    "servicios_principales": [
+      "Consulta de ofertas",
+      "Procesos selectivos",
+      "Bolsas de empleo",
+      "Trámites de personal"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "ClicSalud+ - Citas Médicas Andalucía",
+    "url": "https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/clicsalud/",
+    "comunidad_autonoma": "Andalucía",
+    "organismo": "Servicio Andaluz de Salud",
+    "descripcion": "Portal digital para solicitar citas previas con profesionales sanitarios en el Sistema Público de Salud de Andalucía",
+    "tipo": [
+      "Portal Salud",
+      "Cita Previa",
+      "Servicios Digitales"
+    ],
+    "hashtags": [
+      "#ClicSalud",
+      "#CitaPrevia",
+      "#SAS",
+      "#Salud"
+    ],
+    "servicios_principales": [
+      "Solicitud citas médicas",
+      "Gestión de citas",
+      "Consulta horarios",
+      "Cambio de citas"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Educación - Consejería Desarrollo Educativo Andalucía",
+    "url": "https://www.juntadeandalucia.es/educacion/portales/",
+    "comunidad_autonoma": "Andalucía",
+    "organismo": "Consejería de Desarrollo Educativo y Formación Profesional",
+    "descripcion": "Portal educativo para gestión de escolarización, información sobre centros educativos y procedimientos académicos",
+    "tipo": [
+      "Portal Educación",
+      "Servicios Digitales",
+      "Escolarización"
+    ],
+    "hashtags": [
+      "#Educación",
+      "#Escolarización",
+      "#CED",
+      "#FormacionProfesional"
+    ],
+    "servicios_principales": [
+      "Escolarización online",
+      "Información de centros",
+      "Portal Séneca",
+      "Becas y ayudas educativas"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal Séneca - Educación Andalucía",
+    "url": "https://seneca.juntadeandalucia.es/",
+    "comunidad_autonoma": "Andalucía",
+    "organismo": "Consejería de Desarrollo Educativo y Formación Profesional",
+    "descripcion": "Plataforma digital de gestión educativa para centros, docentes, familias y estudiantes de Andalucía",
+    "tipo": [
+      "Portal Educación",
+      "Gestión Educativa",
+      "Servicios Digitales"
+    ],
+    "hashtags": [
+      "#PortalSéneca",
+      "#Educación",
+      "#GestiónEducativa"
+    ],
+    "servicios_principales": [
+      "Gestión de calificaciones",
+      "Comunicación familia-escuela",
+      "Registros académicos",
+      "Información educativa"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "EMVISESA - Vivienda Andalucía",
+    "url": "https://www.emvisesa.org/",
+    "comunidad_autonoma": "Andalucía",
+    "organismo": "Consejería de Fomento, Articulación del Territorio y Vivienda",
+    "descripcion": "Portal de vivienda protegida y ayudas para acceso a vivienda, incluyendo programas para jóvenes",
+    "tipo": [
+      "Portal Vivienda",
+      "Ayudas Vivienda",
+      "Servicios Digitales"
+    ],
+    "hashtags": [
+      "#Vivienda",
+      "#ViviendasProtegidas",
+      "#AyudasVivienda",
+      "#JóvenesAndaluces"
+    ],
+    "servicios_principales": [
+      "Viviendas protegidas",
+      "Ayudas para compra",
+      "Programas para jóvenes",
+      "Registro demandantes vivienda"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Agencia Tributaria de Andalucía",
+    "url": "https://www.juntadeandalucia.es/organismos/atrian.html",
+    "comunidad_autonoma": "Andalucía",
+    "organismo": "Agencia Tributaria de Andalucía",
+    "descripcion": "Portal de tributos autonómicos para gestión de impuestos regionales en Andalucía",
+    "tipo": [
+      "Tributos",
+      "Impuestos",
+      "Servicios Digitales"
+    ],
+    "hashtags": [
+      "#Tributos",
+      "#Impuestos",
+      "#Hacienda",
+      "#ATRIAN"
+    ],
+    "servicios_principales": [
+      "Gestión de tributos",
+      "Información fiscal",
+      "Declaración de impuestos",
+      "Oficina virtual tributaria"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Boletín Oficial de la Junta de Andalucía (BOJA)",
+    "url": "https://www.juntadeandalucia.es/eboja.html",
+    "comunidad_autonoma": "Andalucía",
+    "organismo": "Junta de Andalucía",
+    "descripcion": "Boletín oficial diario de la Junta de Andalucía con publicación de leyes, disposiciones y actos administrativos",
+    "tipo": [
+      "Boletín Oficial",
+      "Normativa",
+      "Transparencia"
+    ],
+    "hashtags": [
+      "#BOJA",
+      "#BoletínOficial",
+      "#Normativa",
+      "#Publicaciones"
+    ],
+    "servicios_principales": [
+      "Publicación normativa",
+      "Búsqueda de disposiciones",
+      "Acceso histórico",
+      "Suscripción a boletines"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Transparencia - Junta de Andalucía",
+    "url": "https://juntadeandalucia.es/transparencia.html",
+    "comunidad_autonoma": "Andalucía",
+    "organismo": "Junta de Andalucía",
+    "descripcion": "Portal de transparencia y datos abiertos de la administración andaluza con información de gestión pública",
+    "tipo": [
+      "Transparencia",
+      "Datos Abiertos",
+      "Información Pública"
+    ],
+    "hashtags": [
+      "#Transparencia",
+      "#DatosAbiertos",
+      "#InformaciónPública"
+    ],
+    "servicios_principales": [
+      "Consulta presupuestos",
+      "Información de subvenciones",
+      "Datos abiertos",
+      "Buscador de resoluciones"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Gobierno de Aragón - Portal Oficial",
+    "url": "https://www.aragon.es/",
+    "comunidad_autonoma": "Aragón",
+    "organismo": "Gobierno de Aragón",
+    "descripcion": "Portal principal del gobierno aragonés con acceso a servicios administrativos y tramites online",
+    "tipo": [
+      "Portal Principal",
+      "Servicios Digitales",
+      "Administración"
+    ],
+    "hashtags": [
+      "#GobiernoAragón",
+      "#PortalOficial",
+      "#Aragón"
+    ],
+    "servicios_principales": [
+      "Trámites online",
+      "Información ciudadana",
+      "Servicios sectoriales",
+      "Procedimientos administrativos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Sede Electrónica - Gobierno de Aragón",
+    "url": "https://www.aragon.es/tramites",
+    "comunidad_autonoma": "Aragón",
+    "organismo": "Gobierno de Aragón",
+    "descripcion": "Plataforma de tramitación electrónica del gobierno aragonés para realizar procedimientos digitales de forma segura",
+    "tipo": [
+      "Sede Electrónica",
+      "Servicios Digitales",
+      "Gestión Electrónica"
+    ],
+    "hashtags": [
+      "#SedeElectrónica",
+      "#TrámitesOnline",
+      "#AdminElectrónica"
+    ],
+    "servicios_principales": [
+      "Registro telemático",
+      "Presentación documentos",
+      "Tramitación online",
+      "Notificaciones electrónicas"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "INAEM - Instituto Aragonés de Empleo",
+    "url": "https://inaem.aragon.es/",
+    "comunidad_autonoma": "Aragón",
+    "organismo": "Instituto Aragonés de Empleo",
+    "descripcion": "Portal de empleo para consulta de ofertas, gestión de demandas de empleo y servicios de orientación laboral",
+    "tipo": [
+      "Portal Empleo",
+      "Servicios Digitales",
+      "Empleo"
+    ],
+    "hashtags": [
+      "#INAEM",
+      "#EmpleoAragón",
+      "#OfertasEmpleo",
+      "#Orientación"
+    ],
+    "servicios_principales": [
+      "Oferta de empleo",
+      "Demanda de empleo",
+      "Registro como demandante",
+      "Búsqueda de oportunidades"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Recursos Humanos - Servicio Aragonés de Salud",
+    "url": "https://empleo.salud.aragon.es/saludmeritos/",
+    "comunidad_autonoma": "Aragón",
+    "organismo": "Servicio Aragonés de Salud",
+    "descripcion": "Portal electrónico para gestión de recursos humanos y procesos de selección en el sistema sanitario aragonés",
+    "tipo": [
+      "Portal Empleo",
+      "Salud",
+      "Servicios Digitales"
+    ],
+    "hashtags": [
+      "#SaludAragón",
+      "#EmpleoPublico",
+      "#SALUD",
+      "#RH"
+    ],
+    "servicios_principales": [
+      "Gestión de méritos",
+      "Procesos selectivos",
+      "Inscripción aspirantes",
+      "Bolsa temporal empleo"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Boletín Oficial de Aragón (BOA)",
+    "url": "https://www.boa.aragon.es/",
+    "comunidad_autonoma": "Aragón",
+    "organismo": "Gobierno de Aragón",
+    "descripcion": "Boletín oficial de la comunidad autónoma con publicación diaria de disposiciones normativas y actos administrativos",
+    "tipo": [
+      "Boletín Oficial",
+      "Normativa",
+      "Transparencia"
+    ],
+    "hashtags": [
+      "#BOA",
+      "#BoletínOficial",
+      "#AragónNormativa"
+    ],
+    "servicios_principales": [
+      "Disposiciones normativas",
+      "Convocatorias",
+      "Ayudas y subvenciones",
+      "Búsqueda de contenidos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Salud Informa - Cita Previa Aragón",
+    "url": "https://www.saludinforma.es/",
+    "comunidad_autonoma": "Aragón",
+    "organismo": "Departamento de Sanidad - Gobierno de Aragón",
+    "nivel": "autonomico",
+    "descripcion": "Portal de salud digital de Aragón para gestión de citas previas, historial médico y servicios sanitarios",
+    "tipo": [
+      "portal_salud",
+      "cita_previa"
+    ],
+    "hashtags": [
+      "#saludinforma",
+      "#citaprevia",
+      "#sanidad",
+      "#aragon"
+    ],
+    "servicios_principales": [
+      "Cita previa médico",
+      "Carpeta de salud digital",
+      "Expediente sanitario electrónico"
+    ]
+  },
+  {
+    "nombre": "Educaragón - Portal de Educación",
+    "url": "https://educa.aragon.es/",
+    "comunidad_autonoma": "Aragón",
+    "organismo": "Departamento de Educación, Ciencia y Universidades",
+    "nivel": "autonomico",
+    "descripcion": "Portal educativo de Aragón con recursos digitales, información sobre centros educativos y admisiones",
+    "tipo": [
+      "portal_educacion",
+      "servicios_educativos"
+    ],
+    "hashtags": [
+      "#educacion",
+      "#aragon",
+      "#educaaragon"
+    ],
+    "servicios_principales": [
+      "Admisión a centros educativos",
+      "Recursos educativos digitales",
+      "Becas"
+    ]
+  },
+  {
+    "nombre": "Suelo y Vivienda de Aragón",
+    "url": "https://svaragon.com/",
+    "comunidad_autonoma": "Aragón",
+    "organismo": "Dirección General de Vivienda - Gobierno de Aragón",
+    "nivel": "autonomico",
+    "descripcion": "Portal de vivienda pública de Aragón con promociones de viviendas, alquiler social y gestión de suelo",
+    "tipo": [
+      "portal_vivienda",
+      "ayudas_sociales"
+    ],
+    "hashtags": [
+      "#vivienda",
+      "#aragon",
+      "#alquilersocial"
+    ],
+    "servicios_principales": [
+      "Vivienda pública protegida",
+      "Alquiler social",
+      "Promociones inmobiliarias"
+    ]
+  },
+  {
+    "nombre": "Transparencia Aragón",
+    "url": "https://www.aragon.es/transparencia",
+    "comunidad_autonoma": "Aragón",
+    "organismo": "Consejo de Transparencia de Aragón",
+    "nivel": "autonomico",
+    "descripcion": "Portal de transparencia y datos abiertos del Gobierno de Aragón",
+    "tipo": [
+      "transparencia",
+      "datos_abiertos"
+    ],
+    "hashtags": [
+      "#transparencia",
+      "#datosabiertos",
+      "#aragon"
+    ],
+    "servicios_principales": [
+      "Datos abiertos",
+      "Información de contratación",
+      "Información presupuestaria"
+    ]
+  },
+  {
+    "nombre": "Administración Tributaria de Aragón",
+    "url": "https://www.aragon.es/administracion-tributaria-de-aragon",
+    "comunidad_autonoma": "Aragón",
+    "organismo": "Dirección General de Tributos - Gobierno de Aragón",
+    "nivel": "autonomico",
+    "descripcion": "Gestión integral de tributos autonómicos de Aragón",
+    "tipo": [
+      "tributos",
+      "hacienda"
+    ],
+    "hashtags": [
+      "#tributos",
+      "#impuestos",
+      "#aragon",
+      "#hacienda"
+    ],
+    "servicios_principales": [
+      "Gestión de tributos autonómicos",
+      "Presentación telemática de impuestos",
+      "Consulta de deudas"
+    ]
+  },
+  {
+    "nombre": "Principado de Asturias - Portal Oficial",
+    "url": "https://www.asturias.es",
+    "comunidad_autonoma": "Asturias",
+    "organismo": "Principado de Asturias",
+    "descripcion": "Portal oficial del gobierno asturiano con información y servicios de la administración regional",
+    "tipo": [
+      "Portal Principal",
+      "Servicios Digitales",
+      "Administración"
+    ],
+    "hashtags": [
+      "#Asturias",
+      "#PortalOficial",
+      "#PrincipiadoAsturias"
+    ],
+    "servicios_principales": [
+      "Información sectorial",
+      "Servicios ciudadanía",
+      "Trámites digitales",
+      "Recursos públicos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Sede Electrónica - Principado de Asturias",
+    "url": "https://sede.asturias.es/",
+    "comunidad_autonoma": "Asturias",
+    "organismo": "Principado de Asturias",
+    "descripcion": "Plataforma de administración electrónica asturiana para realizar procedimientos y trámites telemáticos",
+    "tipo": [
+      "Sede Electrónica",
+      "Servicios Digitales",
+      "Gestión Electrónica"
+    ],
+    "hashtags": [
+      "#SedeAsturias",
+      "#TrámitesOnline",
+      "#AdminElectrónica"
+    ],
+    "servicios_principales": [
+      "Tramitación electrónica",
+      "Registro telemático",
+      "Presentación documentos",
+      "Servicios digitales"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Mi asturSalud - Citas Médicas Asturias",
+    "url": "https://miastursalud.sespa.es/",
+    "comunidad_autonoma": "Asturias",
+    "organismo": "Servicio de Salud del Principado de Asturias",
+    "descripcion": "Portal digital de salud para solicitar citas previas y gestionar servicios sanitarios en Asturias",
+    "tipo": [
+      "Portal Salud",
+      "Cita Previa",
+      "Servicios Digitales"
+    ],
+    "hashtags": [
+      "#MiAsturSalud",
+      "#CitaPrevia",
+      "#SESPA",
+      "#Salud"
+    ],
+    "servicios_principales": [
+      "Solicitud citas previas",
+      "Gestión citas",
+      "Expediente electrónico",
+      "Consulta de prescripciones"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "EDUCASTUR - Portal de Educación Asturias",
+    "url": "https://www.educastur.es/",
+    "comunidad_autonoma": "Asturias",
+    "organismo": "Consejería de Educación",
+    "descripcion": "Portal temático de educación de Asturias con información y servicios para la comunidad educativa",
+    "tipo": [
+      "Portal Educación",
+      "Servicios Digitales",
+      "Escolarización"
+    ],
+    "hashtags": [
+      "#EDUCASTUR",
+      "#Educación",
+      "#Asturias",
+      "#EducaciónAsturias"
+    ],
+    "servicios_principales": [
+      "Información educativa",
+      "Escolarización",
+      "Servicios para estudiantes",
+      "Recursos docentes"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Boletín Oficial del Principado de Asturias (BOPA)",
+    "url": "https://sede.asturias.es/bopa",
+    "comunidad_autonoma": "Asturias",
+    "organismo": "Principado de Asturias",
+    "descripcion": "Boletín oficial del Principado de Asturias con publicación de disposiciones y actos administrativos",
+    "tipo": [
+      "Boletín Oficial",
+      "Normativa",
+      "Transparencia"
+    ],
+    "hashtags": [
+      "#BOPA",
+      "#BoletínOficial",
+      "#Asturias"
+    ],
+    "servicios_principales": [
+      "Publicaciones oficiales",
+      "Disposiciones normativas",
+      "Búsqueda de contenidos",
+      "Acceso histórico"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Trabajastur - Servicio de Empleo de Asturias",
+    "url": "https://trabajastur.asturias.es/",
+    "comunidad_autonoma": "Asturias",
+    "organismo": "Servicio Público de Empleo del Principado de Asturias (SEPEPA)",
+    "nivel": "autonomico",
+    "descripcion": "Portal de empleo de Asturias con ofertas de trabajo, formación y gestión de demanda de empleo",
+    "tipo": [
+      "portal_empleo",
+      "servicios_empleo"
+    ],
+    "hashtags": [
+      "#empleo",
+      "#trabajastur",
+      "#asturias"
+    ],
+    "servicios_principales": [
+      "Ofertas de empleo",
+      "Inscripción como demandante",
+      "Formación profesional"
+    ]
+  },
+  {
+    "nombre": "Vivienda y Territorio - Asturias",
+    "url": "https://www.asturias.es/temas/vivienda-territorio",
+    "comunidad_autonoma": "Asturias",
+    "organismo": "Dirección General de Vivienda - Principado de Asturias",
+    "nivel": "autonomico",
+    "descripcion": "Portal de vivienda pública y protegida de Asturias con programas de ayuda habitacional",
+    "tipo": [
+      "portal_vivienda",
+      "ayudas_sociales"
+    ],
+    "hashtags": [
+      "#vivienda",
+      "#asturias",
+      "#viviendasocial"
+    ],
+    "servicios_principales": [
+      "Vivienda pública protegida",
+      "Ayudas al alquiler",
+      "Rehabilitación de viviendas"
+    ]
+  },
+  {
+    "nombre": "Portal de Transparencia del Principado de Asturias",
+    "url": "https://transparencia.asturias.es/",
+    "comunidad_autonoma": "Asturias",
+    "organismo": "Principado de Asturias",
+    "nivel": "autonomico",
+    "descripcion": "Portal de transparencia de Asturias con acceso a información administrativa y datos abiertos",
+    "tipo": [
+      "transparencia",
+      "datos_abiertos"
+    ],
+    "hashtags": [
+      "#transparencia",
+      "#datosabiertos",
+      "#asturias"
+    ],
+    "servicios_principales": [
+      "Publicidad activa",
+      "Datos abiertos",
+      "Acceso a información pública"
+    ]
+  },
+  {
+    "nombre": "Servicios Tributarios del Principado de Asturias",
+    "url": "https://www.tributasenasturias.es/",
+    "comunidad_autonoma": "Asturias",
+    "organismo": "Dirección General de Tributos - Principado de Asturias",
+    "nivel": "autonomico",
+    "descripcion": "Portal de gestión tributaria de Asturias para impuestos y tributos autonómicos",
+    "tipo": [
+      "tributos",
+      "hacienda"
+    ],
+    "hashtags": [
+      "#tributos",
+      "#impuestos",
+      "#asturias",
+      "#hacienda"
+    ],
+    "servicios_principales": [
+      "Gestión de impuestos autonómicos",
+      "Pago telemático de tributos",
+      "Información tributaria"
+    ]
+  },
+  {
+    "nombre": "Gobierno de Canarias - Portal Oficial",
+    "url": "https://www.gobiernodecanarias.org/",
+    "comunidad_autonoma": "Canarias",
+    "organismo": "Gobierno de Canarias",
+    "descripcion": "Portal principal del gobierno canario con acceso a servicios y información administrativos",
+    "tipo": [
+      "Portal Principal",
+      "Servicios Digitales",
+      "Administración"
+    ],
+    "hashtags": [
+      "#GobiernoCanarias",
+      "#PortalOficial",
+      "#Canarias"
+    ],
+    "servicios_principales": [
+      "Servicios ciudadanía",
+      "Información administrativa",
+      "Trámites digitales",
+      "Recursos sectoriales"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Sede Electrónica - Gobierno de Canarias",
+    "url": "https://sede.gobiernodecanarias.org/sede/",
+    "comunidad_autonoma": "Canarias",
+    "organismo": "Gobierno de Canarias",
+    "descripcion": "Plataforma de administración electrónica canaria para tramitación de procedimientos digitales",
+    "tipo": [
+      "Sede Electrónica",
+      "Servicios Digitales",
+      "Gestión Electrónica"
+    ],
+    "hashtags": [
+      "#SedeCanarias",
+      "#TrámitesOnline",
+      "#AdminElectrónica"
+    ],
+    "servicios_principales": [
+      "Tramitación electrónica",
+      "Registro telemático",
+      "Presentación procedimientos",
+      "Notificaciones digitales"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Servicio Canario de Empleo (SCE)",
+    "url": "https://www.gobiernodecanarias.org/empleo/sce/principal/",
+    "comunidad_autonoma": "Canarias",
+    "organismo": "Servicio Canario de Empleo",
+    "descripcion": "Portal de empleo del Servicio Canario de Empleo para búsqueda de oferta laboral y registro de demandantes",
+    "tipo": [
+      "Portal Empleo",
+      "Servicios Digitales",
+      "Empleo"
+    ],
+    "hashtags": [
+      "#SCE",
+      "#EmpleoCanarias",
+      "#OfertasEmpleo"
+    ],
+    "servicios_principales": [
+      "Bolsa de empleo",
+      "Registro de demandantes",
+      "Oferta pública",
+      "Orientación laboral"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "miCita Previa - Citas Médicas Canarias",
+    "url": "https://www3.gobiernodecanarias.org/citasalud/",
+    "comunidad_autonoma": "Canarias",
+    "organismo": "Servicio Canario de la Salud",
+    "descripcion": "Portal digital para solicitud de citas médicas en el Servicio Canario de la Salud",
+    "tipo": [
+      "Portal Salud",
+      "Cita Previa",
+      "Servicios Digitales"
+    ],
+    "hashtags": [
+      "#miCita",
+      "#CitaPrevia",
+      "#SCS",
+      "#Salud"
+    ],
+    "servicios_principales": [
+      "Solicitud citas médicas",
+      "Gestión de citas",
+      "Historial de citas",
+      "Cambio y cancelación"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Boletín Oficial de Canarias (BOC)",
+    "url": "https://www.gobiernodecanarias.org/otros/boletines_oficiales/",
+    "comunidad_autonoma": "Canarias",
+    "organismo": "Gobierno de Canarias",
+    "descripcion": "Boletín oficial de Canarias con publicación de disposiciones normativas y actos de la administración",
+    "tipo": [
+      "Boletín Oficial",
+      "Normativa",
+      "Transparencia"
+    ],
+    "hashtags": [
+      "#BOC",
+      "#BoletínOficial",
+      "#Canarias"
+    ],
+    "servicios_principales": [
+      "Publicaciones oficiales",
+      "Disposiciones normativas",
+      "Búsqueda de contenidos",
+      "Acceso histórico desde 1980"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Educación de Canarias",
+    "url": "https://www.gobiernodecanarias.org/educacion/web/",
+    "comunidad_autonoma": "Canarias",
+    "organismo": "Consejería de Educación, Formación Profesional, Actividad Física y Deportes",
+    "nivel": "autonomico",
+    "descripcion": "Portal educativo de Canarias con recursos digitales e información sobre centros y servicios educativos",
+    "tipo": [
+      "portal_educacion",
+      "servicios_educativos"
+    ],
+    "hashtags": [
+      "#educacion",
+      "#canarias",
+      "#escuelas"
+    ],
+    "servicios_principales": [
+      "Recursos educativos",
+      "Portal de centros",
+      "Programas educativos"
+    ]
+  },
+  {
+    "nombre": "Instituto Canario de la Vivienda",
+    "url": "https://www.gobiernodecanarias.org/vivienda/",
+    "comunidad_autonoma": "Canarias",
+    "organismo": "Consejería de Vivienda - Gobierno de Canarias",
+    "nivel": "autonomico",
+    "descripcion": "Portal de vivienda de Canarias con servicios de vivienda protegida y ayudas habitacionales",
+    "tipo": [
+      "portal_vivienda",
+      "ayudas_sociales"
+    ],
+    "hashtags": [
+      "#vivienda",
+      "#canarias",
+      "#viviendasocial"
+    ],
+    "servicios_principales": [
+      "Vivienda protegida",
+      "Registro de agentes inmobiliarios",
+      "Programas de ayuda"
+    ]
+  },
+  {
+    "nombre": "Portal de Transparencia de Canarias",
+    "url": "https://www.gobiernodecanarias.org/transparencia/",
+    "comunidad_autonoma": "Canarias",
+    "organismo": "Gobierno de Canarias",
+    "nivel": "autonomico",
+    "descripcion": "Portal de transparencia y datos abiertos de Canarias",
+    "tipo": [
+      "transparencia",
+      "datos_abiertos"
+    ],
+    "hashtags": [
+      "#transparencia",
+      "#datosabiertos",
+      "#canarias"
+    ],
+    "servicios_principales": [
+      "Datos abiertos",
+      "Información de contratación",
+      "Presupuestos"
+    ]
+  },
+  {
+    "nombre": "Agencia Tributaria Canaria",
+    "url": "https://www3.gobiernodecanarias.org/tributos/atc/",
+    "comunidad_autonoma": "Canarias",
+    "organismo": "Agencia Tributaria Canaria",
+    "nivel": "autonomico",
+    "descripcion": "Gestión tributaria de Canarias con régimen fiscal especial (IGIC, REF)",
+    "tipo": [
+      "tributos",
+      "hacienda"
+    ],
+    "hashtags": [
+      "#tributos",
+      "#impuestos",
+      "#canarias",
+      "#IGIC"
+    ],
+    "servicios_principales": [
+      "Gestión de tributos autonómicos",
+      "Régimen fiscal especial",
+      "Servicios tributarios"
+    ]
+  },
+  {
+    "nombre": "Gobierno de Cantabria - Portal Oficial",
+    "url": "https://www.cantabria.es/",
+    "comunidad_autonoma": "Cantabria",
+    "organismo": "Gobierno de Cantabria",
+    "descripcion": "Portal principal del gobierno de Cantabria con servicios administrativos y información ciudadana",
+    "tipo": [
+      "Portal Principal",
+      "Servicios Digitales",
+      "Administración"
+    ],
+    "hashtags": [
+      "#GobiernoCantabria",
+      "#PortalOficial",
+      "#Cantabria"
+    ],
+    "servicios_principales": [
+      "Servicios ciudadania",
+      "Trámites online",
+      "Información sectorial",
+      "Atención al ciudadano"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Sede Electrónica - Gobierno de Cantabria",
+    "url": "https://sede.cantabria.es/sede/",
+    "comunidad_autonoma": "Cantabria",
+    "organismo": "Gobierno de Cantabria",
+    "descripcion": "Plataforma de tramitación electrónica de Cantabria para realizar procedimientos administrativos de forma telemática",
+    "tipo": [
+      "Sede Electrónica",
+      "Servicios Digitales",
+      "Gestión Electrónica"
+    ],
+    "hashtags": [
+      "#SedeCantabria",
+      "#TrámitesOnline",
+      "#AdminElectrónica"
+    ],
+    "servicios_principales": [
+      "Tramites electrónicos",
+      "Registro telemático",
+      "Área personal",
+      "Gestión de procedimientos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "EmpleaCantabria - Portal de Empleo",
+    "url": "https://empleacantabria.es/",
+    "comunidad_autonoma": "Cantabria",
+    "organismo": "Servicio Cántabro de Empleo",
+    "descripcion": "Portal del Servicio Cántabro de Empleo para búsqueda de ofertas de trabajo y orientación laboral",
+    "tipo": [
+      "Portal Empleo",
+      "Servicios Digitales",
+      "Empleo"
+    ],
+    "hashtags": [
+      "#EmpleaCantabria",
+      "#EmpleoPublico",
+      "#OfertasEmpleo"
+    ],
+    "servicios_principales": [
+      "Oferta de empleo público",
+      "Búsqueda de oportunidades",
+      "Inscripción demandantes",
+      "Orientación empleo"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Vivienda de Cantabria - Portal de Vivienda",
+    "url": "https://www.viviendadecantabria.es",
+    "comunidad_autonoma": "Cantabria",
+    "organismo": "Consejería de Vivienda",
+    "descripcion": "Portal especializado en vivienda y ayudas para acceso a vivienda en Cantabria",
+    "tipo": [
+      "Portal Vivienda",
+      "Ayudas Vivienda",
+      "Servicios Digitales"
+    ],
+    "hashtags": [
+      "#Vivienda",
+      "#AyudasVivienda",
+      "#ViviendaCantabria"
+    ],
+    "servicios_principales": [
+      "Ayudas de vivienda",
+      "Información de subvenciones",
+      "Programas jóvenes",
+      "Alquiler vivienda"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Boletín Oficial de Cantabria (BOC)",
+    "url": "https://boc.cantabria.es/boces/",
+    "comunidad_autonoma": "Cantabria",
+    "organismo": "Gobierno de Cantabria",
+    "descripcion": "Boletín oficial de Cantabria con publicación de disposiciones normativas y actos de la administración",
+    "tipo": [
+      "Boletín Oficial",
+      "Normativa",
+      "Transparencia"
+    ],
+    "hashtags": [
+      "#BOC",
+      "#BoletínOficial",
+      "#Cantabria"
+    ],
+    "servicios_principales": [
+      "Publicaciones oficiales",
+      "Disposiciones normativas",
+      "Convocatorias",
+      "Búsqueda de contenidos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Transparencia - Gobierno de Cantabria",
+    "url": "https://transparencia.cantabria.es",
+    "comunidad_autonoma": "Cantabria",
+    "organismo": "Gobierno de Cantabria",
+    "descripcion": "Portal de transparencia con información sobre gestión pública y datos abiertos de Cantabria",
+    "tipo": [
+      "Transparencia",
+      "Datos Abiertos",
+      "Información Pública"
+    ],
+    "hashtags": [
+      "#Transparencia",
+      "#DatosAbiertos",
+      "#GestiónPública"
+    ],
+    "servicios_principales": [
+      "Subvenciones y ayudas",
+      "Información de presupuestos",
+      "Datos abiertos",
+      "Gestión administrativa"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "MiSalud SCS - Salud Cantabria",
+    "url": "https://www.scsalud.es/",
+    "comunidad_autonoma": "Cantabria",
+    "organismo": "Servicio Cántabro de Salud",
+    "nivel": "autonomico",
+    "descripcion": "Portal de salud digital de Cantabria para citas previas, expediente electrónico y servicios sanitarios",
+    "tipo": [
+      "portal_salud",
+      "cita_previa"
+    ],
+    "hashtags": [
+      "#salud",
+      "#cantabria",
+      "#citaprevia",
+      "#SCS"
+    ],
+    "servicios_principales": [
+      "Cita previa médico",
+      "Expediente electrónico",
+      "Consulta de resultados"
+    ]
+  },
+  {
+    "nombre": "Educantabria - Portal de Educación",
+    "url": "https://www.educantabria.es/",
+    "comunidad_autonoma": "Cantabria",
+    "organismo": "Consejería de Educación, Formación Profesional y Universidades",
+    "nivel": "autonomico",
+    "descripcion": "Portal educativo de Cantabria con recursos digitales y servicios para centros educativos",
+    "tipo": [
+      "portal_educacion",
+      "servicios_educativos"
+    ],
+    "hashtags": [
+      "#educacion",
+      "#cantabria",
+      "#educantabria"
+    ],
+    "servicios_principales": [
+      "Recursos educativos digitales",
+      "Portal de centros educativos",
+      "Servicios administrativos"
+    ]
+  },
+  {
+    "nombre": "Agencia Cántabra de Administración Tributaria (ACAT)",
+    "url": "https://www.agenciacantabratributaria.es/",
+    "comunidad_autonoma": "Cantabria",
+    "organismo": "Agencia Cántabra de Administración Tributaria",
+    "nivel": "autonomico",
+    "descripcion": "Gestión de impuestos y tributos autonómicos de Cantabria",
+    "tipo": [
+      "tributos",
+      "hacienda"
+    ],
+    "hashtags": [
+      "#tributos",
+      "#impuestos",
+      "#cantabria",
+      "#ACAT"
+    ],
+    "servicios_principales": [
+      "Gestión de tributos propios",
+      "Pago telemático",
+      "Información tributaria"
+    ]
+  },
+  {
+    "nombre": "Página Principal de la Junta de Castilla y León",
+    "url": "https://www.jcyl.es/",
+    "comunidad_autonoma": "Castilla y León",
+    "organismo": "Junta de Castilla y León",
+    "descripcion": "Portal oficial de información y servicios del gobierno regional de Castilla y León",
+    "tipo": [
+      "Portal institucional",
+      "Información general",
+      "Acceso a servicios"
+    ],
+    "hashtags": [
+      "#CastillayLeón",
+      "#Gobierno",
+      "#JCyL"
+    ],
+    "servicios_principales": [
+      "Información institucional",
+      "Políticas regionales",
+      "Acceso a servicios públicos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Sede Electrónica de la Junta de Castilla y León",
+    "url": "https://www.tramitacastillayleon.jcyl.es/web/es/sede-electronica.html",
+    "comunidad_autonoma": "Castilla y León",
+    "organismo": "Junta de Castilla y León",
+    "descripcion": "Plataforma de administración electrónica para trámites y procedimientos administrativos",
+    "tipo": [
+      "Sede electrónica",
+      "Administración electrónica",
+      "Trámites online"
+    ],
+    "hashtags": [
+      "#SedeElectrónica",
+      "#TrámitesOnline",
+      "#AdminElectronica"
+    ],
+    "servicios_principales": [
+      "Trámites electrónicos",
+      "Procedimientos administrativos",
+      "Carpeta ciudadana"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "SACYL - Servicio de Salud de Castilla y León",
+    "url": "https://www.saludcastillayleon.es/",
+    "comunidad_autonoma": "Castilla y León",
+    "organismo": "Consejería de Sanidad",
+    "descripcion": "Portal de salud con acceso a cita previa médica y gestión sanitaria regional",
+    "tipo": [
+      "Portal de salud",
+      "Cita previa",
+      "Información sanitaria"
+    ],
+    "hashtags": [
+      "#Salud",
+      "#SACYL",
+      "#CitaPrevia"
+    ],
+    "servicios_principales": [
+      "Cita previa médica",
+      "Información de centros sanitarios",
+      "Consulta de resultados"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Empleo de la Junta de Castilla y León",
+    "url": "https://empleo.jcyl.es/web/es/busco-empleo/buscador-ofertas-empleo.html",
+    "comunidad_autonoma": "Castilla y León",
+    "organismo": "Consejería de Economía y Empleo",
+    "descripcion": "Buscador de ofertas de empleo y servicios del servicio público de empleo regional",
+    "tipo": [
+      "Portal de empleo",
+      "Bolsa de trabajo",
+      "Intermediación laboral"
+    ],
+    "hashtags": [
+      "#Empleo",
+      "#ECyL",
+      "#BolsaTrabajo"
+    ],
+    "servicios_principales": [
+      "Búsqueda de empleo",
+      "Ofertas de trabajo",
+      "Acceso a servicios de empleo"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Educación de la Junta de Castilla y León",
+    "url": "https://www.educa.jcyl.es/",
+    "comunidad_autonoma": "Castilla y León",
+    "organismo": "Consejería de Educación",
+    "descripcion": "Portal educativo Educacyl con plataforma de aulas virtuales y recursos educativos",
+    "tipo": [
+      "Portal educativo",
+      "Plataforma digital",
+      "Aulas virtuales"
+    ],
+    "hashtags": [
+      "#Educacyl",
+      "#PortalEducativo",
+      "#AulasVirtuales"
+    ],
+    "servicios_principales": [
+      "Aula Educacyl",
+      "Recursos educativos",
+      "Gestión escolar",
+      "Acceso a plataformas"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Vivienda y Urbanismo de Castilla y León",
+    "url": "https://vivienda.jcyl.es/web/es/vivienda-urbanismo.html",
+    "comunidad_autonoma": "Castilla y León",
+    "organismo": "Consejería de Vivienda y Asuntos Sociales",
+    "descripcion": "Portal con programas de ayuda a la vivienda, subvenciones y acceso a vivienda",
+    "tipo": [
+      "Portal de vivienda",
+      "Ayudas y subvenciones",
+      "Información de vivienda"
+    ],
+    "hashtags": [
+      "#Vivienda",
+      "#Ayudas",
+      "#SubvencionesCyL"
+    ],
+    "servicios_principales": [
+      "Ayudas al alquiler",
+      "Garantías para primera vivienda",
+      "Rehabilitación de viviendas"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Boletín Oficial de Castilla y León (BOCyL)",
+    "url": "https://bocyl.jcyl.es/",
+    "comunidad_autonoma": "Castilla y León",
+    "organismo": "Junta de Castilla y León",
+    "descripcion": "Boletín oficial con publicación de disposiciones legales y actos administrativos",
+    "tipo": [
+      "Boletín oficial",
+      "Transparencia",
+      "Publicaciones oficiales"
+    ],
+    "hashtags": [
+      "#BOCyL",
+      "#BoletonOficial",
+      "#Transparencia"
+    ],
+    "servicios_principales": [
+      "Publicación de leyes",
+      "Órdenes y decretos",
+      "Convocatorias públicas"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Tributos de Castilla y León",
+    "url": "https://tributos.jcyl.es/web/es/tributos-castilla-leon.html",
+    "comunidad_autonoma": "Castilla y León",
+    "organismo": "Consejería de Hacienda y Administración Pública",
+    "descripcion": "Portal de gestión de tributos autonómicos y servicios fiscales",
+    "tipo": [
+      "Portal fiscal",
+      "Tributos autonómicos",
+      "Servicios tributarios"
+    ],
+    "hashtags": [
+      "#Tributos",
+      "#Hacienda",
+      "#ImuestoCyL"
+    ],
+    "servicios_principales": [
+      "Información tributaria",
+      "Oficina virtual de impuestos",
+      "Pago de tributos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal Principal del Gobierno de Castilla-La Mancha",
+    "url": "https://www.castillalamancha.es/",
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "organismo": "Junta de Comunidades de Castilla-La Mancha",
+    "descripcion": "Portal oficial de información y servicios del gobierno regional de Castilla-La Mancha",
+    "tipo": [
+      "Portal institucional",
+      "Información general",
+      "Acceso a servicios"
+    ],
+    "hashtags": [
+      "#CastillaLaMancha",
+      "#Gobierno",
+      "#AdminPublica"
+    ],
+    "servicios_principales": [
+      "Información institucional",
+      "Acceso a servicios públicos",
+      "Información de políticas regionales"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Sede Electrónica de la Junta de Comunidades de Castilla-La Mancha",
+    "url": "https://www.jccm.es/",
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "organismo": "Junta de Comunidades de Castilla-La Mancha",
+    "descripcion": "Plataforma electrónica para realizar trámites y procedimientos administrativos con la administración regional",
+    "tipo": [
+      "Sede electrónica",
+      "Administración electrónica",
+      "Trámites online"
+    ],
+    "hashtags": [
+      "#SedeElectrónica",
+      "#TrámitesOnline",
+      "#AdminElectronica"
+    ],
+    "servicios_principales": [
+      "Trámites electrónicos",
+      "Procedimientos administrativos",
+      "Notificaciones electrónicas"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Servicio de Salud de Castilla-La Mancha (SESCAM)",
+    "url": "https://sanidad.castillalamancha.es/",
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "organismo": "Consejería de Sanidad",
+    "descripcion": "Portal de salud con acceso a cita previa médica, información de centros sanitarios y servicios de salud",
+    "tipo": [
+      "Portal de salud",
+      "Cita previa",
+      "Información sanitaria"
+    ],
+    "hashtags": [
+      "#Salud",
+      "#CitaPrevia",
+      "#SESCAM"
+    ],
+    "servicios_principales": [
+      "Cita previa médica",
+      "Información de centros de salud",
+      "Mi Salud Digital",
+      "Consultas sanitarias"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Empleo Público de Castilla-La Mancha",
+    "url": "https://empleopublico.castillalamancha.es/",
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "organismo": "Consejería de Economía, Empresas y Empleo",
+    "descripcion": "Portal especializado en empleo público con bolsas de trabajo y procesos selectivos",
+    "tipo": [
+      "Portal de empleo",
+      "Bolsa de trabajo",
+      "Empleo público"
+    ],
+    "hashtags": [
+      "#Empleo",
+      "#EmpleoPublico",
+      "#BolsaTrabajo"
+    ],
+    "servicios_principales": [
+      "Bolsas de empleo",
+      "Procesos selectivos",
+      "Información de oposiciones"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Educación de Castilla-La Mancha",
+    "url": "https://educacion.castillalamancha.es/",
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "organismo": "Consejería de Educación, Cultura y Deportes",
+    "descripcion": "Portal educativo con acceso a EducamosCLM y servicios para la comunidad educativa",
+    "tipo": [
+      "Portal educativo",
+      "Plataforma digital",
+      "Servicios educativos"
+    ],
+    "hashtags": [
+      "#Educación",
+      "#EducamosCLM",
+      "#PortalEducativo"
+    ],
+    "servicios_principales": [
+      "EducamosCLM",
+      "Información educativa",
+      "Servicios a familias",
+      "Acceso a recursos educativos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Vivienda de Castilla-La Mancha",
+    "url": "https://vivienda.castillalamancha.es/",
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "organismo": "Dirección General de Vivienda",
+    "descripcion": "Portal especializado en programas de vivienda con ayudas y subvenciones para acceso a vivienda",
+    "tipo": [
+      "Portal de vivienda",
+      "Ayudas y subvenciones",
+      "Información de vivienda"
+    ],
+    "hashtags": [
+      "#Vivienda",
+      "#Ayudas",
+      "#Subvenciones"
+    ],
+    "servicios_principales": [
+      "Ayudas para compra de vivienda",
+      "Ayudas al alquiler",
+      "Rehabilitación de viviendas"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Diario Oficial de Castilla-La Mancha (DOCM)",
+    "url": "https://docm.jccm.es/docm/",
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "organismo": "Junta de Comunidades de Castilla-La Mancha",
+    "descripcion": "Boletín oficial donde se publican leyes, decretos y actos administrativos de la comunidad",
+    "tipo": [
+      "Boletín oficial",
+      "Transparencia",
+      "Publicaciones oficiales"
+    ],
+    "hashtags": [
+      "#DOCM",
+      "#BoletonOficial",
+      "#Transparencia"
+    ],
+    "servicios_principales": [
+      "Publicación de leyes",
+      "Decretos y órdenes",
+      "Convocatorias públicas"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal Tributario de Castilla-La Mancha",
+    "url": "https://portaltributario.jccm.es/",
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "organismo": "Consejería de Hacienda y Administraciones Públicas",
+    "descripcion": "Portal de gestión de tributos autonómicos con información fiscal y servicios tributarios",
+    "tipo": [
+      "Portal fiscal",
+      "Tributos autonómicos",
+      "Servicios tributarios"
+    ],
+    "hashtags": [
+      "#Tributos",
+      "#Hacienda",
+      "#ImuestosCLM"
+    ],
+    "servicios_principales": [
+      "Información tributaria",
+      "Consultas de impuestos",
+      "Beneficios fiscales",
+      "Pago de tributos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Empleo CLM",
+    "url": "https://empleo.castillalamancha.es/",
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "organismo": "Consejería de Economía, Empresas y Empleo",
+    "descripcion": "Plataforma de intermediación laboral para registro de ofertas de empleo y candidaturas",
+    "tipo": [
+      "Portal de empleo",
+      "Intermediación laboral",
+      "Ofertas de trabajo"
+    ],
+    "hashtags": [
+      "#EmpleoCLM",
+      "#BolsaTrabajo",
+      "#Intermediación"
+    ],
+    "servicios_principales": [
+      "Búsqueda de empleo",
+      "Publicación de ofertas",
+      "Gestión de candidaturas"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Mi Salud Digital CLM",
+    "url": "https://sanidad.castillalamancha.es/ciudadanos/mi-salud-digital",
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "organismo": "Servicio de Salud de Castilla-La Mancha",
+    "descripcion": "Aplicación digital para consulta de medicinas en farmacia y gestión de salud digital",
+    "tipo": [
+      "Aplicación móvil",
+      "Salud digital",
+      "Servicios sanitarios"
+    ],
+    "hashtags": [
+      "#MiSaludDigital",
+      "#Farmacia",
+      "#SaludDigital"
+    ],
+    "servicios_principales": [
+      "Consulta de medicamentos",
+      "Tarjeta de salud virtual",
+      "Gestión de citas médicas"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Sede Electrónica de la Generalitat de Catalunya",
+    "url": "https://web.gencat.cat/en/seu-electronica",
+    "comunidad_autonoma": "Cataluña",
+    "organismo": "Generalitat de Catalunya",
+    "descripcion": "Sede electrónica para servicios y trámites administrativos de la Generalitat",
+    "tipo": [
+      "Sede electrónica",
+      "Administración electrónica",
+      "Trámites online"
+    ],
+    "hashtags": [
+      "#SedeElectrónica",
+      "#Generalitat",
+      "#AdminElectronica"
+    ],
+    "servicios_principales": [
+      "Trámites y servicios",
+      "Notificaciones electrónicas",
+      "Acceso a procedimientos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "CatSalut - Servei Català de la Salut",
+    "url": "https://catsalut.gencat.cat/",
+    "comunidad_autonoma": "Cataluña",
+    "organismo": "Conselleria de Salud",
+    "descripcion": "Portal de salud con acceso a cita previa médica y servicios del sistema de salud catalán",
+    "tipo": [
+      "Portal de salud",
+      "Cita previa",
+      "Información sanitaria"
+    ],
+    "hashtags": [
+      "#CatSalut",
+      "#Salud",
+      "#CitaPrevia"
+    ],
+    "servicios_principales": [
+      "Cita previa médica",
+      "La Meva Salut",
+      "Información de centros sanitarios"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Servei Públic d'Ocupació de Catalunya (SOC)",
+    "url": "https://serveiocupacio.gencat.cat/es/inici/index.html",
+    "comunidad_autonoma": "Cataluña",
+    "organismo": "Generalitat de Catalunya",
+    "descripcion": "Servicio público de empleo de Cataluña con bolsa de trabajo y servicios de intermediación",
+    "tipo": [
+      "Portal de empleo",
+      "Bolsa de trabajo",
+      "Intermediación laboral"
+    ],
+    "hashtags": [
+      "#SOC",
+      "#Empleo",
+      "#FeinaActiva"
+    ],
+    "servicios_principales": [
+      "Portal Feina Activa",
+      "Búsqueda de empleo",
+      "Intermediación laboral"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Educación y Formación - Generalitat de Catalunya",
+    "url": "https://web.gencat.cat/en/ciutadania/serveis/educacio-formacio",
+    "comunidad_autonoma": "Cataluña",
+    "organismo": "Departament d'Educació",
+    "descripcion": "Portal educativo de la Generalitat de Catalunya con información y servicios educativos",
+    "tipo": [
+      "Portal educativo",
+      "Servicios educativos",
+      "Información educativa"
+    ],
+    "hashtags": [
+      "#Educació",
+      "#Generalitat",
+      "#PortalEducativo"
+    ],
+    "servicios_principales": [
+      "Información educativa",
+      "Servicios escolares",
+      "Acceso a recursos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Agència de l'Habitatge de Catalunya",
+    "url": "https://agenciahabitatge.gencat.cat/",
+    "comunidad_autonoma": "Cataluña",
+    "organismo": "Generalitat de Catalunya",
+    "descripcion": "Agencia de vivienda con buscador de ayudas y programas de acceso a vivienda",
+    "tipo": [
+      "Portal de vivienda",
+      "Ayudas y subvenciones",
+      "Información de vivienda"
+    ],
+    "hashtags": [
+      "#Habitatge",
+      "#Ayudas",
+      "#Vivienda"
+    ],
+    "servicios_principales": [
+      "Buscador de ayudas",
+      "Subvenciones de alquiler",
+      "Programas de acceso a vivienda"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Diari Oficial de la Generalitat de Catalunya (DOGC)",
+    "url": "https://dogc.gencat.cat/",
+    "comunidad_autonoma": "Cataluña",
+    "organismo": "Generalitat de Catalunya",
+    "descripcion": "Boletín oficial de Cataluña con publicaciones de disposiciones legales y actos administrativos",
+    "tipo": [
+      "Boletín oficial",
+      "Transparencia",
+      "Publicaciones oficiales"
+    ],
+    "hashtags": [
+      "#DOGC",
+      "#BoletonOficial",
+      "#Transparencia"
+    ],
+    "servicios_principales": [
+      "Publicación de leyes",
+      "Disposiciones legales",
+      "Actos administrativos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Agència Tributaria de Catalunya (ATC)",
+    "url": "https://atc.gencat.cat/",
+    "comunidad_autonoma": "Cataluña",
+    "organismo": "Generalitat de Catalunya",
+    "descripcion": "Agencia tributaria encargada de la gestión y recaudación de tributos autonómicos",
+    "tipo": [
+      "Portal fiscal",
+      "Tributos autonómicos",
+      "Servicios tributarios"
+    ],
+    "hashtags": [
+      "#ATC",
+      "#Tributos",
+      "#Hacienda"
+    ],
+    "servicios_principales": [
+      "Información tributaria",
+      "Gestión de impuestos",
+      "Servicios fiscales"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Gencat - Portal Principal Generalitat de Catalunya",
+    "url": "https://web.gencat.cat/",
+    "comunidad_autonoma": "Cataluña",
+    "organismo": "Generalitat de Catalunya",
+    "nivel": "autonomico",
+    "descripcion": "Portal principal de la Generalitat de Catalunya con información sobre administración y servicios ciudadanos",
+    "tipo": [
+      "portal_web",
+      "portal_institucional"
+    ],
+    "hashtags": [
+      "#cataluña",
+      "#gencat",
+      "#generalitat"
+    ],
+    "servicios_principales": [
+      "Información general",
+      "Tramitación de procedimientos",
+      "Servicios ciudadanos"
+    ]
+  },
+  {
+    "nombre": "Portal de Transparència de Catalunya",
+    "url": "https://governobert.gencat.cat/ca/transparencia/",
+    "comunidad_autonoma": "Cataluña",
+    "organismo": "Generalitat de Catalunya",
+    "nivel": "autonomico",
+    "descripcion": "Portal de transparencia y gobierno abierto de la Generalitat de Catalunya",
+    "tipo": [
+      "transparencia",
+      "datos_abiertos"
+    ],
+    "hashtags": [
+      "#transparencia",
+      "#datosabiertos",
+      "#cataluña",
+      "#governobert"
+    ],
+    "servicios_principales": [
+      "Datos abiertos",
+      "Información de contratación",
+      "Publicidad activa"
+    ]
+  },
+  {
+    "nombre": "Ciudad Autónoma de Ceuta - Portal Oficial",
+    "url": "https://www.ceuta.es/",
+    "comunidad_autonoma": "Ceuta",
+    "organismo": "Ciudad Autónoma de Ceuta",
+    "descripcion": "Portal oficial de la Ciudad Autónoma de Ceuta con servicios e información",
+    "tipo": [
+      "portal_web",
+      "portal_institucional"
+    ],
+    "hashtags": [
+      "#ceuta",
+      "#ciudadautonoma",
+      "#gobierno"
+    ],
+    "servicios_principales": [
+      "Información institucional",
+      "Acceso a servicios",
+      "Trámites"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Sede Electrónica Ciudad Autónoma de Ceuta",
+    "url": "https://sede.ceuta.es/",
+    "comunidad_autonoma": "Ceuta",
+    "organismo": "Ciudad Autónoma de Ceuta",
+    "descripcion": "Portal electrónico para tramitación de procedimientos administrativos en Ceuta",
+    "tipo": [
+      "sede_electronica",
+      "administracion_digital"
+    ],
+    "hashtags": [
+      "#ceuta",
+      "#sedeelectronica",
+      "#tramites"
+    ],
+    "servicios_principales": [
+      "Tramitación electrónica",
+      "Registro electrónico",
+      "Certificados"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Cita Previa Médica INGESA - Ceuta",
+    "url": "https://citaweb-ingesa.sanidad.gob.es/",
+    "comunidad_autonoma": "Ceuta",
+    "organismo": "INGESA - Área Sanitaria de Ceuta",
+    "descripcion": "Sistema de cita previa para centros de salud gestionados por INGESA en Ceuta",
+    "tipo": [
+      "portal_salud",
+      "cita_previa"
+    ],
+    "hashtags": [
+      "#ceuta",
+      "#salud",
+      "#citaprevia",
+      "#INGESA"
+    ],
+    "servicios_principales": [
+      "Cita previa online",
+      "App móvil INGESA",
+      "Consulta de citas"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Empleo Ceuta",
+    "url": "https://www.ceuta.es/ceuta/empleo",
+    "comunidad_autonoma": "Ceuta",
+    "organismo": "Consejería de Economía y Empleo",
+    "descripcion": "Portal de empleo de la Ciudad Autónoma de Ceuta",
+    "tipo": [
+      "portal_empleo",
+      "servicios_empleo"
+    ],
+    "hashtags": [
+      "#ceuta",
+      "#empleo",
+      "#trabajo"
+    ],
+    "servicios_principales": [
+      "Ofertas de empleo",
+      "Registro de candidatos",
+      "Formación"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Educación Ciudad Autónoma de Ceuta",
+    "url": "https://www.ceuta.es/ceuta/educacion",
+    "comunidad_autonoma": "Ceuta",
+    "organismo": "Consejería de Educación",
+    "descripcion": "Portal educativo con información sobre servicios educativos en Ceuta",
+    "tipo": [
+      "portal_educacion",
+      "servicios_educativos"
+    ],
+    "hashtags": [
+      "#ceuta",
+      "#educacion",
+      "#escuela"
+    ],
+    "servicios_principales": [
+      "Información educativa",
+      "Becas",
+      "Convocatorias escolares"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "BOCCE - Boletín Oficial de la Ciudad de Ceuta",
+    "url": "https://www.ceuta.es/ceuta/bocce",
+    "comunidad_autonoma": "Ceuta",
+    "organismo": "Ciudad Autónoma de Ceuta",
+    "descripcion": "Boletín Oficial de la Ciudad de Ceuta con publicación de normas y disposiciones",
+    "tipo": [
+      "boletin_oficial",
+      "publicaciones"
+    ],
+    "hashtags": [
+      "#ceuta",
+      "#BOCCE",
+      "#boletin",
+      "#legislacion"
+    ],
+    "servicios_principales": [
+      "Publicación oficial",
+      "Disposiciones administrativas",
+      "Actos oficiales"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Tributos Ceuta - IPSI",
+    "url": "https://www.tributosceuta.org/",
+    "comunidad_autonoma": "Ceuta",
+    "organismo": "Organismo Autónomo de Servicios Tributarios",
+    "descripcion": "Gestión tributaria con régimen especial IPSI (en lugar de IVA) y bonificaciones fiscales",
+    "tipo": [
+      "tributos",
+      "hacienda"
+    ],
+    "hashtags": [
+      "#ceuta",
+      "#tributos",
+      "#IPSI",
+      "#impuestos"
+    ],
+    "servicios_principales": [
+      "Gestión tributaria",
+      "IPSI",
+      "Bonificaciones fiscales"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Comunidad de Madrid - Portal Oficial",
+    "url": "https://www.comunidad.madrid/",
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "organismo": "Gobierno de la Comunidad de Madrid",
+    "descripcion": "Portal principal del gobierno autonómico de Madrid con acceso a servicios e información",
+    "tipo": [
+      "portal_web",
+      "portal_institucional"
+    ],
+    "hashtags": [
+      "#madrid",
+      "#comunidaddemadrid",
+      "#gobierno"
+    ],
+    "servicios_principales": [
+      "Información institucional",
+      "Acceso a servicios",
+      "Trámites online"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Sede Electrónica Comunidad de Madrid",
+    "url": "https://sede.comunidad.madrid/",
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "organismo": "Consejería de Digitalización",
+    "descripcion": "Portal de administración electrónica para tramitación de procedimientos con el Gobierno de Madrid",
+    "tipo": [
+      "sede_electronica",
+      "administracion_digital"
+    ],
+    "hashtags": [
+      "#madrid",
+      "#sedeelectronica",
+      "#tramites"
+    ],
+    "servicios_principales": [
+      "Tramitación electrónica",
+      "Mi Carpeta",
+      "Registro electrónico",
+      "Notificaciones electrónicas"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Cita Sanitaria Madrid",
+    "url": "https://www.comunidad.madrid/servicios/salud/cita-sanitaria",
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "organismo": "Consejería de Sanidad - SERMAS",
+    "descripcion": "Portal de cita previa para medicina de familia, pediatría, enfermería y otros servicios sanitarios",
+    "tipo": [
+      "portal_salud",
+      "cita_previa"
+    ],
+    "hashtags": [
+      "#madrid",
+      "#salud",
+      "#citaprevia",
+      "#SERMAS"
+    ],
+    "servicios_principales": [
+      "Cita previa online",
+      "Consulta de citas",
+      "App móvil",
+      "Atención telefónica 24h"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Oficina Virtual de Empleo Madrid",
+    "url": "https://oficinavirtualempleo.comunidad.madrid/",
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "organismo": "Consejería de Economía, Empleo y Transformación Digital",
+    "descripcion": "Plataforma para gestión de trámites con el sistema público de empleo de Madrid",
+    "tipo": [
+      "portal_empleo",
+      "servicios_empleo"
+    ],
+    "hashtags": [
+      "#madrid",
+      "#empleo",
+      "#oficinavirtual",
+      "#trabajo"
+    ],
+    "servicios_principales": [
+      "Registro como demandante",
+      "Ofertas de empleo",
+      "Renovación de demanda",
+      "Formación profesional"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Educación Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/educacion",
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "organismo": "Consejería de Educación",
+    "descripcion": "Portal principal con información sobre servicios educativos, becas, ayudas y escolarización",
+    "tipo": [
+      "portal_educacion",
+      "servicios_educativos"
+    ],
+    "hashtags": [
+      "#madrid",
+      "#educacion",
+      "#becas",
+      "#escuela"
+    ],
+    "servicios_principales": [
+      "Solicitud de becas",
+      "Escolarización",
+      "Información educativa",
+      "Ayudas escolares"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Vivienda Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/vivienda",
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "organismo": "Consejería de Vivienda",
+    "descripcion": "Portal dedicado a vivienda protegida, ayudas al alquiler y acceso a la vivienda",
+    "tipo": [
+      "portal_vivienda",
+      "ayudas_sociales"
+    ],
+    "hashtags": [
+      "#madrid",
+      "#vivienda",
+      "#alquiler",
+      "#ayudas"
+    ],
+    "servicios_principales": [
+      "Bono vivienda",
+      "Ayudas al alquiler",
+      "Vivienda protegida",
+      "Programa Reviva Madrid"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Transparencia Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/transparencia",
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "organismo": "Secretaría General",
+    "descripcion": "Portal de transparencia y datos abiertos del Gobierno de Madrid",
+    "tipo": [
+      "transparencia",
+      "datos_abiertos"
+    ],
+    "hashtags": [
+      "#madrid",
+      "#transparencia",
+      "#datosabiertos"
+    ],
+    "servicios_principales": [
+      "Acceso a información pública",
+      "Datos abiertos",
+      "Presupuestos públicos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Boletín Oficial de la Comunidad de Madrid (BOCM)",
+    "url": "https://www.bocm.es/",
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "organismo": "Organismo Autónomo BOCM",
+    "descripcion": "Publicación oficial de disposiciones y actos de la administración regional madrileña",
+    "tipo": [
+      "boletin_oficial",
+      "publicaciones"
+    ],
+    "hashtags": [
+      "#madrid",
+      "#BOCM",
+      "#boletin",
+      "#legislacion"
+    ],
+    "servicios_principales": [
+      "Publicación de normas",
+      "Disposiciones administrativas",
+      "Convocatorias públicas"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Tributos Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/atencion-contribuyente/tributos",
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "organismo": "Consejería de Hacienda",
+    "descripcion": "Gestión de tributos cedidos y propios de la Comunidad de Madrid",
+    "tipo": [
+      "tributos",
+      "hacienda"
+    ],
+    "hashtags": [
+      "#madrid",
+      "#tributos",
+      "#impuestos",
+      "#hacienda"
+    ],
+    "servicios_principales": [
+      "IRPF autonómico",
+      "Gestión tributaria",
+      "Información fiscal"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Generalitat Valenciana - Portal Oficial",
+    "url": "https://www.gva.es/",
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "organismo": "Generalitat Valenciana",
+    "descripcion": "Portal principal de la Generalitat Valenciana con acceso a servicios e información",
+    "tipo": [
+      "portal_web",
+      "portal_institucional"
+    ],
+    "hashtags": [
+      "#valencia",
+      "#comunitatvalenciana",
+      "#generalitat"
+    ],
+    "servicios_principales": [
+      "Información institucional",
+      "Acceso a servicios",
+      "Trámites online"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Sede Electrónica Generalitat Valenciana",
+    "url": "https://sede.gva.es/",
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "organismo": "Administración de la Generalitat Valenciana",
+    "descripcion": "Portal electrónico para trámites y procedimientos con la administración valenciana",
+    "tipo": [
+      "sede_electronica",
+      "administracion_digital"
+    ],
+    "hashtags": [
+      "#valencia",
+      "#sedeelectronica",
+      "#tramites"
+    ],
+    "servicios_principales": [
+      "Tramitación electrónica",
+      "Mi Carpeta",
+      "Procedimientos diversos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal del Paciente - Conselleria de Sanitat",
+    "url": "https://www.san.gva.es/es/web/portal-del-paciente",
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "organismo": "Conselleria de Sanitat",
+    "descripcion": "Portal del Paciente para cita previa en atención primaria y consultar servicios sanitarios",
+    "tipo": [
+      "portal_salud",
+      "cita_previa"
+    ],
+    "hashtags": [
+      "#valencia",
+      "#salud",
+      "#citaprevia",
+      "#sanitat"
+    ],
+    "servicios_principales": [
+      "Cita previa online",
+      "Portal del Paciente",
+      "Información de centros"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Labora - Servei Valencià d'Ocupació i Formació",
+    "url": "https://labora.gva.es/es/",
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "organismo": "Labora - Servei Valencià d'Ocupació i Formació",
+    "descripcion": "Portal de empleo para búsqueda de trabajo y gestión de ofertas laborales",
+    "tipo": [
+      "portal_empleo",
+      "servicios_empleo"
+    ],
+    "hashtags": [
+      "#valencia",
+      "#empleo",
+      "#labora",
+      "#trabajo"
+    ],
+    "servicios_principales": [
+      "Búsqueda de empleo",
+      "Registro de candidatos",
+      "GVAJobs",
+      "Formación profesional"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Conselleria d'Educació - Generalitat Valenciana",
+    "url": "https://ceice.gva.es/es/",
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "organismo": "Conselleria d'Educació, Cultura, Universitats i Ocupació",
+    "descripcion": "Portal educativo con servicios para estudiantes, profesores y centros educativos",
+    "tipo": [
+      "portal_educacion",
+      "servicios_educativos"
+    ],
+    "hashtags": [
+      "#valencia",
+      "#educacion",
+      "#ceice"
+    ],
+    "servicios_principales": [
+      "Información educativa",
+      "Escolarización",
+      "Becas",
+      "Recursos pedagógicos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Vivienda Comunitat Valenciana",
+    "url": "https://habitatge.gva.es/",
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "organismo": "Vicepresidencia Segunda y Conselleria de Vivienda",
+    "descripcion": "Portal de ayudas y subvenciones para acceso a vivienda en la Comunitat Valenciana",
+    "tipo": [
+      "portal_vivienda",
+      "ayudas_sociales"
+    ],
+    "hashtags": [
+      "#valencia",
+      "#vivienda",
+      "#alquiler",
+      "#ayudas"
+    ],
+    "servicios_principales": [
+      "Ayudas jóvenes compradores",
+      "Ayudas al alquiler",
+      "Vivienda protegida"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Consell de Transparència Valenciana",
+    "url": "https://conselltransparencia.gva.es/es",
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "organismo": "Consell de Transparència",
+    "descripcion": "Portal de transparencia y acceso a información pública de la Generalitat Valenciana",
+    "tipo": [
+      "transparencia",
+      "datos_abiertos"
+    ],
+    "hashtags": [
+      "#valencia",
+      "#transparencia",
+      "#datosabiertos"
+    ],
+    "servicios_principales": [
+      "Acceso a información pública",
+      "Datos abiertos",
+      "Resoluciones"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Diari Oficial de la Generalitat Valenciana (DOGV)",
+    "url": "https://dogv.gva.es/",
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "organismo": "Administración de la Generalitat",
+    "descripcion": "Publicación oficial de normas, disposiciones y actos administrativos de la Generalitat",
+    "tipo": [
+      "boletin_oficial",
+      "publicaciones"
+    ],
+    "hashtags": [
+      "#valencia",
+      "#DOGV",
+      "#boletin",
+      "#legislacion"
+    ],
+    "servicios_principales": [
+      "Publicación de normas",
+      "Disposiciones administrativas",
+      "Actos oficiales"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Agència Tributària Valenciana (ATV)",
+    "url": "https://atv.gva.es/es/tributs",
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "organismo": "Agència Tributària Valenciana",
+    "descripcion": "Gestión de tributos cedidos y propios de la Comunitat Valenciana",
+    "tipo": [
+      "tributos",
+      "hacienda"
+    ],
+    "hashtags": [
+      "#valencia",
+      "#tributos",
+      "#impuestos",
+      "#ATV"
+    ],
+    "servicios_principales": [
+      "Información fiscal",
+      "Gestión tributaria",
+      "Impuestos propios"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Punto Único de Acceso a la Información de la Junta de Extremadura",
+    "url": "https://www.juntaex.es/",
+    "comunidad_autonoma": "Extremadura",
+    "organismo": "Junta de Extremadura",
+    "descripcion": "Portal principal de la Junta de Extremadura con acceso a información y servicios",
+    "tipo": [
+      "Portal institucional",
+      "Información general",
+      "Acceso a servicios"
+    ],
+    "hashtags": [
+      "#Extremadura",
+      "#Gobierno",
+      "#JuntaEx"
+    ],
+    "servicios_principales": [
+      "Información institucional",
+      "Acceso a servicios públicos",
+      "Búsqueda de información"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Sede Electrónica e-GOBEX de Extremadura",
+    "url": "https://sede.gobex.es/SEDE/",
+    "comunidad_autonoma": "Extremadura",
+    "organismo": "Junta de Extremadura",
+    "descripcion": "Plataforma de administración electrónica para trámites y procedimientos administrativos",
+    "tipo": [
+      "Sede electrónica",
+      "Administración electrónica",
+      "Trámites online"
+    ],
+    "hashtags": [
+      "#eGOBEX",
+      "#SedeElectrónica",
+      "#TrámitesOnline"
+    ],
+    "servicios_principales": [
+      "Trámites electrónicos",
+      "Procedimientos administrativos",
+      "Servicios online"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Extremadura Salud - Servicio Extremeño de Salud",
+    "url": "https://saludextremadura.ses.es/web/",
+    "comunidad_autonoma": "Extremadura",
+    "organismo": "Consejería de Sanidad",
+    "descripcion": "Portal de salud con acceso a cita previa médica y servicios sanitarios",
+    "tipo": [
+      "Portal de salud",
+      "Cita previa",
+      "Información sanitaria"
+    ],
+    "hashtags": [
+      "#Salud",
+      "#SES",
+      "#CitaPrevia"
+    ],
+    "servicios_principales": [
+      "Cita previa médica",
+      "CSOnline",
+      "Consulta de resultados médicos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Empleo de Extremadura Trabaja",
+    "url": "https://extremaduratrabaja.juntaex.es/empleo",
+    "comunidad_autonoma": "Extremadura",
+    "organismo": "Consejería de Economía, Empleo y Transformación Digital",
+    "descripcion": "Portal de empleo público con ofertas de trabajo y procesos selectivos",
+    "tipo": [
+      "Portal de empleo",
+      "Bolsa de trabajo",
+      "Empleo público"
+    ],
+    "hashtags": [
+      "#Empleo",
+      "#ExtremaduraTrabaja",
+      "#BolsaTrabajo"
+    ],
+    "servicios_principales": [
+      "Ofertas de empleo público",
+      "Información de procesos selectivos",
+      "Consulta de empleo"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Educarex - Portal de Educación de Extremadura",
+    "url": "https://www.educarex.es/",
+    "comunidad_autonoma": "Extremadura",
+    "organismo": "Consejería de Educación, Ciencia y Formación Profesional",
+    "descripcion": "Portal educativo con recursos, plataformas y servicios educativos para todos los niveles",
+    "tipo": [
+      "Portal educativo",
+      "Plataforma digital",
+      "Recursos educativos"
+    ],
+    "hashtags": [
+      "#Educarex",
+      "#Educación",
+      "#PortalEducativo"
+    ],
+    "servicios_principales": [
+      "Recursos educativos",
+      "Plataforma Avanza",
+      "eScholarium",
+      "Gestión educativa"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Ayudas a la Vivienda de la Junta de Extremadura",
+    "url": "https://www.juntaex.es/w/0623822",
+    "comunidad_autonoma": "Extremadura",
+    "organismo": "Consejería de Fomento, Vivienda y Transformación Digital",
+    "descripcion": "Portal de ayudas y subvenciones para vivienda con programas de acceso y rehabilitación",
+    "tipo": [
+      "Portal de vivienda",
+      "Ayudas y subvenciones",
+      "Información de vivienda"
+    ],
+    "hashtags": [
+      "#Vivienda",
+      "#Ayudas",
+      "#Subvenciones"
+    ],
+    "servicios_principales": [
+      "Ayudas para jóvenes",
+      "Rehabilitación de vivienda",
+      "Programas de acceso"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Diario Oficial de Extremadura (DOE)",
+    "url": "https://doe.juntaex.es/",
+    "comunidad_autonoma": "Extremadura",
+    "organismo": "Junta de Extremadura",
+    "descripcion": "Boletín oficial con publicación de leyes, decretos y actos administrativos regionales",
+    "tipo": [
+      "Boletín oficial",
+      "Transparencia",
+      "Publicaciones oficiales"
+    ],
+    "hashtags": [
+      "#DOE",
+      "#BoletonOficial",
+      "#Transparencia"
+    ],
+    "servicios_principales": [
+      "Publicación de leyes",
+      "Órdenes y disposiciones",
+      "Convocatorias públicas"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal Tributario de Extremadura",
+    "url": "https://portaltributario.juntaex.es/PortalTributario",
+    "comunidad_autonoma": "Extremadura",
+    "organismo": "Consejería de Hacienda",
+    "descripcion": "Portal de gestión de tributos autonómicos y servicios fiscales",
+    "tipo": [
+      "Portal fiscal",
+      "Tributos autonómicos",
+      "Servicios tributarios"
+    ],
+    "hashtags": [
+      "#Tributos",
+      "#Hacienda",
+      "#ImuestosExtremadura"
+    ],
+    "servicios_principales": [
+      "Información tributaria",
+      "Pago de tributos",
+      "Servicios fiscales"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Xunta de Galicia - Portal Principal",
+    "url": "https://www.xunta.gal/",
+    "comunidad_autonoma": "Galicia",
+    "organismo": "Xunta de Galicia",
+    "descripcion": "Portal oficial de información y servicios del gobierno regional de Galicia",
+    "tipo": [
+      "Portal institucional",
+      "Información general",
+      "Acceso a servicios"
+    ],
+    "hashtags": [
+      "#Galicia",
+      "#Gobierno",
+      "#XuntaGalicia"
+    ],
+    "servicios_principales": [
+      "Información institucional",
+      "Políticas regionales",
+      "Acceso a servicios"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Sede Electrónica de la Xunta de Galicia",
+    "url": "https://sede.xunta.gal/",
+    "comunidad_autonoma": "Galicia",
+    "organismo": "Xunta de Galicia",
+    "descripcion": "Plataforma de administración electrónica disponible 24/7 para trámites administrativos",
+    "tipo": [
+      "Sede electrónica",
+      "Administración electrónica",
+      "Trámites online"
+    ],
+    "hashtags": [
+      "#SedeElectrónica",
+      "#TrámitesOnline",
+      "#AdminElectronica"
+    ],
+    "servicios_principales": [
+      "Trámites electrónicos",
+      "Procedimientos administrativos",
+      "A miña sede"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "SERGAS - Servizo Galego de Saúde",
+    "url": "https://www.sergas.gal/",
+    "comunidad_autonoma": "Galicia",
+    "organismo": "Consellería de Sanidade",
+    "descripcion": "Portal de salud de Galicia con acceso a cita previa médica y servicios sanitarios",
+    "tipo": [
+      "Portal de salud",
+      "Cita previa",
+      "Información sanitaria"
+    ],
+    "hashtags": [
+      "#SERGAS",
+      "#Salud",
+      "#CitaPrevia"
+    ],
+    "servicios_principales": [
+      "Cita previa atención primaria",
+      "Información de centros sanitarios",
+      "Servicios SERGAS"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Emprego de la Xunta de Galicia",
+    "url": "https://emprego.xunta.gal/",
+    "comunidad_autonoma": "Galicia",
+    "organismo": "Consellería de Emprego, Comercio e Emigración",
+    "descripcion": "Portal del servicio público de empleo de Galicia con bolsa de trabajo y servicios laborales",
+    "tipo": [
+      "Portal de empleo",
+      "Bolsa de trabajo",
+      "Intermediación laboral"
+    ],
+    "hashtags": [
+      "#Emprego",
+      "#BolsaTrabajo",
+      "#XuntaEmprego"
+    ],
+    "servicios_principales": [
+      "Búsqueda de empleo",
+      "Ofertas de trabajo",
+      "Servicios de empleo"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Consellería de Educación, Ciencia, Universidades y Formación Profesional",
+    "url": "https://educacioneciencia.xunta.gal/",
+    "comunidad_autonoma": "Galicia",
+    "organismo": "Consellería de Educación",
+    "descripcion": "Portal educativo de Galicia con información y servicios para la comunidad educativa",
+    "tipo": [
+      "Portal educativo",
+      "Plataforma digital",
+      "Servicios educativos"
+    ],
+    "hashtags": [
+      "#Educación",
+      "#PortalEducativo",
+      "#XuntaEducación"
+    ],
+    "servicios_principales": [
+      "Portal de familias",
+      "AbalarMóbil",
+      "Admisión de alumnado",
+      "Recursos educativos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "IGVS - Instituto Galego da Vivenda e Solo",
+    "url": "https://igvs.xunta.gal/",
+    "comunidad_autonoma": "Galicia",
+    "organismo": "Consellería de Vivenda",
+    "descripcion": "Instituto de vivienda de Galicia con programas de ayuda y subvenciones habitacionales",
+    "tipo": [
+      "Portal de vivienda",
+      "Ayudas y subvenciones",
+      "Información de vivienda"
+    ],
+    "hashtags": [
+      "#IGVS",
+      "#Vivienda",
+      "#Ayudas"
+    ],
+    "servicios_principales": [
+      "Ayudas para vivienda",
+      "Programas de rehabilitación",
+      "Subvenciones habitacionales"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Diario Oficial de Galicia (DOG)",
+    "url": "https://www.xunta.gal/diario-oficial-galicia/portalPublicoHome.do",
+    "comunidad_autonoma": "Galicia",
+    "organismo": "Xunta de Galicia",
+    "descripcion": "Boletín oficial de Galicia con publicación de disposiciones legales y actos administrativos",
+    "tipo": [
+      "Boletín oficial",
+      "Transparencia",
+      "Publicaciones oficiales"
+    ],
+    "hashtags": [
+      "#DOG",
+      "#BoletonOficial",
+      "#Transparencia"
+    ],
+    "servicios_principales": [
+      "Publicación de leyes",
+      "Órdenes y disposiciones",
+      "Información oficial"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Axencia Tributaria de Galicia (ATRIGA)",
+    "url": "https://www.atriga.gal/",
+    "comunidad_autonoma": "Galicia",
+    "organismo": "Consellería de Hacienda",
+    "descripcion": "Agencia tributaria de Galicia para la gestión y recaudación de tributos autonómicos",
+    "tipo": [
+      "Portal fiscal",
+      "Tributos autonómicos",
+      "Servicios tributarios"
+    ],
+    "hashtags": [
+      "#ATRIGA",
+      "#Tributos",
+      "#Hacienda"
+    ],
+    "servicios_principales": [
+      "Información tributaria",
+      "Oficina virtual tributaria",
+      "Servicios fiscales"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Gobierno de Islas Baleares - Portal Oficial (GOIB)",
+    "url": "https://www.caib.es/webgoib/es/",
+    "comunidad_autonoma": "Islas Baleares",
+    "organismo": "Govern de les Illes Balears",
+    "descripcion": "Portal oficial del gobierno de las Islas Baleares con servicios y información para la ciudadanía",
+    "tipo": [
+      "Portal Principal",
+      "Servicios Digitales",
+      "Administración"
+    ],
+    "hashtags": [
+      "#GOIB",
+      "#IslasBalears",
+      "#PortalOficial"
+    ],
+    "servicios_principales": [
+      "Información ciudadana",
+      "Servicios públicos",
+      "Trámites digitales",
+      "Recursos sectoriales"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Sede Electrónica - Govern de les Illes Balears",
+    "url": "https://www.caib.es/seucaib/es/200/personas/",
+    "comunidad_autonoma": "Islas Baleares",
+    "organismo": "Govern de les Illes Balears",
+    "descripcion": "Plataforma de tramitación electrónica para ciudadanos en las Islas Baleares",
+    "tipo": [
+      "Sede Electrónica",
+      "Servicios Digitales",
+      "Gestión Electrónica"
+    ],
+    "hashtags": [
+      "#SedeElectrónica",
+      "#CAIB",
+      "#TrámitesOnline"
+    ],
+    "servicios_principales": [
+      "Tramites electrónicos",
+      "Solicitud procedimientos",
+      "Títulos y certificaciones",
+      "Gestión de servicios"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "IB-SALUT - Cita Previa Salud Islas Baleares",
+    "url": "https://www.ibsalut.es/es/info-ciudadania/cita-previa-ibsalut",
+    "comunidad_autonoma": "Islas Baleares",
+    "organismo": "Servicio de Salud de las Islas Baleares",
+    "descripcion": "Portal de citas previas del Servicio de Salud de las Islas Baleares para acceso a prestaciones sanitarias",
+    "tipo": [
+      "Portal Salud",
+      "Cita Previa",
+      "Servicios Digitales"
+    ],
+    "hashtags": [
+      "#IBSalut",
+      "#CitaPrevia",
+      "#Salud",
+      "#IslasBaleares"
+    ],
+    "servicios_principales": [
+      "Solicitud citas médicas",
+      "Cambio y cancelación citas",
+      "Gestión de citas",
+      "Información sanitaria"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Datos Abiertos - CAIB",
+    "url": "https://www.caib.cat/sites/opendatacaib/es/inici_home/",
+    "comunidad_autonoma": "Islas Baleares",
+    "organismo": "Govern de les Illes Balears",
+    "descripcion": "Portal de transparencia con datos abiertos del gobierno balear para reutilización de información pública",
+    "tipo": [
+      "Transparencia",
+      "Datos Abiertos",
+      "Información Pública"
+    ],
+    "hashtags": [
+      "#DatosAbiertos",
+      "#Transparencia",
+      "#OpenData"
+    ],
+    "servicios_principales": [
+      "Datasets públicos",
+      "Información reutilizable",
+      "Transparencia administrativa",
+      "Catálogo de datos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Boletín Oficial de las Islas Baleares (BOIB)",
+    "url": "https://www.caib.es/eboibfront/ES",
+    "comunidad_autonoma": "Islas Baleares",
+    "organismo": "Govern de les Illes Balears",
+    "descripcion": "Boletín oficial de las Islas Baleares con publicación de disposiciones normativas y actos administrativos",
+    "tipo": [
+      "Boletín Oficial",
+      "Normativa",
+      "Transparencia"
+    ],
+    "hashtags": [
+      "#BOIB",
+      "#BoletínOficial",
+      "#IslasBaleares"
+    ],
+    "servicios_principales": [
+      "Publicaciones oficiales",
+      "Disposiciones normativas",
+      "Búsqueda de contenidos",
+      "Acceso histórico"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "SOIB - Servei d'Ocupació de les Illes Balears",
+    "url": "https://soib.es/",
+    "comunidad_autonoma": "Islas Baleares",
+    "organismo": "Servei d'Ocupació de les Illes Balears",
+    "nivel": "autonomico",
+    "descripcion": "Portal de empleo de Baleares con ofertas de trabajo, formación profesional y orientación laboral",
+    "tipo": [
+      "portal_empleo",
+      "servicios_empleo"
+    ],
+    "hashtags": [
+      "#empleo",
+      "#soib",
+      "#baleares",
+      "#formacion"
+    ],
+    "servicios_principales": [
+      "Ofertas de empleo",
+      "Formación profesional",
+      "Orientación laboral"
+    ]
+  },
+  {
+    "nombre": "Conselleria d'Educació i Universitats - Illes Balears",
+    "url": "https://www.caib.es/govern/organigrama/area.do?coduo=36&lang=es",
+    "comunidad_autonoma": "Islas Baleares",
+    "organismo": "Conselleria d'Educació i Universitats",
+    "nivel": "autonomico",
+    "descripcion": "Portal educativo de Baleares con información sobre centros educativos y servicios",
+    "tipo": [
+      "portal_educacion",
+      "servicios_educativos"
+    ],
+    "hashtags": [
+      "#educacion",
+      "#baleares",
+      "#escuelas"
+    ],
+    "servicios_principales": [
+      "Información de centros educativos",
+      "Admisión",
+      "Servicios educativos"
+    ]
+  },
+  {
+    "nombre": "IBAVI - Institut Balear de l'Habitatge",
+    "url": "https://www.ibavi.caib.es/",
+    "comunidad_autonoma": "Islas Baleares",
+    "organismo": "Institut Balear de l'Habitatge",
+    "nivel": "autonomico",
+    "descripcion": "Instituto Balear de la Vivienda con programas de vivienda protegida y ayudas al alquiler",
+    "tipo": [
+      "portal_vivienda",
+      "ayudas_sociales"
+    ],
+    "hashtags": [
+      "#vivienda",
+      "#baleares",
+      "#IBAVI",
+      "#alquiler"
+    ],
+    "servicios_principales": [
+      "Vivienda protegida",
+      "Ayudas al alquiler",
+      "Promociones de vivienda"
+    ]
+  },
+  {
+    "nombre": "ATIB - Agència Tributària de les Illes Balears",
+    "url": "https://www.atib.es/",
+    "comunidad_autonoma": "Islas Baleares",
+    "organismo": "Agència Tributària de les Illes Balears",
+    "nivel": "autonomico",
+    "descripcion": "Administración tributaria de Baleares para gestión de impuestos y tributos autonómicos",
+    "tipo": [
+      "tributos",
+      "hacienda"
+    ],
+    "hashtags": [
+      "#tributos",
+      "#impuestos",
+      "#baleares",
+      "#ATIB"
+    ],
+    "servicios_principales": [
+      "Gestión de tributos autonómicos",
+      "Pago de impuestos",
+      "Información tributaria"
+    ]
+  },
+  {
+    "nombre": "Portal del Gobierno de La Rioja",
+    "url": "https://www.larioja.org/",
+    "comunidad_autonoma": "La Rioja",
+    "organismo": "Gobierno de La Rioja",
+    "descripcion": "Portal oficial de información y servicios del gobierno autonómico de La Rioja",
+    "tipo": [
+      "Portal institucional",
+      "Información general",
+      "Acceso a servicios"
+    ],
+    "hashtags": [
+      "#LaRioja",
+      "#Gobierno",
+      "#PortalGobierno"
+    ],
+    "servicios_principales": [
+      "Información institucional",
+      "Acceso a servicios",
+      "Información general"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Sede Electrónica del Gobierno de La Rioja",
+    "url": "https://web.larioja.org/sede-electronica",
+    "comunidad_autonoma": "La Rioja",
+    "organismo": "Gobierno de La Rioja",
+    "descripcion": "Plataforma de administración electrónica para trámites y procedimientos administrativos",
+    "tipo": [
+      "Sede electrónica",
+      "Administración electrónica",
+      "Trámites online"
+    ],
+    "hashtags": [
+      "#SedeElectrónica",
+      "#TrámitesOnline",
+      "#AdminElectronica"
+    ],
+    "servicios_principales": [
+      "Trámites electrónicos",
+      "Procedimientos administrativos",
+      "Servicios online"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "RiojaSalud - Servicio Riojano de Salud",
+    "url": "https://www.riojasalud.es/",
+    "comunidad_autonoma": "La Rioja",
+    "organismo": "Consejería de Salud",
+    "descripcion": "Portal de salud de La Rioja con acceso a cita previa médica y servicios sanitarios",
+    "tipo": [
+      "Portal de salud",
+      "Cita previa",
+      "Información sanitaria"
+    ],
+    "hashtags": [
+      "#RiojaSalud",
+      "#Salud",
+      "#CitaPrevia"
+    ],
+    "servicios_principales": [
+      "Cita previa atención primaria",
+      "Información de centros sanitarios",
+      "RiojaSalud app"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Empleo del Gobierno de La Rioja",
+    "url": "https://www.larioja.org/empleo/es",
+    "comunidad_autonoma": "La Rioja",
+    "organismo": "Consejería de Empleo",
+    "descripcion": "Portal del servicio público de empleo de La Rioja con bolsa de trabajo",
+    "tipo": [
+      "Portal de empleo",
+      "Bolsa de trabajo",
+      "Intermediación laboral"
+    ],
+    "hashtags": [
+      "#Empleo",
+      "#LaRioja",
+      "#BolsaTrabajo"
+    ],
+    "servicios_principales": [
+      "Búsqueda de empleo",
+      "Ofertas de trabajo",
+      "Acceso a oficinas de empleo"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Educación del Gobierno de La Rioja",
+    "url": "https://www.larioja.org/educacion/es",
+    "comunidad_autonoma": "La Rioja",
+    "organismo": "Consejería de Educación",
+    "descripcion": "Portal educativo de La Rioja con información y servicios para la comunidad educativa",
+    "tipo": [
+      "Portal educativo",
+      "Plataforma digital",
+      "Servicios educativos"
+    ],
+    "hashtags": [
+      "#Educación",
+      "#LaRioja",
+      "#PortalEducativo"
+    ],
+    "servicios_principales": [
+      "Información educativa",
+      "Plataforma Racima",
+      "Recursos educativos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Vivienda del Gobierno de La Rioja",
+    "url": "https://www.larioja.org/vivienda/es",
+    "comunidad_autonoma": "La Rioja",
+    "organismo": "Consejería de Vivienda",
+    "descripcion": "Portal de vivienda con programas de ayuda y subvenciones para acceso a vivienda",
+    "tipo": [
+      "Portal de vivienda",
+      "Ayudas y subvenciones",
+      "Información de vivienda"
+    ],
+    "hashtags": [
+      "#Vivienda",
+      "#Ayudas",
+      "#LaRioja"
+    ],
+    "servicios_principales": [
+      "Ayudas para jóvenes",
+      "Plan Revive",
+      "Subvenciones de alquiler"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Boletín Oficial de La Rioja (BOR)",
+    "url": "https://web.larioja.org/bor-portada",
+    "comunidad_autonoma": "La Rioja",
+    "organismo": "Gobierno de La Rioja",
+    "descripcion": "Boletín oficial de La Rioja con publicación de leyes y disposiciones administrativas",
+    "tipo": [
+      "Boletín oficial",
+      "Transparencia",
+      "Publicaciones oficiales"
+    ],
+    "hashtags": [
+      "#BOR",
+      "#BoletonOficial",
+      "#Transparencia"
+    ],
+    "servicios_principales": [
+      "Publicación de leyes",
+      "Disposiciones administrativas",
+      "Información oficial"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Tributos del Gobierno de La Rioja",
+    "url": "https://www.larioja.org/tributos/es",
+    "comunidad_autonoma": "La Rioja",
+    "organismo": "Consejería de Hacienda",
+    "descripcion": "Portal fiscal con información sobre tributos autonómicos y servicios tributarios",
+    "tipo": [
+      "Portal fiscal",
+      "Tributos autonómicos",
+      "Servicios tributarios"
+    ],
+    "hashtags": [
+      "#Tributos",
+      "#Hacienda",
+      "#ImuestosLaRioja"
+    ],
+    "servicios_principales": [
+      "Información tributaria",
+      "Plataforma GRIAR",
+      "Pago de tributos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Oficina Virtual Tributaria de La Rioja",
+    "url": "https://larioja.tributoslocales.es/",
+    "comunidad_autonoma": "La Rioja",
+    "organismo": "Consejería de Hacienda",
+    "descripcion": "Plataforma de gestión electrónica de tributos con servicios de presentación y pago",
+    "tipo": [
+      "Portal fiscal",
+      "Servicios tributarios",
+      "Administración electrónica"
+    ],
+    "hashtags": [
+      "#OVT",
+      "#TributosOnline",
+      "#Hacienda"
+    ],
+    "servicios_principales": [
+      "Acceso a información tributaria",
+      "Pago de tributos",
+      "Gestión de impuestos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Ciudad Autónoma de Melilla - Portal Oficial",
+    "url": "https://www.melilla.es/",
+    "comunidad_autonoma": "Melilla",
+    "organismo": "Ciudad Autónoma de Melilla",
+    "descripcion": "Portal oficial de la Ciudad Autónoma de Melilla con servicios e información",
+    "tipo": [
+      "portal_web",
+      "portal_institucional"
+    ],
+    "hashtags": [
+      "#melilla",
+      "#ciudadautonoma",
+      "#gobierno"
+    ],
+    "servicios_principales": [
+      "Información institucional",
+      "Acceso a servicios",
+      "Trámites"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Sede Electrónica Ciudad Autónoma de Melilla",
+    "url": "https://sede.melilla.es/",
+    "comunidad_autonoma": "Melilla",
+    "organismo": "Ciudad Autónoma de Melilla",
+    "descripcion": "Portal electrónico para tramitación de procedimientos administrativos en Melilla",
+    "tipo": [
+      "sede_electronica",
+      "administracion_digital"
+    ],
+    "hashtags": [
+      "#melilla",
+      "#sedeelectronica",
+      "#tramites"
+    ],
+    "servicios_principales": [
+      "Tramitación electrónica",
+      "Catálogo de procedimientos",
+      "Registro electrónico"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Cita Previa Médica INGESA - Melilla",
+    "url": "https://citaweb-ingesa.sanidad.gob.es/",
+    "comunidad_autonoma": "Melilla",
+    "organismo": "INGESA - Área Sanitaria de Melilla",
+    "descripcion": "Sistema de cita previa para centros de salud gestionados por INGESA en Melilla",
+    "tipo": [
+      "portal_salud",
+      "cita_previa"
+    ],
+    "hashtags": [
+      "#melilla",
+      "#salud",
+      "#citaprevia",
+      "#INGESA"
+    ],
+    "servicios_principales": [
+      "Cita previa online",
+      "App móvil",
+      "Información de centros"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Melilla Orienta - Portal de Empleo",
+    "url": "https://www.melillaorienta.es/",
+    "comunidad_autonoma": "Melilla",
+    "organismo": "Ciudad Autónoma de Melilla",
+    "descripcion": "Portal de empleo y formación para búsqueda de trabajo en Melilla",
+    "tipo": [
+      "portal_empleo",
+      "servicios_empleo"
+    ],
+    "hashtags": [
+      "#melilla",
+      "#empleo",
+      "#formacion",
+      "#trabajo"
+    ],
+    "servicios_principales": [
+      "Búsqueda de empleo",
+      "Ofertas de trabajo",
+      "Formación"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Educación Ciudad Autónoma de Melilla",
+    "url": "https://www.melilla.es/melillaportal/contenedor.jsp?seccion=s_floc_d4_v1.jsp&contenido=509",
+    "comunidad_autonoma": "Melilla",
+    "organismo": "Consejería de Educación",
+    "descripcion": "Portal educativo con servicios y información sobre educación en Melilla",
+    "tipo": [
+      "portal_educacion",
+      "servicios_educativos"
+    ],
+    "hashtags": [
+      "#melilla",
+      "#educacion",
+      "#escuela"
+    ],
+    "servicios_principales": [
+      "Información educativa",
+      "Becas",
+      "Convocatorias"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "BOME - Boletín Oficial de Melilla",
+    "url": "https://bomemelilla.es/",
+    "comunidad_autonoma": "Melilla",
+    "organismo": "Ciudad Autónoma de Melilla",
+    "descripcion": "Boletín Oficial de la Ciudad Autónoma de Melilla con publicación de normas",
+    "tipo": [
+      "boletin_oficial",
+      "publicaciones"
+    ],
+    "hashtags": [
+      "#melilla",
+      "#BOME",
+      "#boletin",
+      "#legislacion"
+    ],
+    "servicios_principales": [
+      "Publicación oficial",
+      "Disposiciones administrativas",
+      "Actos oficiales"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Transparencia Melilla",
+    "url": "https://www.melilla.es/melillaportal/contenedor.jsp?seccion=s_floc_d4_v1.jsp&contenido=14602",
+    "comunidad_autonoma": "Melilla",
+    "organismo": "Ciudad Autónoma de Melilla",
+    "descripcion": "Portal de transparencia y acceso a información pública de la Ciudad Autónoma de Melilla",
+    "tipo": [
+      "transparencia",
+      "datos_abiertos"
+    ],
+    "hashtags": [
+      "#melilla",
+      "#transparencia",
+      "#datosabiertos"
+    ],
+    "servicios_principales": [
+      "Acceso a información pública",
+      "Datos abiertos",
+      "Presupuestos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Gobierno de Navarra - Portal Oficial",
+    "url": "https://www.navarra.es/",
+    "comunidad_autonoma": "Navarra",
+    "organismo": "Gobierno de Navarra",
+    "descripcion": "Portal principal del gobierno foral de Navarra con acceso a servicios e información",
+    "tipo": [
+      "portal_web",
+      "portal_institucional"
+    ],
+    "hashtags": [
+      "#navarra",
+      "#gobiernonavarra",
+      "#comunidadforal"
+    ],
+    "servicios_principales": [
+      "Información institucional",
+      "Acceso a servicios",
+      "Trámites online"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Sede Electrónica Gobierno de Navarra",
+    "url": "https://sedeelectronica.navarra.gob.es/",
+    "comunidad_autonoma": "Navarra",
+    "organismo": "Administración de la Comunidad Foral",
+    "descripcion": "Portal electrónico para tramitación de procedimientos con la Administración Foral de Navarra",
+    "tipo": [
+      "sede_electronica",
+      "administracion_digital"
+    ],
+    "hashtags": [
+      "#navarra",
+      "#sedeelectronica",
+      "#tramites"
+    ],
+    "servicios_principales": [
+      "Tramitación electrónica",
+      "Registro General",
+      "Solicitud de ayudas"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Cita Previa Médica Navarra - Osasunbidea",
+    "url": "https://www.navarra.es/es/tramites/on/-/line/Cita-previa-en-el-centro-de-salud",
+    "comunidad_autonoma": "Navarra",
+    "organismo": "Servicio Navarro de Salud - Osasunbidea",
+    "descripcion": "Sistema de cita previa para centros de salud y profesionales sanitarios en Navarra",
+    "tipo": [
+      "portal_salud",
+      "cita_previa"
+    ],
+    "hashtags": [
+      "#navarra",
+      "#salud",
+      "#citaprevia",
+      "#osasunbidea"
+    ],
+    "servicios_principales": [
+      "Cita previa online",
+      "Consulta de citas",
+      "Recetas electrónicas"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Servicio Navarro de Empleo - Nafar Lansare",
+    "url": "https://www.navarra.es/es/empleo",
+    "comunidad_autonoma": "Navarra",
+    "organismo": "Servicio Navarro de Empleo",
+    "descripcion": "Portal oficial de empleo y formación de la Comunidad Foral de Navarra",
+    "tipo": [
+      "portal_empleo",
+      "servicios_empleo"
+    ],
+    "hashtags": [
+      "#navarra",
+      "#empleo",
+      "#nafarlansare",
+      "#trabajo"
+    ],
+    "servicios_principales": [
+      "Búsqueda de empleo",
+      "Ofertas de trabajo",
+      "Formación profesional",
+      "Orientación laboral"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Educación Navarra",
+    "url": "https://www.navarra.es/es/educacion",
+    "comunidad_autonoma": "Navarra",
+    "organismo": "Departamento de Educación",
+    "descripcion": "Portal educativo con servicios e información sobre el sistema educativo navarro",
+    "tipo": [
+      "portal_educacion",
+      "servicios_educativos"
+    ],
+    "hashtags": [
+      "#navarra",
+      "#educacion",
+      "#escuela"
+    ],
+    "servicios_principales": [
+      "Información educativa",
+      "Preinscripción escolar",
+      "Becas y subvenciones",
+      "Plataforma EDUCA"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Vivienda Navarra",
+    "url": "https://www.navarra.es/es/vivienda",
+    "comunidad_autonoma": "Navarra",
+    "organismo": "Departamento de Vivienda",
+    "descripcion": "Acceso a ayudas y servicios de vivienda, incluyendo programas DAVID y Emanzipa",
+    "tipo": [
+      "portal_vivienda",
+      "ayudas_sociales"
+    ],
+    "hashtags": [
+      "#navarra",
+      "#vivienda",
+      "#alquiler",
+      "#ayudas"
+    ],
+    "servicios_principales": [
+      "Programa DAVID",
+      "Ayudas Emanzipa",
+      "Vivienda protegida"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Gobierno Abierto de Navarra - Transparencia",
+    "url": "https://gobiernoabierto.navarra.es/es/transparencia",
+    "comunidad_autonoma": "Navarra",
+    "organismo": "Administración de la Comunidad Foral",
+    "descripcion": "Portal de transparencia y gobierno abierto de Navarra",
+    "tipo": [
+      "transparencia",
+      "datos_abiertos",
+      "gobierno_abierto"
+    ],
+    "hashtags": [
+      "#navarra",
+      "#transparencia",
+      "#gobiernoabierto"
+    ],
+    "servicios_principales": [
+      "Acceso a información pública",
+      "Datos abiertos",
+      "Participación ciudadana"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Boletín Oficial de Navarra (BON)",
+    "url": "https://bon.navarra.es/es/",
+    "comunidad_autonoma": "Navarra",
+    "organismo": "Administración Foral de Navarra",
+    "descripcion": "Publicación oficial de normas y disposiciones de la Comunidad Foral de Navarra",
+    "tipo": [
+      "boletin_oficial",
+      "publicaciones"
+    ],
+    "hashtags": [
+      "#navarra",
+      "#BON",
+      "#boletin",
+      "#legislacion"
+    ],
+    "servicios_principales": [
+      "Publicación de normas",
+      "Disposiciones forales",
+      "Actos administrativos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Hacienda Foral de Navarra",
+    "url": "https://hacienda.navarra.es/",
+    "comunidad_autonoma": "Navarra",
+    "organismo": "Hacienda Foral de Navarra",
+    "descripcion": "Gestión de impuestos y tributos con régimen foral especial de Navarra",
+    "tipo": [
+      "tributos",
+      "hacienda"
+    ],
+    "hashtags": [
+      "#navarra",
+      "#tributos",
+      "#haciendaforal",
+      "#impuestos"
+    ],
+    "servicios_principales": [
+      "IRPF y Patrimonio",
+      "Gestión tributaria",
+      "Declaraciones",
+      "Información fiscal"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Gobierno Vasco - Euskadi.eus",
+    "url": "https://www.euskadi.eus/",
+    "comunidad_autonoma": "País Vasco",
+    "organismo": "Gobierno Vasco",
+    "descripcion": "Portal principal del Gobierno Vasco con acceso a todos los servicios autonómicos",
+    "tipo": [
+      "portal_web",
+      "portal_institucional"
+    ],
+    "hashtags": [
+      "#euskadi",
+      "#paisvasco",
+      "#gobierno"
+    ],
+    "servicios_principales": [
+      "Información institucional",
+      "Acceso a servicios",
+      "Trámites online"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Sede Electrónica Gobierno Vasco",
+    "url": "https://www.euskadi.eus/sede-electronica/",
+    "comunidad_autonoma": "País Vasco",
+    "organismo": "Administración del Gobierno Vasco",
+    "descripcion": "Portal electrónico para tramitación de procedimientos administrativos con el Gobierno Vasco",
+    "tipo": [
+      "sede_electronica",
+      "administracion_digital"
+    ],
+    "hashtags": [
+      "#euskadi",
+      "#sedeelectronica",
+      "#tramites"
+    ],
+    "servicios_principales": [
+      "Mi Carpeta",
+      "Registro electrónico",
+      "Tramitación electrónica",
+      "Notificaciones"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Osakidetza - Servicio Vasco de Salud",
+    "url": "https://www.osakidetza.euskadi.eus/",
+    "comunidad_autonoma": "País Vasco",
+    "organismo": "Osakidetza",
+    "descripcion": "Portal del Servicio Vasco de Salud con cita previa y servicios sanitarios",
+    "tipo": [
+      "portal_salud",
+      "cita_previa"
+    ],
+    "hashtags": [
+      "#euskadi",
+      "#osakidetza",
+      "#salud",
+      "#citaprevia"
+    ],
+    "servicios_principales": [
+      "Cita previa web",
+      "Portal del paciente",
+      "App móvil",
+      "Información sanitaria"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Lanbide - Servicio Vasco de Empleo",
+    "url": "https://www.lanbide.euskadi.eus/",
+    "comunidad_autonoma": "País Vasco",
+    "organismo": "Lanbide",
+    "descripcion": "Servicio vasco de empleo para búsqueda de trabajo y gestión de ofertas laborales",
+    "tipo": [
+      "portal_empleo",
+      "servicios_empleo"
+    ],
+    "hashtags": [
+      "#euskadi",
+      "#lanbide",
+      "#empleo",
+      "#trabajo"
+    ],
+    "servicios_principales": [
+      "Búsqueda de empleo",
+      "Ofertas de trabajo",
+      "Orientación laboral",
+      "Formación"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Departamento de Educación - Gobierno Vasco",
+    "url": "https://www.euskadi.eus/gobierno-vasco/departamento-educacion/",
+    "comunidad_autonoma": "País Vasco",
+    "organismo": "Departamento de Educación",
+    "descripcion": "Portal educativo del Gobierno Vasco con servicios educativos y administrativos",
+    "tipo": [
+      "portal_educacion",
+      "servicios_educativos"
+    ],
+    "hashtags": [
+      "#euskadi",
+      "#educacion",
+      "#hezkuntza"
+    ],
+    "servicios_principales": [
+      "Información educativa",
+      "Recursos pedagógicos",
+      "Servicios escolares"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Vivienda - Gobierno Vasco",
+    "url": "https://www.euskadi.eus/gobierno-vasco/vivienda/inicio/",
+    "comunidad_autonoma": "País Vasco",
+    "organismo": "Departamento de Vivienda",
+    "descripcion": "Portal con ayudas para vivienda protegida, rehabilitación y acceso a la vivienda",
+    "tipo": [
+      "portal_vivienda",
+      "ayudas_sociales"
+    ],
+    "hashtags": [
+      "#euskadi",
+      "#vivienda",
+      "#alquiler",
+      "#ayudas"
+    ],
+    "servicios_principales": [
+      "Vivienda protegida",
+      "Ayudas al alquiler",
+      "Líneas de aval",
+      "Rehabilitación"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Gardena - Portal de Transparencia Gobierno Vasco",
+    "url": "https://www.gardena.euskadi.eus/",
+    "comunidad_autonoma": "País Vasco",
+    "organismo": "Administración del Gobierno Vasco",
+    "descripcion": "Portal de transparencia para acceso a información pública del Gobierno Vasco",
+    "tipo": [
+      "transparencia",
+      "datos_abiertos"
+    ],
+    "hashtags": [
+      "#euskadi",
+      "#transparencia",
+      "#datosabiertos"
+    ],
+    "servicios_principales": [
+      "Acceso a información pública",
+      "Datos abiertos",
+      "Presupuestos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Boletín Oficial del País Vasco (EHAA/BOPV)",
+    "url": "https://www.euskadi.eus/y22-bopv/es/",
+    "comunidad_autonoma": "País Vasco",
+    "organismo": "Administración del Gobierno Vasco",
+    "descripcion": "Publicación oficial de disposiciones normativas y actos del Gobierno Vasco",
+    "tipo": [
+      "boletin_oficial",
+      "publicaciones"
+    ],
+    "hashtags": [
+      "#euskadi",
+      "#BOPV",
+      "#EHAA",
+      "#boletin"
+    ],
+    "servicios_principales": [
+      "Publicación de normas",
+      "Disposiciones administrativas",
+      "Actos oficiales"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Haciendas Forales del País Vasco",
+    "url": "https://www.euskadi.eus/principales-tributos/web01-a2ogazer/es/",
+    "comunidad_autonoma": "País Vasco",
+    "organismo": "Haciendas Forales (Álava, Bizkaia, Gipuzkoa)",
+    "descripcion": "Información sobre tributos propios del País Vasco con sistema foral especial",
+    "tipo": [
+      "tributos",
+      "hacienda"
+    ],
+    "hashtags": [
+      "#euskadi",
+      "#tributos",
+      "#haciendaforal",
+      "#impuestos"
+    ],
+    "servicios_principales": [
+      "Sistema foral",
+      "Gestión tributaria",
+      "Información fiscal"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal Principal CARM - Región de Murcia",
+    "url": "https://www.carm.es/",
+    "comunidad_autonoma": "Región de Murcia",
+    "organismo": "Comunidad Autónoma de la Región de Murcia",
+    "descripcion": "Portal oficial del gobierno regional de Murcia con acceso a todos los servicios",
+    "tipo": [
+      "portal_web",
+      "portal_institucional"
+    ],
+    "hashtags": [
+      "#murcia",
+      "#carm",
+      "#gobierno"
+    ],
+    "servicios_principales": [
+      "Información institucional",
+      "Acceso a servicios",
+      "Trámites online"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Sede Electrónica CARM - Murcia",
+    "url": "https://sede.carm.es/",
+    "comunidad_autonoma": "Región de Murcia",
+    "organismo": "Administración Pública CARM",
+    "descripcion": "Portal electrónico para trámites y servicios de la Administración Regional de Murcia",
+    "tipo": [
+      "sede_electronica",
+      "administracion_digital"
+    ],
+    "hashtags": [
+      "#murcia",
+      "#sedeelectronica",
+      "#tramites",
+      "#carm"
+    ],
+    "servicios_principales": [
+      "Tramitación de expedientes",
+      "Registro electrónico",
+      "Mi Carpeta",
+      "Notificaciones"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Cita Previa SMS - Servicio Murciano de Salud",
+    "url": "https://sms.carm.es/cmap/",
+    "comunidad_autonoma": "Región de Murcia",
+    "organismo": "Servicio Murciano de Salud",
+    "descripcion": "Portal para solicitar cita previa en centros de salud del Servicio Murciano de Salud",
+    "tipo": [
+      "portal_salud",
+      "cita_previa"
+    ],
+    "hashtags": [
+      "#murcia",
+      "#salud",
+      "#citaprevia",
+      "#SMS"
+    ],
+    "servicios_principales": [
+      "Cita previa online",
+      "Consulta de citas",
+      "App móvil"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "SEFCARM - Servicio Regional de Empleo de Murcia",
+    "url": "https://www.sefcarm.es/",
+    "comunidad_autonoma": "Región de Murcia",
+    "organismo": "Servicio Regional de Empleo y Formación",
+    "descripcion": "Servicio público de empleo y formación de la Región de Murcia",
+    "tipo": [
+      "portal_empleo",
+      "servicios_empleo"
+    ],
+    "hashtags": [
+      "#murcia",
+      "#empleo",
+      "#formacion",
+      "#SEFCARM"
+    ],
+    "servicios_principales": [
+      "Búsqueda de empleo",
+      "Ofertas de trabajo",
+      "Formación profesional",
+      "Orientación laboral"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "EDUCARM - Portal de Educación Murcia",
+    "url": "https://www.educarm.es/home",
+    "comunidad_autonoma": "Región de Murcia",
+    "organismo": "Consejería de Educación y Formación Profesional",
+    "descripcion": "Portal educativo con recursos, normativa y servicios para el sistema educativo murciano",
+    "tipo": [
+      "portal_educacion",
+      "servicios_educativos"
+    ],
+    "hashtags": [
+      "#murcia",
+      "#educacion",
+      "#EDUCARM"
+    ],
+    "servicios_principales": [
+      "Información educativa",
+      "Normativa escolar",
+      "Recursos pedagógicos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Vivienda Región de Murcia",
+    "url": "https://vivienda.carm.es/",
+    "comunidad_autonoma": "Región de Murcia",
+    "organismo": "Consejería de Fomento e Infraestructuras",
+    "descripcion": "Portal de ayudas al alquiler y programas de acceso a vivienda en Murcia",
+    "tipo": [
+      "portal_vivienda",
+      "ayudas_sociales"
+    ],
+    "hashtags": [
+      "#murcia",
+      "#vivienda",
+      "#alquiler",
+      "#ayudas"
+    ],
+    "servicios_principales": [
+      "Ayudas al alquiler",
+      "Subvenciones vivienda",
+      "Programas habitacionales"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Portal de Transparencia CARM - Murcia",
+    "url": "https://transparencia.carm.es/",
+    "comunidad_autonoma": "Región de Murcia",
+    "organismo": "Administración Regional",
+    "descripcion": "Portal de transparencia y datos abiertos de la Región de Murcia",
+    "tipo": [
+      "transparencia",
+      "datos_abiertos"
+    ],
+    "hashtags": [
+      "#murcia",
+      "#transparencia",
+      "#datosabiertos"
+    ],
+    "servicios_principales": [
+      "Acceso a información pública",
+      "Datos abiertos",
+      "Presupuestos"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Boletín Oficial de la Región de Murcia (BORM)",
+    "url": "https://www.borm.es/",
+    "comunidad_autonoma": "Región de Murcia",
+    "organismo": "Boletín Oficial de la Región de Murcia",
+    "descripcion": "Publicación oficial de disposiciones, normativas y actos administrativos regionales",
+    "tipo": [
+      "boletin_oficial",
+      "publicaciones"
+    ],
+    "hashtags": [
+      "#murcia",
+      "#BORM",
+      "#boletin",
+      "#legislacion"
+    ],
+    "servicios_principales": [
+      "Publicación de normas",
+      "Disposiciones administrativas",
+      "Actos oficiales"
+    ],
+    "nivel": "autonomico"
+  },
+  {
+    "nombre": "Agencia Tributaria de la Región de Murcia",
+    "url": "https://agenciatributaria.carm.es/",
+    "comunidad_autonoma": "Región de Murcia",
+    "organismo": "Agencia Tributaria de la Región de Murcia",
+    "descripcion": "Gestión de tributos propios y cedidos de la Región de Murcia",
+    "tipo": [
+      "tributos",
+      "hacienda"
+    ],
+    "hashtags": [
+      "#murcia",
+      "#tributos",
+      "#impuestos",
+      "#ATRM"
+    ],
+    "servicios_principales": [
+      "Gestión tributaria",
+      "Recaudación",
+      "Información fiscal"
+    ],
+    "nivel": "autonomico"
+  }
+]
