@@ -12236,5 +12236,1136 @@
       "Consulta historial básico"
     ],
     "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_078",
+    "nombre": "Centro Base de Atención a Personas con Discapacidad - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/centros-base-atencion-personas-discapacidad",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "centro",
+    "descripcion": "Centros responsables de la valoración del grado de discapacidad y orientación a recursos de la Comunidad de Madrid.",
+    "hashtags": [
+      "#CentroBase",
+      "#Discapacidad",
+      "#ComunidadMadrid",
+      "#Valoracion",
+      "#GradoDiscapacidad",
+      "#ServiciosSociales",
+      "#Inclusion",
+      "#Adultos",
+      "#Menores",
+      "#Atencion"
+    ],
+    "servicios_principales": [
+      "Valoración discapacidad",
+      "Certificado",
+      "Tarjeta acreditativa",
+      "Orientación",
+      "Productos de apoyo"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_079",
+    "nombre": "Tarjeta Familiar de Transporte - Comunidad de Madrid",
+    "url": "https://www.crtm.es/billetes-y-tarifas/abono-transportes/tarjetas-familias",
+    "organismo": "Consorcio Regional de Transportes de Madrid",
+    "nivel": "autonomico",
+    "tipo": "tarjeta",
+    "descripcion": "Abono Transporte con descuentos para familias numerosas (50 % general, 20 % especial) en toda la red CRTM.",
+    "hashtags": [
+      "#TarjetaFamiliar",
+      "#FamiliaNumerosa",
+      "#CRTM",
+      "#Madrid",
+      "#Transporte",
+      "#AbonoTransporte",
+      "#Familia",
+      "#Descuentos",
+      "#Movilidad",
+      "#TitulodeFamilia"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Recarga online",
+      "Descuento general",
+      "Descuento especial",
+      "Acreditación familia numerosa"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_080",
+    "nombre": "Tarjeta Azul - Abono Tercera Edad CRTM",
+    "url": "https://www.crtm.es/billetes-y-tarifas/abono-transportes/tarjeta-azul",
+    "organismo": "Consorcio Regional de Transportes de Madrid",
+    "nivel": "autonomico",
+    "tipo": "tarjeta",
+    "descripcion": "Abono Tercera Edad / Tarjeta Azul con tarifa reducida a 6,30 €/mes para mayores de 65 años y personas con discapacidad ≥65 %.",
+    "hashtags": [
+      "#TarjetaAzul",
+      "#TerceraEdad",
+      "#Mayores",
+      "#CRTM",
+      "#Madrid",
+      "#Transporte",
+      "#Pensionistas",
+      "#Discapacidad",
+      "#AbonoTransporte",
+      "#Movilidad"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Renovación anual",
+      "Recarga",
+      "Discapacidad ≥65 %",
+      "Toda la red CRTM"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_081",
+    "nombre": "Servicio de Teleasistencia Domiciliaria - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/teleasistencia-domiciliaria",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "servicio",
+    "descripcion": "Servicio público 24h de atención telefónica para personas mayores y con discapacidad que viven solas o pasan muchas horas solas.",
+    "hashtags": [
+      "#Teleasistencia",
+      "#Mayores",
+      "#Madrid",
+      "#Dependencia",
+      "#TerceraEdad",
+      "#ComunidadMadrid",
+      "#Soledad",
+      "#24horas",
+      "#ApoyoDomiciliario",
+      "#PersonasMayores"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Dispositivo",
+      "Atención 24h",
+      "Coordinación 112",
+      "Visita domiciliaria"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_082",
+    "nombre": "Servicio de Ayuda a Domicilio (SAD) - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/servicio-ayuda-domicilio",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "servicio",
+    "descripcion": "Servicio de atención personal y doméstica en el domicilio para personas mayores y con dependencia, financiado vía SAAD.",
+    "hashtags": [
+      "#SAD",
+      "#AyudaDomicilio",
+      "#Mayores",
+      "#Dependencia",
+      "#Madrid",
+      "#Cuidados",
+      "#TerceraEdad",
+      "#PersonasMayores",
+      "#ApoyoDomiciliario",
+      "#ServiciosSociales"
+    ],
+    "servicios_principales": [
+      "Atención personal",
+      "Atención doméstica",
+      "Coordinación PIA",
+      "Copago",
+      "Dependencia"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_083",
+    "nombre": "Centros de Día para Mayores - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/centros-dia-personas-mayores",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "centro",
+    "descripcion": "Red de centros de día con atención socio-sanitaria diurna para personas mayores con dependencia.",
+    "hashtags": [
+      "#CentrosDia",
+      "#Mayores",
+      "#Madrid",
+      "#Dependencia",
+      "#TerceraEdad",
+      "#PersonasMayores",
+      "#EnvejecimientoActivo",
+      "#Cuidados",
+      "#Servicios",
+      "#ComunidadMadrid"
+    ],
+    "servicios_principales": [
+      "Solicitud plaza",
+      "Listado centros",
+      "Estimulación cognitiva",
+      "Comedor",
+      "Transporte"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_084",
+    "nombre": "Residencias Públicas para Mayores - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/residencias-personas-mayores",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "centro",
+    "descripcion": "Red pública y concertada de residencias para personas mayores con plazas vinculadas al SAAD.",
+    "hashtags": [
+      "#Residencias",
+      "#Mayores",
+      "#Madrid",
+      "#Dependencia",
+      "#TerceraEdad",
+      "#PersonasMayores",
+      "#PlazasResidenciales",
+      "#SAAD",
+      "#Cuidados",
+      "#ComunidadMadrid"
+    ],
+    "servicios_principales": [
+      "Solicitud plaza",
+      "Atención sociosanitaria",
+      "Listado residencias",
+      "Copago",
+      "Lista de espera"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_085",
+    "nombre": "Programa de Envejecimiento Activo - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/envejecimiento-activo",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "programa",
+    "descripcion": "Actividades culturales, formativas y de ocio para mayores de 60 años en centros municipales y autonómicos.",
+    "hashtags": [
+      "#EnvejecimientoActivo",
+      "#Mayores",
+      "#Madrid",
+      "#Cultura",
+      "#TerceraEdad",
+      "#Ocio",
+      "#Aprendizaje",
+      "#Voluntariado",
+      "#PersonasMayores",
+      "#Bienestar"
+    ],
+    "servicios_principales": [
+      "Talleres",
+      "Voluntariado mayor",
+      "Aulas universidad",
+      "Turismo",
+      "Ocio"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_086",
+    "nombre": "Reconocimiento de Dependencia (SAAD) - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/reconocimiento-situacion-dependencia",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "tramite",
+    "descripcion": "Procedimiento de valoración del grado de dependencia y elaboración del Programa Individual de Atención (PIA) en la CM.",
+    "hashtags": [
+      "#Dependencia",
+      "#SAAD",
+      "#Madrid",
+      "#Mayores",
+      "#Discapacidad",
+      "#PIA",
+      "#Cuidadores",
+      "#LeyDependencia",
+      "#Familia",
+      "#ComunidadMadrid"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Valoración domiciliaria",
+      "PIA",
+      "Prestaciones",
+      "Revisión grado"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_087",
+    "nombre": "Bono Alquiler Joven - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/vivienda/bono-alquiler-joven",
+    "organismo": "Consejería de Vivienda, Transportes e Infraestructuras",
+    "nivel": "autonomico",
+    "tipo": "ayuda",
+    "descripcion": "Ayuda de 250 €/mes durante 24 meses para jóvenes de 18 a 35 años con rentas de trabajo, en colaboración con el plan estatal.",
+    "hashtags": [
+      "#BonoAlquilerJoven",
+      "#Jovenes",
+      "#Madrid",
+      "#Alquiler",
+      "#Vivienda",
+      "#Emancipacion",
+      "#ComunidadMadrid",
+      "#250euros",
+      "#PlanVivienda",
+      "#Estudiantes"
+    ],
+    "servicios_principales": [
+      "Solicitud convocatoria",
+      "Requisitos edad y renta",
+      "Cuantía 250 €/mes",
+      "Duración 24 meses",
+      "Listado adjudicatarios"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_088",
+    "nombre": "Oficina de Emancipación Joven - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/juventud/emancipacion-joven",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "servicio",
+    "descripcion": "Asesoramiento gratuito sobre vivienda, empleo, emprendimiento y derechos para jóvenes de la Comunidad de Madrid.",
+    "hashtags": [
+      "#Emancipacion",
+      "#Jovenes",
+      "#Madrid",
+      "#Vivienda",
+      "#Empleo",
+      "#Asesoramiento",
+      "#ComunidadMadrid",
+      "#OficinaJuvenil",
+      "#Emprendimiento",
+      "#Autonomia"
+    ],
+    "servicios_principales": [
+      "Asesoría vivienda",
+      "Asesoría laboral",
+      "Información ayudas",
+      "Atención presencial",
+      "Recursos jóvenes"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_089",
+    "nombre": "FP Dual - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/educacion/formacion-profesional-dual",
+    "organismo": "Consejería de Educación, Ciencia y Universidades",
+    "nivel": "autonomico",
+    "tipo": "programa",
+    "descripcion": "Modalidad de Formación Profesional con periodo formativo en empresa para jóvenes y adultos en la Comunidad de Madrid.",
+    "hashtags": [
+      "#FPDual",
+      "#FP",
+      "#Madrid",
+      "#Empleo",
+      "#Jovenes",
+      "#Educacion",
+      "#Empresas",
+      "#Formacion",
+      "#PrimerEmpleo",
+      "#ComunidadMadrid"
+    ],
+    "servicios_principales": [
+      "Catálogo títulos",
+      "Centros FP Dual",
+      "Empresas colaboradoras",
+      "Becas",
+      "Inserción laboral"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_090",
+    "nombre": "Programas de Refuerzo Educativo (PROA+) - Comunidad de Madrid",
+    "url": "https://www.educa2.madrid.org/web/proa",
+    "organismo": "Consejería de Educación, Ciencia y Universidades",
+    "nivel": "autonomico",
+    "tipo": "programa",
+    "descripcion": "Programa PROA+ y refuerzo educativo en horario extraescolar para alumnado con dificultades de aprendizaje en Primaria y Secundaria.",
+    "hashtags": [
+      "#RefuerzoEducativo",
+      "#PROA",
+      "#Educacion",
+      "#Madrid",
+      "#Estudiantes",
+      "#Primaria",
+      "#Secundaria",
+      "#Apoyo",
+      "#Inclusion",
+      "#Becas"
+    ],
+    "servicios_principales": [
+      "Refuerzo Lengua y Mates",
+      "Apoyo extraescolar",
+      "Centros adheridos",
+      "Tutorías",
+      "Becas estudio"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_091",
+    "nombre": "Orientación Académica y Profesional - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/educacion/orientacion-academica-profesional",
+    "organismo": "Consejería de Educación, Ciencia y Universidades",
+    "nivel": "autonomico",
+    "tipo": "servicio",
+    "descripcion": "Servicio de orientación académica y profesional para estudiantes de ESO, Bachillerato y FP a través del portal Madrid Orienta.",
+    "hashtags": [
+      "#OrientacionAcademica",
+      "#Madrid",
+      "#Educacion",
+      "#Estudiantes",
+      "#FP",
+      "#ESO",
+      "#Bachillerato",
+      "#Universidad",
+      "#Adolescentes",
+      "#Itinerarios"
+    ],
+    "servicios_principales": [
+      "Madrid Orienta",
+      "Itinerarios formativos",
+      "Charlas",
+      "Pruebas vocacionales",
+      "Orientadores"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_092",
+    "nombre": "Programa de Acogimiento Familiar - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/acogimiento-familiar-menores",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "programa",
+    "descripcion": "Acogimiento familiar de urgencia, temporal o permanente para menores tutelados por la Comunidad de Madrid.",
+    "hashtags": [
+      "#Acogimiento",
+      "#Madrid",
+      "#Menores",
+      "#Familia",
+      "#Infancia",
+      "#Tutela",
+      "#FamiliasAcogedoras",
+      "#ProteccionMenores",
+      "#ComunidadMadrid",
+      "#FamiliaCanguro"
+    ],
+    "servicios_principales": [
+      "Información acogedoras",
+      "Modalidades",
+      "Compensación económica",
+      "Apoyo técnico",
+      "Familia ajena/extensa"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_093",
+    "nombre": "Adopción - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/adopcion-menores",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "tramite",
+    "descripcion": "Procedimiento de adopción nacional e internacional, valoración de idoneidad y seguimiento postadoptivo en la CM.",
+    "hashtags": [
+      "#Adopcion",
+      "#Madrid",
+      "#Menores",
+      "#Familia",
+      "#AdopcionInternacional",
+      "#Idoneidad",
+      "#Infancia",
+      "#FamiliasAdoptantes",
+      "#ComunidadMadrid",
+      "#ECAI"
+    ],
+    "servicios_principales": [
+      "Información",
+      "Idoneidad",
+      "Adopción nacional",
+      "Adopción internacional",
+      "Seguimiento postadoptivo"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_094",
+    "nombre": "Punto de Encuentro Familiar - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/punto-encuentro-familiar",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "servicio",
+    "descripcion": "Espacio neutral con profesionales que facilita el cumplimiento del régimen de visitas en familias con conflicto, separación o VG.",
+    "hashtags": [
+      "#PuntoEncuentro",
+      "#Familia",
+      "#Menores",
+      "#Madrid",
+      "#Separacion",
+      "#Divorcio",
+      "#Custodia",
+      "#Conflicto",
+      "#ViolenciaGenero",
+      "#ComunidadMadrid"
+    ],
+    "servicios_principales": [
+      "Visitas tuteladas",
+      "Entregas y recogidas",
+      "Coordinación judicial",
+      "Apoyo profesional",
+      "Mediación"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_095",
+    "nombre": "Mediación Familiar - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/mediacion-familiar",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "servicio",
+    "descripcion": "Servicio gratuito de mediación familiar con profesionales del Registro de Mediadores de la CM para resolver conflictos familiares.",
+    "hashtags": [
+      "#Mediacion",
+      "#Familia",
+      "#Madrid",
+      "#Conflictos",
+      "#Divorcio",
+      "#Custodia",
+      "#Hijos",
+      "#Mediadores",
+      "#ComunidadMadrid",
+      "#ResolucionConflictos"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Mediadores",
+      "Mediación gratuita",
+      "Conflictos pareja",
+      "Conflictos generacionales"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_096",
+    "nombre": "Reconocimiento de Familia Numerosa - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/familia-numerosa",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "tramite",
+    "descripcion": "Solicitud y renovación del título de familia numerosa con validez en toda España y descuentos autonómicos.",
+    "hashtags": [
+      "#FamiliaNumerosa",
+      "#Madrid",
+      "#Familias",
+      "#Titulo",
+      "#ComunidadMadrid",
+      "#Hijos",
+      "#Descuentos",
+      "#AyudasFamilia",
+      "#General",
+      "#Especial"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Renovación",
+      "Categoría general",
+      "Categoría especial",
+      "Carné individual"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_097",
+    "nombre": "Reconocimiento de Familia Monoparental - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/familia-monoparental",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "tramite",
+    "descripcion": "Título autonómico de familia monoparental que da acceso a beneficios análogos a la familia numerosa en la Comunidad de Madrid.",
+    "hashtags": [
+      "#FamiliaMonoparental",
+      "#Madrid",
+      "#Familias",
+      "#Titulo",
+      "#ComunidadMadrid",
+      "#MadresSolas",
+      "#PadresSolos",
+      "#Hijos",
+      "#Descuentos",
+      "#Conciliacion"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Renovación",
+      "Carné",
+      "Beneficios",
+      "Acreditación"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_098",
+    "nombre": "Casas de Acogida para Mujeres Víctimas de VG - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/atencion-mujer-victima-violencia-genero",
+    "organismo": "Dirección General de Igualdad - Comunidad de Madrid",
+    "nivel": "autonomico",
+    "tipo": "centro",
+    "descripcion": "Red de centros de acogida (emergencia, larga estancia y pisos tutelados) para mujeres víctimas de violencia de género e hijos a cargo.",
+    "hashtags": [
+      "#CasasAcogida",
+      "#Mujeres",
+      "#ViolenciaGenero",
+      "#Madrid",
+      "#Igualdad",
+      "#Victimas",
+      "#Refugio",
+      "#PisosTutelados",
+      "#ComunidadMadrid",
+      "#Proteccion"
+    ],
+    "servicios_principales": [
+      "Acogida emergencia",
+      "Centros larga estancia",
+      "Pisos tutelados",
+      "Apoyo psicológico",
+      "Itinerarios autonomía"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_099",
+    "nombre": "Centro de Crisis 24h Violencia Sexual - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/centro-crisis-24-horas",
+    "organismo": "Dirección General de Igualdad - Comunidad de Madrid",
+    "nivel": "autonomico",
+    "tipo": "centro",
+    "descripcion": "Centro de Crisis 24 horas para atención psicológica, jurídica y social a mujeres víctimas de violencia sexual y entorno.",
+    "hashtags": [
+      "#CentroDeCrisis",
+      "#ViolenciaSexual",
+      "#Mujeres",
+      "#Madrid",
+      "#24horas",
+      "#Igualdad",
+      "#Victimas",
+      "#PactoEstadoVG",
+      "#ComunidadMadrid",
+      "#LeyOnlyYesIsYes"
+    ],
+    "servicios_principales": [
+      "Atención 24h",
+      "Apoyo psicológico",
+      "Asesoramiento jurídico",
+      "Acompañamiento",
+      "Familiares y entorno"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_100",
+    "nombre": "Programa de Reeducación de Agresores - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/programa-reeducacion-agresores",
+    "organismo": "Dirección General de Igualdad - Comunidad de Madrid",
+    "nivel": "autonomico",
+    "tipo": "programa",
+    "descripcion": "Programa de intervención psicológica con agresores en violencia de género (judicial y voluntario) en la CM.",
+    "hashtags": [
+      "#Reeducacion",
+      "#Agresores",
+      "#Hombres",
+      "#ViolenciaGenero",
+      "#Madrid",
+      "#Igualdad",
+      "#Intervencion",
+      "#PrevencionVG",
+      "#ComunidadMadrid",
+      "#Maltratadores"
+    ],
+    "servicios_principales": [
+      "Programa judicial",
+      "Programa voluntario",
+      "Evaluación",
+      "Intervención grupal",
+      "Coordinación PRIA"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_101",
+    "nombre": "Programa Hombres por la Igualdad - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/igualdad-mujeres-hombres",
+    "organismo": "Dirección General de Igualdad - Comunidad de Madrid",
+    "nivel": "autonomico",
+    "tipo": "programa",
+    "descripcion": "Acciones de sensibilización y formación dirigidas a hombres en igualdad, corresponsabilidad y prevención de la violencia.",
+    "hashtags": [
+      "#Hombres",
+      "#Igualdad",
+      "#Madrid",
+      "#NuevasMasculinidades",
+      "#PrevencionVG",
+      "#Corresponsabilidad",
+      "#Educacion",
+      "#Sensibilizacion",
+      "#ComunidadMadrid",
+      "#Genero"
+    ],
+    "servicios_principales": [
+      "Talleres",
+      "Coeducación",
+      "Materiales",
+      "Subvenciones a entidades",
+      "Sensibilización"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_102",
+    "nombre": "Programa de Inserción Sociolaboral para mujeres - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/empleo/programa-empleo-mujer",
+    "organismo": "Consejería de Economía, Hacienda y Empleo",
+    "nivel": "autonomico",
+    "tipo": "programa",
+    "descripcion": "Itinerarios integrados de inserción para mujeres desempleadas, especialmente víctimas de VG, mayores de 45 y monoparentales.",
+    "hashtags": [
+      "#Mujeres",
+      "#Empleo",
+      "#Madrid",
+      "#Insercion",
+      "#Igualdad",
+      "#ComunidadMadrid",
+      "#ViolenciaGenero",
+      "#Mayores45",
+      "#Monoparental",
+      "#Itinerarios"
+    ],
+    "servicios_principales": [
+      "Orientación",
+      "Formación",
+      "Prácticas",
+      "Bonificaciones contratación",
+      "Acompañamiento"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_103",
+    "nombre": "Asesoría Jurídica Gratuita para Mujeres - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/asesoria-juridica-mujeres",
+    "organismo": "Dirección General de Igualdad - Comunidad de Madrid",
+    "nivel": "autonomico",
+    "tipo": "servicio",
+    "descripcion": "Asesoramiento jurídico gratuito en materia de familia, violencia y discriminación a través de los Centros de Atención a la Mujer.",
+    "hashtags": [
+      "#AsesoriaJuridica",
+      "#Mujeres",
+      "#Madrid",
+      "#Igualdad",
+      "#ViolenciaGenero",
+      "#Familia",
+      "#Divorcio",
+      "#Discriminacion",
+      "#ComunidadMadrid",
+      "#JusticiaGratuita"
+    ],
+    "servicios_principales": [
+      "Cita en CIMASCAM",
+      "Familia",
+      "Violencia",
+      "Laboral",
+      "Extranjería"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_104",
+    "nombre": "Programa de Acogida a Refugiados - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/refugiados",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "programa",
+    "descripcion": "Recursos autonómicos de apoyo a personas refugiadas y solicitantes de protección internacional: vivienda, empleo, salud y educación.",
+    "hashtags": [
+      "#Refugiados",
+      "#Acogida",
+      "#Madrid",
+      "#Migracion",
+      "#ProteccionInternacional",
+      "#Inclusion",
+      "#ComunidadMadrid",
+      "#Asilo",
+      "#Ucrania",
+      "#DDHH"
+    ],
+    "servicios_principales": [
+      "Información",
+      "Apoyo psicosocial",
+      "Salud",
+      "Escolarización",
+      "Empleo"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_105",
+    "nombre": "Mediación Intercultural - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/mediacion-intercultural",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "servicio",
+    "descripcion": "Servicio de mediación intercultural para personas migrantes en sanidad, educación y servicios sociales.",
+    "hashtags": [
+      "#Mediacion",
+      "#Intercultural",
+      "#Migrantes",
+      "#Madrid",
+      "#Inclusion",
+      "#Diversidad",
+      "#ComunidadMadrid",
+      "#Sanidad",
+      "#Educacion",
+      "#ServiciosSociales"
+    ],
+    "servicios_principales": [
+      "Mediadores",
+      "Sanidad",
+      "Educación",
+      "Vivienda",
+      "Servicios sociales"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_106",
+    "nombre": "Tarjeta de Estacionamiento para Personas con Discapacidad - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/tarjeta-estacionamiento-personas-movilidad-reducida",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "tarjeta",
+    "descripcion": "Tarjeta autonómica con validez europea que permite estacionar en plazas reservadas a personas con movilidad reducida.",
+    "hashtags": [
+      "#TarjetaEstacionamiento",
+      "#Discapacidad",
+      "#MovilidadReducida",
+      "#Madrid",
+      "#PMR",
+      "#Aparcamiento",
+      "#Accesibilidad",
+      "#ComunidadMadrid",
+      "#Trafico",
+      "#Movilidad"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Renovación",
+      "Duplicado",
+      "Validez UE",
+      "Plazas reservadas"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_107",
+    "nombre": "Productos de Apoyo y Ayudas Técnicas - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/banco-productos-apoyo",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "servicio",
+    "descripcion": "Banco de productos de apoyo (sillas de ruedas, camas articuladas, audífonos, ayudas técnicas) en préstamo para personas con discapacidad y dependencia.",
+    "hashtags": [
+      "#ProductosApoyo",
+      "#AyudasTecnicas",
+      "#Discapacidad",
+      "#Madrid",
+      "#Dependencia",
+      "#Mayores",
+      "#Accesibilidad",
+      "#ComunidadMadrid",
+      "#SillasDeRuedas",
+      "#Prestamo"
+    ],
+    "servicios_principales": [
+      "Préstamo",
+      "Catálogo productos",
+      "Adaptación domicilio",
+      "Solicitud",
+      "Devolución"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_108",
+    "nombre": "Programa de Respiro Familiar - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/respiro-familiar",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "programa",
+    "descripcion": "Estancias temporales en residencias o centros de día para personas con discapacidad o dependencia que dan respiro a sus cuidadores familiares.",
+    "hashtags": [
+      "#RespiroFamiliar",
+      "#Cuidadores",
+      "#Dependencia",
+      "#Discapacidad",
+      "#Madrid",
+      "#Familias",
+      "#ComunidadMadrid",
+      "#Mayores",
+      "#EstanciasTemporales",
+      "#ApoyoFamiliar"
+    ],
+    "servicios_principales": [
+      "Estancias temporales",
+      "Centros día",
+      "Solicitud",
+      "Cuidadores familiares",
+      "Vacaciones cuidador"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_109",
+    "nombre": "Préstamo Accede - Libros de texto Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/educacion/programa-prestamo-libros-texto-accede",
+    "organismo": "Consejería de Educación, Ciencia y Universidades",
+    "nivel": "autonomico",
+    "tipo": "programa",
+    "descripcion": "Sistema de préstamo gratuito de libros de texto para alumnado de Primaria y Secundaria en centros públicos y concertados de la CM.",
+    "hashtags": [
+      "#Accede",
+      "#LibrosTexto",
+      "#Madrid",
+      "#Educacion",
+      "#Familias",
+      "#Primaria",
+      "#Secundaria",
+      "#Estudiantes",
+      "#ComunidadMadrid",
+      "#GratisLibros"
+    ],
+    "servicios_principales": [
+      "Adhesión voluntaria",
+      "Préstamo gratuito",
+      "Devolución",
+      "Becas alternativas",
+      "Centros adheridos"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_110",
+    "nombre": "Programa Madrugadores / Primeros del Cole - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/educacion/primeros-cole-actividades-extraescolares",
+    "organismo": "Consejería de Educación, Ciencia y Universidades",
+    "nivel": "autonomico",
+    "tipo": "programa",
+    "descripcion": "Servicio de aulas matinales y actividades extraescolares en centros públicos para favorecer la conciliación familiar.",
+    "hashtags": [
+      "#PrimerosDelCole",
+      "#Madrugadores",
+      "#AulasMatinales",
+      "#Madrid",
+      "#Conciliacion",
+      "#Educacion",
+      "#Familias",
+      "#Infancia",
+      "#Extraescolares",
+      "#ComunidadMadrid"
+    ],
+    "servicios_principales": [
+      "Aulas matinales",
+      "Mediodía",
+      "Tarde",
+      "Días no lectivos",
+      "Inscripción centro"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_111",
+    "nombre": "Comidas a Domicilio para Personas Mayores - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/comidas-domicilio-personas-mayores",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "servicio",
+    "descripcion": "Entrega diaria de menús equilibrados en el domicilio de personas mayores con dificultades para cocinar o desplazarse.",
+    "hashtags": [
+      "#ComidasDomicilio",
+      "#Mayores",
+      "#Madrid",
+      "#Soledad",
+      "#Alimentacion",
+      "#TerceraEdad",
+      "#PersonasMayores",
+      "#ComunidadMadrid",
+      "#Cuidados",
+      "#ApoyoDomiciliario"
+    ],
+    "servicios_principales": [
+      "Menús",
+      "Coordinación municipal",
+      "Solicitud",
+      "Dietas especiales",
+      "Coordinación SAD"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_112",
+    "nombre": "Atención a Personas Sin Hogar - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/personas-sin-hogar",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "programa",
+    "descripcion": "Red autonómica de atención a personas sin hogar: alojamientos, centros de baja exigencia y programas Housing First en la CM.",
+    "hashtags": [
+      "#SinHogar",
+      "#Madrid",
+      "#Vulnerables",
+      "#HousingFirst",
+      "#ComunidadMadrid",
+      "#ServiciosSociales",
+      "#Inclusion",
+      "#Pobreza",
+      "#Vivienda",
+      "#AccionSocial"
+    ],
+    "servicios_principales": [
+      "Albergues",
+      "Baja exigencia",
+      "Housing First",
+      "Coordinación municipal",
+      "Atención sanitaria"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_113",
+    "nombre": "Cruz Roja Comunidad de Madrid",
+    "url": "https://www.cruzroja.es/principal/web/comunidad-de-madrid",
+    "organismo": "Cruz Roja Española - CM",
+    "nivel": "autonomico",
+    "tipo": "entidad",
+    "descripcion": "Delegación territorial de Cruz Roja en Madrid: emergencias, mayores, infancia, mujeres, refugiados, empleo y voluntariado.",
+    "hashtags": [
+      "#CruzRoja",
+      "#Madrid",
+      "#Voluntariado",
+      "#Emergencias",
+      "#AccionSocial",
+      "#Mayores",
+      "#Refugiados",
+      "#Empleo",
+      "#Infancia",
+      "#Salud"
+    ],
+    "servicios_principales": [
+      "Emergencias",
+      "Programas mayores",
+      "Refugiados",
+      "Empleo",
+      "Voluntariado"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_114",
+    "nombre": "Cáritas Diocesana de Madrid",
+    "url": "https://www.caritasmadrid.org",
+    "organismo": "Cáritas Diocesana de Madrid",
+    "nivel": "autonomico",
+    "tipo": "entidad",
+    "descripcion": "Acogida, alimentos, vivienda, empleo, sin hogar, infancia y migrantes en la diócesis de Madrid.",
+    "hashtags": [
+      "#Caritas",
+      "#Madrid",
+      "#AccionSocial",
+      "#SinHogar",
+      "#Vivienda",
+      "#Migrantes",
+      "#Empleo",
+      "#Voluntariado",
+      "#Inclusion",
+      "#Diocesana"
+    ],
+    "servicios_principales": [
+      "Acogida",
+      "Alimentos",
+      "Vivienda",
+      "Empleo",
+      "Sin hogar"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_115",
+    "nombre": "Plan Corresponsables - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/plan-corresponsables",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "nivel": "autonomico",
+    "tipo": "programa",
+    "descripcion": "Despliegue autonómico del Plan Corresponsables: cuidado profesional de menores hasta 16 años para favorecer la conciliación.",
+    "hashtags": [
+      "#PlanCorresponsables",
+      "#Conciliacion",
+      "#Madrid",
+      "#Familias",
+      "#Cuidados",
+      "#Igualdad",
+      "#ComunidadMadrid",
+      "#Infancia",
+      "#Crianza",
+      "#Mujeres"
+    ],
+    "servicios_principales": [
+      "Bolsas cuidado",
+      "Bonos económicos",
+      "Formación",
+      "Bancos de tiempo",
+      "Convocatoria municipal"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_116",
+    "nombre": "Cheque Bachillerato - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/educacion/becas-cheque-bachillerato",
+    "organismo": "Consejería de Educación, Ciencia y Universidades",
+    "nivel": "autonomico",
+    "tipo": "ayuda",
+    "descripcion": "Beca autonómica para alumnado de Bachillerato en centros privados que cubre parte del coste de la enseñanza.",
+    "hashtags": [
+      "#ChequeBachillerato",
+      "#Madrid",
+      "#Becas",
+      "#Educacion",
+      "#Bachillerato",
+      "#Estudiantes",
+      "#Familias",
+      "#ComunidadMadrid",
+      "#Adolescentes",
+      "#Privados"
+    ],
+    "servicios_principales": [
+      "Convocatoria anual",
+      "Solicitud",
+      "Centros privados",
+      "Renta familiar",
+      "Cuantía"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid"
   }
 ]

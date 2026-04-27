@@ -27159,5 +27159,594 @@
       "Asistencia 24 horas"
     ],
     "sede_electronica": false
+  },
+  {
+    "id": "muni_madrid_042",
+    "nombre": "Campamentos Urbanos y de Verano - Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Educacion-y-empleo/Educacion/Campamentos-urbanos",
+    "organismo": "Ayuntamiento de Madrid - Distritos",
+    "nivel": "municipal",
+    "tipo": "programa",
+    "descripcion": "Campamentos urbanos en periodos no lectivos (Navidad, Semana Santa, verano) en distritos para conciliar la vida familiar y laboral.",
+    "hashtags": [
+      "#CampamentosUrbanos",
+      "#Madrid",
+      "#Infancia",
+      "#Conciliacion",
+      "#Verano",
+      "#Familias",
+      "#AyuntamientoMadrid",
+      "#Distritos",
+      "#Ocio",
+      "#Educacion"
+    ],
+    "servicios_principales": [
+      "Inscripción distrito",
+      "Becas",
+      "Verano",
+      "Navidad y Semana Santa",
+      "Atención diversidad"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "municipio": "Madrid",
+    "provincia": "Madrid"
+  },
+  {
+    "id": "muni_madrid_043",
+    "nombre": "Ludotecas Municipales - Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Familia-e-infancia/Ludotecas",
+    "organismo": "Ayuntamiento de Madrid",
+    "nivel": "municipal",
+    "tipo": "centro",
+    "descripcion": "Red de ludotecas municipales para niñas y niños de 3 a 12 años con actividades educativas, de ocio y juego.",
+    "hashtags": [
+      "#Ludotecas",
+      "#Madrid",
+      "#Infancia",
+      "#Familias",
+      "#Conciliacion",
+      "#AyuntamientoMadrid",
+      "#Ocio",
+      "#Juego",
+      "#Educacion",
+      "#Distritos"
+    ],
+    "servicios_principales": [
+      "Inscripción",
+      "Actividades",
+      "Diversidad funcional",
+      "Talleres",
+      "Bibliotecas"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "municipio": "Madrid",
+    "provincia": "Madrid"
+  },
+  {
+    "id": "muni_madrid_044",
+    "nombre": "Centros Municipales de Mayores - Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Personas-mayores/Centros-Municipales-de-Mayores",
+    "organismo": "Ayuntamiento de Madrid",
+    "nivel": "municipal",
+    "tipo": "centro",
+    "descripcion": "Más de 80 centros municipales de personas mayores con actividades culturales, formativas, de ocio y participación.",
+    "hashtags": [
+      "#CentrosMayores",
+      "#Madrid",
+      "#Mayores",
+      "#TerceraEdad",
+      "#EnvejecimientoActivo",
+      "#AyuntamientoMadrid",
+      "#Distritos",
+      "#Cultura",
+      "#Ocio",
+      "#PersonasMayores"
+    ],
+    "servicios_principales": [
+      "Carné socio",
+      "Talleres",
+      "Comedor",
+      "Excursiones",
+      "Voluntariado"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "municipio": "Madrid",
+    "provincia": "Madrid"
+  },
+  {
+    "id": "muni_madrid_045",
+    "nombre": "Centros de Día Municipales para Mayores - Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Personas-mayores/Centros-de-Dia-Municipales",
+    "organismo": "Ayuntamiento de Madrid",
+    "nivel": "municipal",
+    "tipo": "centro",
+    "descripcion": "Centros de día municipales con atención sociosanitaria diurna para personas mayores con dependencia.",
+    "hashtags": [
+      "#CentrosDia",
+      "#Madrid",
+      "#Mayores",
+      "#Dependencia",
+      "#TerceraEdad",
+      "#PersonasMayores",
+      "#AyuntamientoMadrid",
+      "#Cuidados",
+      "#Distritos",
+      "#Diurnos"
+    ],
+    "servicios_principales": [
+      "Atención diurna",
+      "Comedor",
+      "Estimulación cognitiva",
+      "Transporte",
+      "Servicios sociales"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "municipio": "Madrid",
+    "provincia": "Madrid"
+  },
+  {
+    "id": "muni_madrid_046",
+    "nombre": "Servicio de Ayuda a Domicilio (SAD) - Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Personas-mayores/Servicio-de-Ayuda-a-Domicilio-SAD",
+    "organismo": "Ayuntamiento de Madrid",
+    "nivel": "municipal",
+    "tipo": "servicio",
+    "descripcion": "Atención personal y doméstica en el domicilio de personas mayores y con discapacidad gestionada por servicios sociales municipales.",
+    "hashtags": [
+      "#SAD",
+      "#AyudaDomicilio",
+      "#Madrid",
+      "#Mayores",
+      "#Dependencia",
+      "#AyuntamientoMadrid",
+      "#TerceraEdad",
+      "#PersonasMayores",
+      "#Cuidados",
+      "#ApoyoDomiciliario"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Atención personal",
+      "Limpieza domicilio",
+      "Coordinación SAAD",
+      "Copago"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "municipio": "Madrid",
+    "provincia": "Madrid"
+  },
+  {
+    "id": "muni_madrid_047",
+    "nombre": "Teleasistencia Municipal - Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Personas-mayores/Teleasistencia",
+    "organismo": "Ayuntamiento de Madrid",
+    "nivel": "municipal",
+    "tipo": "servicio",
+    "descripcion": "Teleasistencia domiciliaria 24 horas con dispositivo personal para personas mayores y con discapacidad en el municipio de Madrid.",
+    "hashtags": [
+      "#Teleasistencia",
+      "#Madrid",
+      "#Mayores",
+      "#TerceraEdad",
+      "#Soledad",
+      "#AyuntamientoMadrid",
+      "#PersonasMayores",
+      "#24horas",
+      "#Cuidados",
+      "#ApoyoDomiciliario"
+    ],
+    "servicios_principales": [
+      "Alta",
+      "Dispositivo",
+      "Atención 24h",
+      "Coordinación 112 / SAMUR",
+      "Visitas seguimiento"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "municipio": "Madrid",
+    "provincia": "Madrid"
+  },
+  {
+    "id": "muni_madrid_048",
+    "nombre": "Comidas a Domicilio para Mayores - Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Personas-mayores/Comidas-a-Domicilio",
+    "organismo": "Ayuntamiento de Madrid",
+    "nivel": "municipal",
+    "tipo": "servicio",
+    "descripcion": "Reparto diario de menús equilibrados en el domicilio de personas mayores con dificultades para cocinar o desplazarse.",
+    "hashtags": [
+      "#ComidasDomicilio",
+      "#Madrid",
+      "#Mayores",
+      "#TerceraEdad",
+      "#Soledad",
+      "#PersonasMayores",
+      "#AyuntamientoMadrid",
+      "#Alimentacion",
+      "#Cuidados",
+      "#ApoyoDomiciliario"
+    ],
+    "servicios_principales": [
+      "Menús diarios",
+      "Dietas especiales",
+      "Solicitud",
+      "Servicios sociales distrito",
+      "Coordinación SAD"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "municipio": "Madrid",
+    "provincia": "Madrid"
+  },
+  {
+    "id": "muni_madrid_049",
+    "nombre": "Programa Voluntariado Mayores - Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Personas-mayores/Programa-de-Voluntariado",
+    "organismo": "Ayuntamiento de Madrid",
+    "nivel": "municipal",
+    "tipo": "programa",
+    "descripcion": "Voluntariado social de personas mayores en programas intergeneracionales y de acompañamiento en distritos.",
+    "hashtags": [
+      "#Voluntariado",
+      "#Mayores",
+      "#Madrid",
+      "#Intergeneracional",
+      "#TerceraEdad",
+      "#PersonasMayores",
+      "#AyuntamientoMadrid",
+      "#Acompañamiento",
+      "#EnvejecimientoActivo",
+      "#ParticipacionSocial"
+    ],
+    "servicios_principales": [
+      "Acompañamiento",
+      "Mentorías",
+      "Programas intergeneracionales",
+      "Actividades culturales",
+      "Formación voluntarios"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "municipio": "Madrid",
+    "provincia": "Madrid"
+  },
+  {
+    "id": "muni_madrid_050",
+    "nombre": "Plan Operativo Sin Hogar - SAMUR Social Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Atencion-social-primaria/SAMUR-Social/Personas-sin-hogar",
+    "organismo": "Ayuntamiento de Madrid - SAMUR Social",
+    "nivel": "municipal",
+    "tipo": "programa",
+    "descripcion": "Red municipal de atención a personas sin hogar: campaña de frío, alojamiento, comedores y Housing First.",
+    "hashtags": [
+      "#SinHogar",
+      "#Madrid",
+      "#SAMURSocial",
+      "#HousingFirst",
+      "#Frio",
+      "#Vulnerables",
+      "#AyuntamientoMadrid",
+      "#Inclusion",
+      "#Pobreza",
+      "#AccionSocial"
+    ],
+    "servicios_principales": [
+      "Centros acogida",
+      "Comedores",
+      "Campaña frío",
+      "Housing First",
+      "Equipos calle"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "municipio": "Madrid",
+    "provincia": "Madrid"
+  },
+  {
+    "id": "muni_madrid_051",
+    "nombre": "Servicio de Mediación Intercultural y Migrantes - Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Inmigracion-y-cooperacion-al-desarrollo",
+    "organismo": "Ayuntamiento de Madrid",
+    "nivel": "municipal",
+    "tipo": "servicio",
+    "descripcion": "Centros de Información y Orientación CEPI y mediación intercultural para personas migrantes en Madrid.",
+    "hashtags": [
+      "#Migrantes",
+      "#Madrid",
+      "#CEPI",
+      "#Mediacion",
+      "#Inclusion",
+      "#AyuntamientoMadrid",
+      "#Intercultural",
+      "#Diversidad",
+      "#Refugiados",
+      "#Convivencia"
+    ],
+    "servicios_principales": [
+      "Centros CEPI",
+      "Información migrantes",
+      "Empleo",
+      "Asesoría legal",
+      "Convivencia"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "municipio": "Madrid",
+    "provincia": "Madrid"
+  },
+  {
+    "id": "muni_madrid_052",
+    "nombre": "Casa de Acogida y Pisos Tutelados Mujeres VG - Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Igualdad/Atencion-a-mujeres-victimas-de-violencia-de-genero",
+    "organismo": "Ayuntamiento de Madrid",
+    "nivel": "municipal",
+    "tipo": "centro",
+    "descripcion": "Red municipal de acogida (corta y larga estancia) y pisos tutelados para mujeres víctimas de violencia de género e hijos.",
+    "hashtags": [
+      "#CasaAcogida",
+      "#Mujeres",
+      "#ViolenciaGenero",
+      "#Madrid",
+      "#Igualdad",
+      "#PisosTutelados",
+      "#AyuntamientoMadrid",
+      "#Victimas",
+      "#Refugio",
+      "#Proteccion"
+    ],
+    "servicios_principales": [
+      "Acogida emergencia",
+      "Larga estancia",
+      "Pisos tutelados",
+      "Apoyo psicológico",
+      "Itinerarios autonomía"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "municipio": "Madrid",
+    "provincia": "Madrid"
+  },
+  {
+    "id": "muni_madrid_053",
+    "nombre": "ATENPRO en el Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Igualdad/ATENPRO",
+    "organismo": "Ayuntamiento de Madrid",
+    "nivel": "municipal",
+    "tipo": "servicio",
+    "descripcion": "Tramitación municipal del Servicio Telefónico de Atención y Protección (ATENPRO) para mujeres víctimas de VG en Madrid.",
+    "hashtags": [
+      "#ATENPRO",
+      "#Mujeres",
+      "#ViolenciaGenero",
+      "#Madrid",
+      "#Teleasistencia",
+      "#Igualdad",
+      "#AyuntamientoMadrid",
+      "#Victimas",
+      "#GPS",
+      "#Proteccion"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Dispositivo móvil",
+      "Coordinación CIAM",
+      "Atención 24h",
+      "Acompañamiento"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "municipio": "Madrid",
+    "provincia": "Madrid"
+  },
+  {
+    "id": "muni_madrid_054",
+    "nombre": "Programa Hombres por la Igualdad - Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Igualdad/Hombres-por-la-Igualdad",
+    "organismo": "Ayuntamiento de Madrid",
+    "nivel": "municipal",
+    "tipo": "programa",
+    "descripcion": "Espacio de reflexión y talleres sobre nuevas masculinidades, paternidad responsable y prevención de violencia para hombres en Madrid.",
+    "hashtags": [
+      "#Hombres",
+      "#Madrid",
+      "#Igualdad",
+      "#NuevasMasculinidades",
+      "#Paternidad",
+      "#PrevencionVG",
+      "#AyuntamientoMadrid",
+      "#Corresponsabilidad",
+      "#Genero",
+      "#Talleres"
+    ],
+    "servicios_principales": [
+      "Talleres",
+      "Grupos reflexión",
+      "Paternidad",
+      "Corresponsabilidad",
+      "Prevención"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "municipio": "Madrid",
+    "provincia": "Madrid"
+  },
+  {
+    "id": "muni_madrid_055",
+    "nombre": "Becas Comedor Escolar - Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Educacion-y-empleo/Educacion/Becas-de-comedor-escolar",
+    "organismo": "Ayuntamiento de Madrid",
+    "nivel": "municipal",
+    "tipo": "ayuda",
+    "descripcion": "Becas municipales complementarias de comedor escolar en Educación Infantil y Primaria para familias con baja renta.",
+    "hashtags": [
+      "#BecasComedor",
+      "#Madrid",
+      "#Educacion",
+      "#Familias",
+      "#Infancia",
+      "#Escuela",
+      "#AyuntamientoMadrid",
+      "#Vulnerables",
+      "#Comedor",
+      "#Primaria"
+    ],
+    "servicios_principales": [
+      "Convocatoria anual",
+      "Solicitud",
+      "Renta familiar",
+      "Centros adheridos",
+      "Ayuda diaria"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "municipio": "Madrid",
+    "provincia": "Madrid"
+  },
+  {
+    "id": "muni_madrid_056",
+    "nombre": "Cheque Familia Numerosa - Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Familia/Familias-numerosas",
+    "organismo": "Ayuntamiento de Madrid",
+    "nivel": "municipal",
+    "tipo": "ayuda",
+    "descripcion": "Beneficios y bonificaciones municipales para familias numerosas y monoparentales: tasas, ocio, deportes y cultura.",
+    "hashtags": [
+      "#FamiliaNumerosa",
+      "#Madrid",
+      "#Familias",
+      "#Monoparental",
+      "#AyuntamientoMadrid",
+      "#Bonificaciones",
+      "#Cultura",
+      "#Deporte",
+      "#Tasas",
+      "#Conciliacion"
+    ],
+    "servicios_principales": [
+      "Bonificación IBI",
+      "Tasas municipales",
+      "Deportes municipales",
+      "Cultura",
+      "Transporte"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "municipio": "Madrid",
+    "provincia": "Madrid"
+  },
+  {
+    "id": "muni_madrid_057",
+    "nombre": "Servicio de Mediación Familiar - Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Familia-e-infancia/Mediacion-Familiar",
+    "organismo": "Ayuntamiento de Madrid",
+    "nivel": "municipal",
+    "tipo": "servicio",
+    "descripcion": "Servicio gratuito de mediación familiar en distritos para resolver conflictos familiares, separaciones, custodia y herencias.",
+    "hashtags": [
+      "#Mediacion",
+      "#Familia",
+      "#Madrid",
+      "#Distritos",
+      "#Divorcio",
+      "#Custodia",
+      "#AyuntamientoMadrid",
+      "#Conflictos",
+      "#Mediadores",
+      "#Conciliacion"
+    ],
+    "servicios_principales": [
+      "Mediación familiar",
+      "Mediación intergeneracional",
+      "Distritos",
+      "Conflictos vecinales",
+      "Cita previa"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "municipio": "Madrid",
+    "provincia": "Madrid"
+  },
+  {
+    "id": "muni_madrid_058",
+    "nombre": "Punto Encuentro Familiar - Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Familia-e-infancia/Puntos-de-Encuentro-Familiar",
+    "organismo": "Ayuntamiento de Madrid",
+    "nivel": "municipal",
+    "tipo": "servicio",
+    "descripcion": "Puntos de encuentro familiar para garantizar el régimen de visitas y la entrega/recogida en familias con conflicto, separación o VG.",
+    "hashtags": [
+      "#PuntoEncuentro",
+      "#Familia",
+      "#Menores",
+      "#Madrid",
+      "#Custodia",
+      "#Separacion",
+      "#AyuntamientoMadrid",
+      "#ViolenciaGenero",
+      "#Distritos",
+      "#Visitas"
+    ],
+    "servicios_principales": [
+      "Visitas tuteladas",
+      "Entrega/recogida",
+      "Coordinación judicial",
+      "Apoyo familiar",
+      "Acompañamiento"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "municipio": "Madrid",
+    "provincia": "Madrid"
+  },
+  {
+    "id": "muni_madrid_059",
+    "nombre": "Centros de Apoyo a las Familias (CAF) - Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Familia-e-infancia/Centros-de-Apoyo-a-las-Familias-CAF",
+    "organismo": "Ayuntamiento de Madrid",
+    "nivel": "municipal",
+    "tipo": "centro",
+    "descripcion": "Centros de Apoyo a las Familias con orientación psicológica, jurídica y educativa para parejas, padres, madres y menores.",
+    "hashtags": [
+      "#CAF",
+      "#Familia",
+      "#Madrid",
+      "#Apoyo",
+      "#Crianza",
+      "#Parejas",
+      "#AyuntamientoMadrid",
+      "#Adolescentes",
+      "#Mediacion",
+      "#Distritos"
+    ],
+    "servicios_principales": [
+      "Orientación psicológica",
+      "Asesoría jurídica",
+      "Talleres parentalidad",
+      "Adolescentes",
+      "Mediación"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "municipio": "Madrid",
+    "provincia": "Madrid"
+  },
+  {
+    "id": "muni_madrid_060",
+    "nombre": "Oficina de Información Juvenil - Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Educacion-y-empleo/Juventud",
+    "organismo": "Ayuntamiento de Madrid",
+    "nivel": "municipal",
+    "tipo": "servicio",
+    "descripcion": "Oficina municipal de información y asesoramiento para jóvenes en empleo, vivienda, ocio, formación y movilidad internacional.",
+    "hashtags": [
+      "#Jovenes",
+      "#Madrid",
+      "#Informacion",
+      "#Empleo",
+      "#Vivienda",
+      "#Movilidad",
+      "#AyuntamientoMadrid",
+      "#Erasmus",
+      "#Asesoramiento",
+      "#Ocio"
+    ],
+    "servicios_principales": [
+      "Información joven",
+      "Carné joven",
+      "Empleo",
+      "Vivienda",
+      "Asesoría internacional"
+    ],
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "municipio": "Madrid",
+    "provincia": "Madrid"
   }
 ]

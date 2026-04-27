@@ -4880,5 +4880,1745 @@
       "Tramitación autonómica"
     ],
     "sede_electronica": true
+  },
+  {
+    "id": "estatal_211",
+    "nombre": "Asignación económica por hijo o menor a cargo",
+    "url": "https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/10963",
+    "sede_electronica": "https://sede.seg-social.gob.es",
+    "organismo": "Instituto Nacional de la Seguridad Social (INSS)",
+    "nivel": "estatal",
+    "tipo": "prestacion",
+    "descripcion": "Prestación familiar por hijo a cargo (mantenida en supuestos transitorios tras la sustitución por el Complemento de Ayuda para la Infancia del IMV).",
+    "hashtags": [
+      "#HijoACargo",
+      "#PrestacionFamiliar",
+      "#INSS",
+      "#SeguridadSocial",
+      "#Familia",
+      "#Infancia",
+      "#Hijos",
+      "#AyudasFamilia",
+      "#Prestaciones",
+      "#ApoyoFamiliar"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Importes",
+      "Compatibilidad con IMV",
+      "Discapacidad menor",
+      "Renovación"
+    ]
+  },
+  {
+    "id": "estatal_212",
+    "nombre": "Complemento de Ayuda para la Infancia (CAPI / IMV)",
+    "url": "https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/65850d68-8d06-4645-bde7-05374ee42ac7",
+    "sede_electronica": "https://sede.seg-social.gob.es",
+    "organismo": "Instituto Nacional de la Seguridad Social (INSS)",
+    "nivel": "estatal",
+    "tipo": "prestacion",
+    "descripcion": "Complemento mensual del IMV destinado a hogares con menores a cargo, según tramos de edad.",
+    "hashtags": [
+      "#CAPI",
+      "#IMV",
+      "#Infancia",
+      "#AyudasMenores",
+      "#Familias",
+      "#PobrezaInfantil",
+      "#INSS",
+      "#SeguridadSocial",
+      "#Hijos",
+      "#ProteccionInfancia"
+    ],
+    "servicios_principales": [
+      "Cuantías por tramos",
+      "Solicitud junto al IMV",
+      "Convivencia",
+      "Renta",
+      "Renovación anual"
+    ]
+  },
+  {
+    "id": "estatal_213",
+    "nombre": "Deducción por familia numerosa - IRPF",
+    "url": "https://sede.agenciatributaria.gob.es/Sede/deducciones-familia-numerosa-personas-discapacidad-cargo.html",
+    "sede_electronica": "https://sede.agenciatributaria.gob.es",
+    "organismo": "Ministerio de Hacienda",
+    "nivel": "estatal",
+    "tipo": "deduccion",
+    "descripcion": "Deducción anual de IRPF por familia numerosa (categoría general o especial), abonable mensualmente como cobro anticipado.",
+    "hashtags": [
+      "#FamiliaNumerosa",
+      "#IRPF",
+      "#Deduccion",
+      "#AEAT",
+      "#Hacienda",
+      "#Familias",
+      "#AyudasFamilia",
+      "#TitulodeFamilia",
+      "#ImpuestoRenta",
+      "#Conciliacion"
+    ],
+    "servicios_principales": [
+      "Modelo 143",
+      "Cobro anticipado",
+      "Categoría general/especial",
+      "Acreditación título",
+      "Compatibilidad otras deducciones"
+    ]
+  },
+  {
+    "id": "estatal_214",
+    "nombre": "Deducción por descendiente con discapacidad - IRPF",
+    "url": "https://sede.agenciatributaria.gob.es/Sede/deducciones-familia-numerosa-personas-discapacidad-cargo.html",
+    "sede_electronica": "https://sede.agenciatributaria.gob.es",
+    "organismo": "Ministerio de Hacienda",
+    "nivel": "estatal",
+    "tipo": "deduccion",
+    "descripcion": "Deducción de hasta 1.200 € anuales por cada descendiente con discapacidad reconocida, con posibilidad de cobro anticipado mensual.",
+    "hashtags": [
+      "#Discapacidad",
+      "#IRPF",
+      "#Deduccion",
+      "#AEAT",
+      "#Hijos",
+      "#Familias",
+      "#AyudasDiscapacidad",
+      "#CobroAnticipado",
+      "#ImpuestoRenta",
+      "#Hacienda"
+    ],
+    "servicios_principales": [
+      "Modelo 143",
+      "Cobro anticipado",
+      "Acreditación discapacidad",
+      "Compatibilidad",
+      "Renovación"
+    ]
+  },
+  {
+    "id": "estatal_215",
+    "nombre": "Deducción por ascendiente con discapacidad - IRPF",
+    "url": "https://sede.agenciatributaria.gob.es/Sede/deducciones-familia-numerosa-personas-discapacidad-cargo.html",
+    "sede_electronica": "https://sede.agenciatributaria.gob.es",
+    "organismo": "Ministerio de Hacienda",
+    "nivel": "estatal",
+    "tipo": "deduccion",
+    "descripcion": "Deducción de IRPF por ascendiente con discapacidad acreditada que conviva con el contribuyente.",
+    "hashtags": [
+      "#Discapacidad",
+      "#Mayores",
+      "#IRPF",
+      "#AEAT",
+      "#Cuidadores",
+      "#Familias",
+      "#Deduccion",
+      "#Hacienda",
+      "#Ascendientes",
+      "#AyudasFamilia"
+    ],
+    "servicios_principales": [
+      "Modelo 143",
+      "Cobro anticipado",
+      "Convivencia",
+      "Discapacidad ≥33%",
+      "Acreditación"
+    ]
+  },
+  {
+    "id": "estatal_216",
+    "nombre": "Erasmus+ España (SEPIE)",
+    "url": "https://www.sepie.es",
+    "sede_electronica": "https://sede.educacion.gob.es",
+    "organismo": "Ministerio de Educación, Formación Profesional y Deportes",
+    "nivel": "estatal",
+    "tipo": "agencia",
+    "descripcion": "Servicio Español para la Internacionalización de la Educación, agencia nacional Erasmus+ para movilidad de estudiantes, profesorado y FP.",
+    "hashtags": [
+      "#Erasmus",
+      "#SEPIE",
+      "#Movilidad",
+      "#Educacion",
+      "#Universidad",
+      "#FP",
+      "#Becas",
+      "#Internacional",
+      "#Jovenes",
+      "#UE"
+    ],
+    "servicios_principales": [
+      "Becas Erasmus+",
+      "Movilidad estudiantes",
+      "Movilidad personal",
+      "Proyectos KA",
+      "Cuerpo Europeo de Solidaridad"
+    ]
+  },
+  {
+    "id": "estatal_217",
+    "nombre": "Becas MEC para Programas de Inmersión Lingüística",
+    "url": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/catalogo/estudiantes/becas-ayudas/para-estudiar/idiomas.html",
+    "sede_electronica": "https://sede.educacion.gob.es",
+    "organismo": "Ministerio de Educación, Formación Profesional y Deportes",
+    "nivel": "estatal",
+    "tipo": "beca",
+    "descripcion": "Becas para cursos de inmersión lingüística en lengua inglesa para alumnado de ESO, Bachillerato, FP y universidad.",
+    "hashtags": [
+      "#Becas",
+      "#Idiomas",
+      "#Ingles",
+      "#MEC",
+      "#Educacion",
+      "#Estudiantes",
+      "#Adolescentes",
+      "#Jovenes",
+      "#Inmersion",
+      "#Verano"
+    ],
+    "servicios_principales": [
+      "Convocatoria anual",
+      "Cursos en España",
+      "Cursos en el extranjero",
+      "Tramo edad",
+      "Requisitos académicos"
+    ]
+  },
+  {
+    "id": "estatal_218",
+    "nombre": "Subsidio para mayores de 45 años",
+    "url": "https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/quiero-cobrar-el-paro/subsidio-desempleo.html",
+    "sede_electronica": "https://sede.sepe.gob.es",
+    "organismo": "Servicio Público de Empleo Estatal (SEPE)",
+    "nivel": "estatal",
+    "tipo": "prestacion",
+    "descripcion": "Subsidio asistencial por desempleo para mayores de 45 años con responsabilidades familiares y prestación contributiva agotada.",
+    "hashtags": [
+      "#SEPE",
+      "#Subsidio",
+      "#Desempleo",
+      "#Mayores45",
+      "#Paro",
+      "#Empleo",
+      "#Adultos",
+      "#PrestacionAsistencial",
+      "#Renta",
+      "#ApoyoEmpleo"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Requisitos rentas",
+      "Cargas familiares",
+      "Duración",
+      "Compatibilidad con empleo"
+    ]
+  },
+  {
+    "id": "estatal_219",
+    "nombre": "Subsidio para mayores de 52 años",
+    "url": "https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/quiero-cobrar-el-paro/subsidio-desempleo/subsidio-mayores-52.html",
+    "sede_electronica": "https://sede.sepe.gob.es",
+    "organismo": "Servicio Público de Empleo Estatal (SEPE)",
+    "nivel": "estatal",
+    "tipo": "prestacion",
+    "descripcion": "Subsidio por desempleo de duración indefinida hasta la jubilación para personas mayores de 52 años con cotización suficiente.",
+    "hashtags": [
+      "#SEPE",
+      "#Subsidio",
+      "#Mayores52",
+      "#Desempleo",
+      "#Paro",
+      "#PreJubilacion",
+      "#Empleo",
+      "#Mayores",
+      "#Cotizacion",
+      "#Renta"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Cotización mínima",
+      "Cuantía mensual",
+      "Cotización jubilación",
+      "Compatibilidad"
+    ]
+  },
+  {
+    "id": "estatal_220",
+    "nombre": "Pensión contributiva de jubilación",
+    "url": "https://www.seg-social.es/wps/portal/wss/internet/Pensionistas/Servicios/34887",
+    "sede_electronica": "https://sede.seg-social.gob.es",
+    "organismo": "Instituto Nacional de la Seguridad Social (INSS)",
+    "nivel": "estatal",
+    "tipo": "prestacion",
+    "descripcion": "Pensión por jubilación ordinaria, anticipada, parcial o demorada del régimen general y especiales de la Seguridad Social.",
+    "hashtags": [
+      "#Jubilacion",
+      "#Pension",
+      "#INSS",
+      "#SeguridadSocial",
+      "#Mayores",
+      "#Pensionistas",
+      "#Cotizacion",
+      "#PensionContributiva",
+      "#Retiro",
+      "#Tercera"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Modalidades",
+      "Cuantía",
+      "Compatibilidad trabajo",
+      "Revalorización anual"
+    ]
+  },
+  {
+    "id": "estatal_221",
+    "nombre": "Pensión de viudedad",
+    "url": "https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/10952",
+    "sede_electronica": "https://sede.seg-social.gob.es",
+    "organismo": "Instituto Nacional de la Seguridad Social (INSS)",
+    "nivel": "estatal",
+    "tipo": "prestacion",
+    "descripcion": "Pensión vitalicia para el cónyuge o pareja de hecho superviviente por fallecimiento del causante.",
+    "hashtags": [
+      "#Viudedad",
+      "#Pension",
+      "#INSS",
+      "#SeguridadSocial",
+      "#Familia",
+      "#Fallecimiento",
+      "#Pareja",
+      "#ParejaHecho",
+      "#PensionContributiva",
+      "#Mayores"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Requisitos",
+      "Cuantía",
+      "Pareja de hecho",
+      "Compatibilidades"
+    ]
+  },
+  {
+    "id": "estatal_222",
+    "nombre": "Pensión de orfandad",
+    "url": "https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/10953",
+    "sede_electronica": "https://sede.seg-social.gob.es",
+    "organismo": "Instituto Nacional de la Seguridad Social (INSS)",
+    "nivel": "estatal",
+    "tipo": "prestacion",
+    "descripcion": "Pensión para hijos menores de 21 años (o mayores con discapacidad) por fallecimiento del progenitor.",
+    "hashtags": [
+      "#Orfandad",
+      "#Pension",
+      "#INSS",
+      "#Hijos",
+      "#SeguridadSocial",
+      "#Familia",
+      "#MenoresHijos",
+      "#Fallecimiento",
+      "#PensionContributiva",
+      "#ProteccionMenores"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Edad",
+      "Discapacidad",
+      "Cuantía",
+      "Orfandad absoluta"
+    ]
+  },
+  {
+    "id": "estatal_223",
+    "nombre": "Pensión en favor de familiares",
+    "url": "https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/10954",
+    "sede_electronica": "https://sede.seg-social.gob.es",
+    "organismo": "Instituto Nacional de la Seguridad Social (INSS)",
+    "nivel": "estatal",
+    "tipo": "prestacion",
+    "descripcion": "Pensión para familiares (nietos, hermanos, padres, abuelos) que dependieran económicamente del causante fallecido.",
+    "hashtags": [
+      "#PensionFamiliares",
+      "#INSS",
+      "#SeguridadSocial",
+      "#Familia",
+      "#Fallecimiento",
+      "#Pension",
+      "#Mayores",
+      "#Hermanos",
+      "#Nietos",
+      "#Dependencia"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Requisitos convivencia",
+      "Cuantía",
+      "Compatibilidades",
+      "Acreditación"
+    ]
+  },
+  {
+    "id": "estatal_224",
+    "nombre": "Pensión No Contributiva de Jubilación (PNC)",
+    "url": "https://www.imserso.es/imserso_01/prestaciones_y_subvenciones/pnc_jubilacion/index.htm",
+    "sede_electronica": "https://sede.imserso.gob.es",
+    "organismo": "IMSERSO - Ministerio de Derechos Sociales",
+    "nivel": "estatal",
+    "tipo": "prestacion",
+    "descripcion": "Pensión no contributiva para mayores de 65 años sin cotización suficiente y rentas inferiores al límite legal.",
+    "hashtags": [
+      "#PNC",
+      "#PensionNoContributiva",
+      "#Mayores",
+      "#IMSERSO",
+      "#SeguridadSocial",
+      "#Jubilacion",
+      "#Pensionistas",
+      "#RentasBajas",
+      "#TerceraEdad",
+      "#Vulnerables"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Requisitos rentas",
+      "Cuantía",
+      "Complemento alquiler",
+      "Revisión anual"
+    ]
+  },
+  {
+    "id": "estatal_225",
+    "nombre": "Pensión No Contributiva de Invalidez",
+    "url": "https://www.imserso.es/imserso_01/prestaciones_y_subvenciones/pnc_invalidez/index.htm",
+    "sede_electronica": "https://sede.imserso.gob.es",
+    "organismo": "IMSERSO - Ministerio de Derechos Sociales",
+    "nivel": "estatal",
+    "tipo": "prestacion",
+    "descripcion": "Pensión no contributiva para personas entre 18 y 65 años con discapacidad ≥65% y rentas insuficientes.",
+    "hashtags": [
+      "#PNC",
+      "#Invalidez",
+      "#Discapacidad",
+      "#IMSERSO",
+      "#Pension",
+      "#NoContributiva",
+      "#RentasBajas",
+      "#ProteccionSocial",
+      "#Vulnerables",
+      "#Adultos"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Discapacidad ≥65%",
+      "Cuantía",
+      "Complemento de tercera persona",
+      "Revisión"
+    ]
+  },
+  {
+    "id": "estatal_226",
+    "nombre": "Complemento a mínimos de pensiones",
+    "url": "https://www.seg-social.es/wps/portal/wss/internet/Pensionistas/PensionesNoContributivas/35092",
+    "sede_electronica": "https://sede.seg-social.gob.es",
+    "organismo": "Instituto Nacional de la Seguridad Social (INSS)",
+    "nivel": "estatal",
+    "tipo": "prestacion",
+    "descripcion": "Complemento que eleva las pensiones contributivas hasta el importe mínimo legal en función de cargas familiares y residencia.",
+    "hashtags": [
+      "#ComplementoMinimos",
+      "#Pensiones",
+      "#INSS",
+      "#SeguridadSocial",
+      "#Pensionistas",
+      "#Mayores",
+      "#Viudedad",
+      "#Jubilacion",
+      "#RentasBajas",
+      "#Garantia"
+    ],
+    "servicios_principales": [
+      "Cálculo automático",
+      "Requisitos rentas",
+      "Residencia España",
+      "Cargas familiares",
+      "Revisión anual"
+    ]
+  },
+  {
+    "id": "estatal_227",
+    "nombre": "Programa de Termalismo Social IMSERSO",
+    "url": "https://www.imserso.es/imserso_01/envejecimiento_activo/termalismo/index.htm",
+    "sede_electronica": "https://sede.imserso.gob.es",
+    "organismo": "IMSERSO - Ministerio de Derechos Sociales",
+    "nivel": "estatal",
+    "tipo": "programa",
+    "descripcion": "Estancias en balnearios para mayores con tratamientos termales subvencionados.",
+    "hashtags": [
+      "#Termalismo",
+      "#IMSERSO",
+      "#Mayores",
+      "#TerceraEdad",
+      "#Balnearios",
+      "#Salud",
+      "#EnvejecimientoActivo",
+      "#Pensionistas",
+      "#Bienestar",
+      "#Subvencion"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Convocatoria",
+      "Listado balnearios",
+      "Tratamientos",
+      "Acompañante"
+    ]
+  },
+  {
+    "id": "estatal_228",
+    "nombre": "Viajes IMSERSO - Programa de Turismo Social",
+    "url": "https://www.imserso.es/imserso_01/envejecimiento_activo/turismo/index.htm",
+    "sede_electronica": "https://sede.imserso.gob.es",
+    "organismo": "IMSERSO - Ministerio de Derechos Sociales",
+    "nivel": "estatal",
+    "tipo": "programa",
+    "descripcion": "Viajes y estancias subvencionadas para personas mayores en costa peninsular, insular y turismo de interior.",
+    "hashtags": [
+      "#ViajesIMSERSO",
+      "#Mayores",
+      "#TurismoSocial",
+      "#Pensionistas",
+      "#TerceraEdad",
+      "#IMSERSO",
+      "#EnvejecimientoActivo",
+      "#Vacaciones",
+      "#Subvencion",
+      "#Bienestar"
+    ],
+    "servicios_principales": [
+      "Acreditación",
+      "Solicitud",
+      "Costa peninsular",
+      "Costa insular",
+      "Turismo de interior"
+    ]
+  },
+  {
+    "id": "estatal_229",
+    "nombre": "Tarjeta Dorada Renfe",
+    "url": "https://www.renfe.com/es/es/viajar/tarjetas/tarjeta-dorada",
+    "sede_electronica": "https://www.renfe.com",
+    "organismo": "Renfe",
+    "nivel": "estatal",
+    "tipo": "tarjeta",
+    "descripcion": "Tarjeta personal con descuentos del 25-40 % en trenes Renfe para mayores de 60 años y personas con discapacidad.",
+    "hashtags": [
+      "#TarjetaDorada",
+      "#Renfe",
+      "#Mayores",
+      "#TerceraEdad",
+      "#Descuentos",
+      "#Tren",
+      "#Movilidad",
+      "#Pensionistas",
+      "#Discapacidad",
+      "#Transporte"
+    ],
+    "servicios_principales": [
+      "Compra online",
+      "Descuentos AVE",
+      "Cercanías",
+      "Media distancia",
+      "Renovación anual"
+    ]
+  },
+  {
+    "id": "estatal_230",
+    "nombre": "Sistema para la Autonomía y Atención a la Dependencia (SAAD)",
+    "url": "https://www.imserso.es/imserso_01/autonomia_personal_dependencia/saad/index.htm",
+    "sede_electronica": "https://sede.imserso.gob.es",
+    "organismo": "IMSERSO - Ministerio de Derechos Sociales",
+    "nivel": "estatal",
+    "tipo": "programa",
+    "descripcion": "Marco estatal de la Ley de Dependencia: valoración, prestaciones económicas y servicios para personas en situación de dependencia.",
+    "hashtags": [
+      "#SAAD",
+      "#Dependencia",
+      "#LeyDependencia",
+      "#IMSERSO",
+      "#Mayores",
+      "#Discapacidad",
+      "#Cuidadores",
+      "#PrestacionesDependencia",
+      "#AyudaDomicilio",
+      "#Familia"
+    ],
+    "servicios_principales": [
+      "Valoración grado",
+      "PIA",
+      "Prestación cuidados familiares",
+      "Ayuda a domicilio",
+      "Centros de día"
+    ]
+  },
+  {
+    "id": "estatal_231",
+    "nombre": "Reconocimiento del grado de discapacidad",
+    "url": "https://www.imserso.es/imserso_01/autonomia_personal_dependencia/discapacidad/grado_minusvalia/index.htm",
+    "sede_electronica": "https://sede.imserso.gob.es",
+    "organismo": "IMSERSO - Ministerio de Derechos Sociales",
+    "nivel": "estatal",
+    "tipo": "tramite",
+    "descripcion": "Procedimiento de valoración y reconocimiento del grado de discapacidad regulado por el RD 888/2022 (gestionado por las CCAA).",
+    "hashtags": [
+      "#Discapacidad",
+      "#Certificado",
+      "#GradoDiscapacidad",
+      "#IMSERSO",
+      "#CentroBase",
+      "#Valoracion",
+      "#ProteccionSocial",
+      "#Dependencia",
+      "#Adultos",
+      "#Menores"
+    ],
+    "servicios_principales": [
+      "Solicitud autonómica",
+      "Valoración multiprofesional",
+      "Certificado",
+      "Revisión grado",
+      "Tarjeta acreditativa"
+    ]
+  },
+  {
+    "id": "estatal_232",
+    "nombre": "Centros Especiales de Empleo (CEE)",
+    "url": "https://www.sepe.es/HomeSepe/Personas/encontrar-trabajo/empleo-personas-con-discapacidad/centros-especiales-empleo.html",
+    "sede_electronica": "https://sede.sepe.gob.es",
+    "organismo": "Servicio Público de Empleo Estatal (SEPE)",
+    "nivel": "estatal",
+    "tipo": "programa",
+    "descripcion": "Empleo protegido para personas con discapacidad ≥33 % en centros especiales de empleo con subvenciones a la contratación.",
+    "hashtags": [
+      "#CEE",
+      "#EmpleoProtegido",
+      "#Discapacidad",
+      "#SEPE",
+      "#Inclusion",
+      "#Trabajo",
+      "#Empleo",
+      "#Diversidad",
+      "#ApoyoLaboral",
+      "#Subvenciones"
+    ],
+    "servicios_principales": [
+      "Listado de CEE",
+      "Subvenciones SMI",
+      "Adaptación puesto",
+      "Tránsito al empleo ordinario",
+      "Bonificaciones"
+    ]
+  },
+  {
+    "id": "estatal_233",
+    "nombre": "Empleo con Apoyo - Personas con Discapacidad",
+    "url": "https://www.sepe.es/HomeSepe/Personas/encontrar-trabajo/empleo-personas-con-discapacidad/empleo-con-apoyo.html",
+    "sede_electronica": "https://sede.sepe.gob.es",
+    "organismo": "Servicio Público de Empleo Estatal (SEPE)",
+    "nivel": "estatal",
+    "tipo": "programa",
+    "descripcion": "Programa de acompañamiento individualizado para la inserción de personas con discapacidad en empresas ordinarias.",
+    "hashtags": [
+      "#EmpleoConApoyo",
+      "#Discapacidad",
+      "#Inclusion",
+      "#SEPE",
+      "#Trabajo",
+      "#Inclusivo",
+      "#Diversidad",
+      "#ApoyoLaboral",
+      "#PreparadoresLaborales",
+      "#Empleo"
+    ],
+    "servicios_principales": [
+      "Preparador laboral",
+      "Subvenciones",
+      "Itinerarios",
+      "Apoyo al puesto",
+      "Seguimiento"
+    ]
+  },
+  {
+    "id": "estatal_234",
+    "nombre": "Tarjeta Europea de Estacionamiento para Personas con Discapacidad",
+    "url": "https://www.imserso.es/imserso_01/autonomia_personal_dependencia/discapacidad/tarjeta_aparcamiento/index.htm",
+    "sede_electronica": "https://sede.imserso.gob.es",
+    "organismo": "IMSERSO - Ministerio de Derechos Sociales",
+    "nivel": "estatal",
+    "tipo": "tarjeta",
+    "descripcion": "Tarjeta acreditativa común en toda la UE que permite estacionar en plazas reservadas a personas con movilidad reducida.",
+    "hashtags": [
+      "#TarjetaEstacionamiento",
+      "#Discapacidad",
+      "#MovilidadReducida",
+      "#IMSERSO",
+      "#Aparcamiento",
+      "#Accesibilidad",
+      "#PMR",
+      "#Inclusion",
+      "#UE",
+      "#Trafico"
+    ],
+    "servicios_principales": [
+      "Solicitud autonómica",
+      "Plazas reservadas",
+      "Validez UE",
+      "Renovación",
+      "Duplicado"
+    ]
+  },
+  {
+    "id": "estatal_235",
+    "nombre": "Prestaciones LISMI - Subsidios a personas con discapacidad",
+    "url": "https://www.imserso.es/imserso_01/prestaciones_y_subvenciones/lismi/index.htm",
+    "sede_electronica": "https://sede.imserso.gob.es",
+    "organismo": "IMSERSO - Ministerio de Derechos Sociales",
+    "nivel": "estatal",
+    "tipo": "prestacion",
+    "descripcion": "Subsidios LISMI (Garantía de Ingresos Mínimos, Ayuda Tercera Persona y Movilidad y Compensación Gastos de Transporte) en mantenimiento.",
+    "hashtags": [
+      "#LISMI",
+      "#Discapacidad",
+      "#IMSERSO",
+      "#SubsidiosDiscapacidad",
+      "#GarantiaIngresos",
+      "#TerceraPersona",
+      "#Movilidad",
+      "#Inclusion",
+      "#PrestacionesSociales",
+      "#ProteccionSocial"
+    ],
+    "servicios_principales": [
+      "SGIM",
+      "ATP",
+      "SMGT",
+      "Renovación",
+      "Compatibilidad PNC"
+    ]
+  },
+  {
+    "id": "estatal_236",
+    "nombre": "CNSE - Confederación Estatal de Personas Sordas",
+    "url": "https://www.cnse.es",
+    "sede_electronica": "https://www.cnse.es",
+    "organismo": "Confederación Estatal de Personas Sordas",
+    "nivel": "estatal",
+    "tipo": "entidad",
+    "descripcion": "Federación nacional de personas sordas: defensa de la lengua de signos, intérpretes, accesibilidad y servicios sociales.",
+    "hashtags": [
+      "#CNSE",
+      "#Sordos",
+      "#LSE",
+      "#Discapacidad",
+      "#LenguaSignos",
+      "#Accesibilidad",
+      "#Inclusion",
+      "#Comunicacion",
+      "#Diversidad",
+      "#ApoyoSensorial"
+    ],
+    "servicios_principales": [
+      "Servicios de interpretación",
+      "Lengua de Signos",
+      "SVisual",
+      "Formación",
+      "Asesoramiento"
+    ]
+  },
+  {
+    "id": "estatal_237",
+    "nombre": "Prestación CUME - Cuidado de Menores con Enfermedad Grave",
+    "url": "https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/41443",
+    "sede_electronica": "https://sede.seg-social.gob.es",
+    "organismo": "Instituto Nacional de la Seguridad Social (INSS)",
+    "nivel": "estatal",
+    "tipo": "prestacion",
+    "descripcion": "Subsidio para progenitores que reducen su jornada al menos un 50 % para el cuidado directo del menor con cáncer u otra enfermedad grave.",
+    "hashtags": [
+      "#CUME",
+      "#Cuidados",
+      "#Menores",
+      "#Cancer",
+      "#EnfermedadGrave",
+      "#INSS",
+      "#Conciliacion",
+      "#Familia",
+      "#Padres",
+      "#Madres"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Reducción jornada",
+      "Acreditación médica",
+      "Cuantía",
+      "Renovación"
+    ]
+  },
+  {
+    "id": "estatal_238",
+    "nombre": "Excedencia por cuidado de hijos y familiares",
+    "url": "https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/excedencia.html",
+    "sede_electronica": "https://sede.sepe.gob.es",
+    "organismo": "Ministerio de Trabajo y Economía Social",
+    "nivel": "estatal",
+    "tipo": "derecho",
+    "descripcion": "Suspensión voluntaria del contrato de trabajo con reserva de puesto para el cuidado de hijos hasta 3 años o familiares hasta 2 años.",
+    "hashtags": [
+      "#Excedencia",
+      "#Conciliacion",
+      "#Cuidados",
+      "#Familia",
+      "#Hijos",
+      "#Trabajo",
+      "#SEPE",
+      "#Cotizacion",
+      "#Maternidad",
+      "#Cuidadores"
+    ],
+    "servicios_principales": [
+      "Solicitud empresa",
+      "Reserva puesto",
+      "Cotización a la SS",
+      "Reincorporación",
+      "Compatibilidad otras ayudas"
+    ]
+  },
+  {
+    "id": "estatal_239",
+    "nombre": "Reducción de jornada por guarda legal y cuidado de familiares",
+    "url": "https://www.mites.gob.es/es/Guia/texto/guia_5/contenidos/guia_5_15_2.htm",
+    "sede_electronica": "https://sede.mites.gob.es",
+    "organismo": "Ministerio de Trabajo y Economía Social",
+    "nivel": "estatal",
+    "tipo": "derecho",
+    "descripcion": "Derecho a reducción de jornada con disminución proporcional de salario por guarda legal de menores o cuidado de familiares dependientes.",
+    "hashtags": [
+      "#ReduccionJornada",
+      "#Conciliacion",
+      "#GuardaLegal",
+      "#Cuidados",
+      "#Familia",
+      "#Hijos",
+      "#Trabajo",
+      "#Maternidad",
+      "#Padres",
+      "#Cuidadores"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Cuantificación",
+      "Cotización proporcional",
+      "Compatibilidad",
+      "Concreción horaria"
+    ]
+  },
+  {
+    "id": "estatal_240",
+    "nombre": "ATENPRO - Servicio Telefónico de Atención y Protección VG",
+    "url": "https://violenciagenero.igualdad.gob.es/informacionUtil/recursos/servicioTecnico/home.htm",
+    "sede_electronica": "https://violenciagenero.igualdad.gob.es",
+    "organismo": "Delegación del Gobierno contra la Violencia de Género",
+    "nivel": "estatal",
+    "tipo": "servicio",
+    "descripcion": "Teleasistencia móvil 24h con dispositivo GPS para mujeres víctimas de violencia de género no convivientes con el agresor.",
+    "hashtags": [
+      "#ATENPRO",
+      "#Mujeres",
+      "#ViolenciaGenero",
+      "#Teleasistencia",
+      "#Proteccion",
+      "#016",
+      "#Igualdad",
+      "#Emergencias",
+      "#GPS",
+      "#Victimas"
+    ],
+    "servicios_principales": [
+      "Alta",
+      "Dispositivo móvil",
+      "Atención 24h",
+      "GPS",
+      "Coordinación FCSE"
+    ]
+  },
+  {
+    "id": "estatal_241",
+    "nombre": "Servicio 016 online y WhatsApp - Violencia contra la mujer",
+    "url": "https://violenciagenero.igualdad.gob.es/informacionUtil/recursos/telefono016/home.htm",
+    "sede_electronica": "https://violenciagenero.igualdad.gob.es",
+    "organismo": "Delegación del Gobierno contra la Violencia de Género",
+    "nivel": "estatal",
+    "tipo": "servicio",
+    "descripcion": "Servicio gratuito y confidencial 24/7 vía teléfono 016, WhatsApp 600 000 016, chat y correo para todas las violencias contra la mujer.",
+    "hashtags": [
+      "#016",
+      "#ViolenciaGenero",
+      "#Mujeres",
+      "#Igualdad",
+      "#WhatsApp",
+      "#Chat",
+      "#24horas",
+      "#Confidencial",
+      "#Victimas",
+      "#Atencion"
+    ],
+    "servicios_principales": [
+      "Teléfono 016",
+      "WhatsApp 600 000 016",
+      "Chat online",
+      "Email",
+      "Lengua de signos"
+    ]
+  },
+  {
+    "id": "estatal_242",
+    "nombre": "RAI para víctimas de Violencia de Género",
+    "url": "https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/rentas-de-insercion-y-subsidios/renta-activa-insercion.html",
+    "sede_electronica": "https://sede.sepe.gob.es",
+    "organismo": "Servicio Público de Empleo Estatal (SEPE)",
+    "nivel": "estatal",
+    "tipo": "prestacion",
+    "descripcion": "Modalidad específica de la Renta Activa de Inserción dirigida a mujeres víctimas de violencia de género o doméstica.",
+    "hashtags": [
+      "#RAI",
+      "#ViolenciaGenero",
+      "#Mujeres",
+      "#SEPE",
+      "#RentaInsercion",
+      "#Empleo",
+      "#Victimas",
+      "#Igualdad",
+      "#ApoyoEconomico",
+      "#Insercion"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Acreditación VG",
+      "Compromiso de actividad",
+      "Cuantía",
+      "Ayuda al cambio de residencia"
+    ]
+  },
+  {
+    "id": "estatal_243",
+    "nombre": "Ayuda económica artículo 27 Ley VG",
+    "url": "https://violenciagenero.igualdad.gob.es/informacionUtil/derechos/economicos/home.htm",
+    "sede_electronica": "https://violenciagenero.igualdad.gob.es",
+    "organismo": "Delegación del Gobierno contra la Violencia de Género",
+    "nivel": "estatal",
+    "tipo": "prestacion",
+    "descripcion": "Ayuda económica de pago único para mujeres víctimas de violencia de género con especiales dificultades para encontrar empleo.",
+    "hashtags": [
+      "#Articulo27",
+      "#ViolenciaGenero",
+      "#Mujeres",
+      "#PagoUnico",
+      "#Igualdad",
+      "#Victimas",
+      "#Empleo",
+      "#Ayuda",
+      "#LeyIntegralVG",
+      "#ProteccionVictimas"
+    ],
+    "servicios_principales": [
+      "Solicitud autonómica",
+      "Acreditación VG",
+      "Cuantía 6 meses subsidio",
+      "Incremento por discapacidad",
+      "Compatibilidades"
+    ]
+  },
+  {
+    "id": "estatal_244",
+    "nombre": "Programa de Inserción Sociolaboral para mujeres víctimas VG",
+    "url": "https://www.mites.gob.es/es/igualdad/temas/empleo-mujer-violencia-genero/index.htm",
+    "sede_electronica": "https://sede.mites.gob.es",
+    "organismo": "Ministerio de Trabajo y Economía Social",
+    "nivel": "estatal",
+    "tipo": "programa",
+    "descripcion": "Itinerario integral de inserción laboral con orientación, formación e incentivos a la contratación para víctimas de VG.",
+    "hashtags": [
+      "#InsercionLaboral",
+      "#Mujeres",
+      "#ViolenciaGenero",
+      "#Empleo",
+      "#Igualdad",
+      "#Victimas",
+      "#Itinerario",
+      "#Formacion",
+      "#Bonificaciones",
+      "#PactoEstadoVG"
+    ],
+    "servicios_principales": [
+      "Itinerario personalizado",
+      "Orientación laboral",
+      "Formación",
+      "Incentivos contratación",
+      "Movilidad geográfica"
+    ]
+  },
+  {
+    "id": "estatal_245",
+    "nombre": "Plan Corresponsables - Conciliación y cuidados",
+    "url": "https://www.igualdad.gob.es/ministerio/dgdiversidad/Paginas/plancorresponsables.aspx",
+    "sede_electronica": "https://sede.igualdad.gob.es",
+    "organismo": "Ministerio de Igualdad",
+    "nivel": "estatal",
+    "tipo": "programa",
+    "descripcion": "Plan estatal cofinanciado con CCAA para garantizar cuidado profesional de niños y niñas hasta 16 años y promover la corresponsabilidad.",
+    "hashtags": [
+      "#PlanCorresponsables",
+      "#Conciliacion",
+      "#Igualdad",
+      "#Cuidados",
+      "#Familias",
+      "#Infancia",
+      "#Crianza",
+      "#Mujeres",
+      "#PadresMadres",
+      "#Corresponsabilidad"
+    ],
+    "servicios_principales": [
+      "Bolsas de cuidado",
+      "Bonos económicos",
+      "Formación cuidadoras/es",
+      "Bancos de tiempo",
+      "Convocatoria CCAA"
+    ]
+  },
+  {
+    "id": "estatal_246",
+    "nombre": "Programa PRIA - Reeducación de Maltratadores",
+    "url": "https://www.institucionpenitenciaria.es/es/web/home/penas-y-medidas-alternativas/programas-de-intervencion",
+    "sede_electronica": "https://sede.institucionpenitenciaria.es",
+    "organismo": "Secretaría General de Instituciones Penitenciarias",
+    "nivel": "estatal",
+    "tipo": "programa",
+    "descripcion": "Programa de intervención psicológica con maltratadores condenados por violencia de género, en medio abierto y centros penitenciarios.",
+    "hashtags": [
+      "#PRIA",
+      "#Hombres",
+      "#ViolenciaGenero",
+      "#Reeducacion",
+      "#Maltratadores",
+      "#Igualdad",
+      "#Penitenciaria",
+      "#Intervencion",
+      "#PrevencionVG",
+      "#PenasAlternativas"
+    ],
+    "servicios_principales": [
+      "Programa PRIA-MA",
+      "Programa PRIA en prisión",
+      "Evaluación",
+      "Intervención grupal",
+      "Seguimiento"
+    ]
+  },
+  {
+    "id": "estatal_247",
+    "nombre": "Oficina de Asilo y Refugio (OAR)",
+    "url": "https://www.interior.gob.es/opencms/es/servicios-al-ciudadano/tramites-y-gestiones/asilo-y-refugio/",
+    "sede_electronica": "https://sede.policia.gob.es",
+    "organismo": "Ministerio del Interior",
+    "nivel": "estatal",
+    "tipo": "organismo",
+    "descripcion": "Tramita solicitudes de protección internacional (asilo y protección subsidiaria) en España.",
+    "hashtags": [
+      "#Asilo",
+      "#Refugio",
+      "#OAR",
+      "#ProteccionInternacional",
+      "#Refugiados",
+      "#Migracion",
+      "#Interior",
+      "#DerechoAsilo",
+      "#PersonasRefugiadas",
+      "#DDHH"
+    ],
+    "servicios_principales": [
+      "Solicitud asilo",
+      "Cita previa",
+      "Resolución",
+      "Documentación",
+      "Recurso"
+    ]
+  },
+  {
+    "id": "estatal_248",
+    "nombre": "Sistema de Acogida de Protección Internacional",
+    "url": "https://www.inclusion.gob.es/web/migraciones/proteccion-internacional",
+    "sede_electronica": "https://sede.inclusion.gob.es",
+    "organismo": "Ministerio de Inclusión, Seguridad Social y Migraciones",
+    "nivel": "estatal",
+    "tipo": "programa",
+    "descripcion": "Itinerario estatal de acogida e integración para solicitantes y beneficiarios de protección internacional, apatridia y temporal.",
+    "hashtags": [
+      "#Acogida",
+      "#ProteccionInternacional",
+      "#Refugiados",
+      "#Migraciones",
+      "#Inclusion",
+      "#Integracion",
+      "#Apatridia",
+      "#Asilo",
+      "#DDHH",
+      "#Refugio"
+    ],
+    "servicios_principales": [
+      "Plazas de acogida",
+      "Itinerario",
+      "Formación",
+      "Empleo",
+      "Apoyo psicosocial"
+    ]
+  },
+  {
+    "id": "estatal_249",
+    "nombre": "Arraigo - Autorizaciones de residencia por arraigo",
+    "url": "https://www.inclusion.gob.es/web/migraciones/arraigo",
+    "sede_electronica": "https://sede.inclusion.gob.es",
+    "organismo": "Ministerio de Inclusión, Seguridad Social y Migraciones",
+    "nivel": "estatal",
+    "tipo": "tramite",
+    "descripcion": "Autorizaciones de residencia por circunstancias excepcionales: arraigo social, laboral, familiar, formativo y para la formación.",
+    "hashtags": [
+      "#Arraigo",
+      "#Extranjeria",
+      "#Migracion",
+      "#Residencia",
+      "#ArraigoSocial",
+      "#ArraigoLaboral",
+      "#ArraigoFamiliar",
+      "#ArraigoFormacion",
+      "#Regularizacion",
+      "#Migrantes"
+    ],
+    "servicios_principales": [
+      "Arraigo social",
+      "Arraigo laboral",
+      "Arraigo familiar",
+      "Arraigo formación",
+      "Arraigo segunda oportunidad"
+    ]
+  },
+  {
+    "id": "estatal_250",
+    "nombre": "Reagrupación familiar - Extranjería",
+    "url": "https://www.inclusion.gob.es/web/migraciones/reagrupacion-familiar",
+    "sede_electronica": "https://sede.administracionespublicas.gob.es",
+    "organismo": "Ministerio de Inclusión, Seguridad Social y Migraciones",
+    "nivel": "estatal",
+    "tipo": "tramite",
+    "descripcion": "Autorización para que extranjeros residentes legales reagrupen a cónyuges, hijos, ascendientes y otros familiares.",
+    "hashtags": [
+      "#Reagrupacion",
+      "#Familia",
+      "#Extranjeria",
+      "#Migracion",
+      "#Residencia",
+      "#Inclusion",
+      "#Familias",
+      "#Reagrupar",
+      "#Migrantes",
+      "#Visados"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Informe vivienda",
+      "Visado",
+      "Hijos menores",
+      "Ascendientes"
+    ]
+  },
+  {
+    "id": "estatal_251",
+    "nombre": "Cruz Roja Española",
+    "url": "https://www.cruzroja.es",
+    "sede_electronica": "https://www2.cruzroja.es",
+    "organismo": "Cruz Roja Española",
+    "nivel": "estatal",
+    "tipo": "entidad",
+    "descripcion": "ONG colaboradora con la Administración: programas sociales, emergencias, refugiados, mayores, infancia, empleo y socorros.",
+    "hashtags": [
+      "#CruzRoja",
+      "#ONG",
+      "#Voluntariado",
+      "#Refugiados",
+      "#Emergencias",
+      "#Mayores",
+      "#Infancia",
+      "#Empleo",
+      "#Salud",
+      "#AccionSocial"
+    ],
+    "servicios_principales": [
+      "Programa de empleo",
+      "Atención refugiados",
+      "Mayores en soledad",
+      "Infancia",
+      "Voluntariado"
+    ]
+  },
+  {
+    "id": "estatal_252",
+    "nombre": "Cáritas Española",
+    "url": "https://www.caritas.es",
+    "sede_electronica": "https://www.caritas.es",
+    "organismo": "Cáritas Española",
+    "nivel": "estatal",
+    "tipo": "entidad",
+    "descripcion": "Confederación de Cáritas diocesanas: acogida, alimentos, vivienda, empleo, sin hogar, infancia y migrantes.",
+    "hashtags": [
+      "#Caritas",
+      "#ONG",
+      "#AccionSocial",
+      "#Pobreza",
+      "#SinHogar",
+      "#Vivienda",
+      "#Migrantes",
+      "#Empleo",
+      "#Voluntariado",
+      "#Inclusion"
+    ],
+    "servicios_principales": [
+      "Programa sin hogar",
+      "Acogida y empleo",
+      "Vivienda",
+      "Familia",
+      "Migrantes"
+    ]
+  },
+  {
+    "id": "estatal_253",
+    "nombre": "Estrategia Nacional contra el Sinhogarismo",
+    "url": "https://www.derechossociales.gob.es/derechos-sociales/inclusion/Paginas/sinhogarismo.aspx",
+    "sede_electronica": "https://sede.derechossociales.gob.es",
+    "organismo": "Ministerio de Derechos Sociales, Consumo y Agenda 2030",
+    "nivel": "estatal",
+    "tipo": "programa",
+    "descripcion": "Estrategia 2023-2030 con CCAA y entidades locales para prevenir el sinhogarismo y desplegar el modelo Housing First.",
+    "hashtags": [
+      "#Sinhogarismo",
+      "#PersonasSinHogar",
+      "#HousingFirst",
+      "#Inclusion",
+      "#DerechosSociales",
+      "#Vivienda",
+      "#Pobreza",
+      "#Vulnerables",
+      "#Calle",
+      "#Estrategia"
+    ],
+    "servicios_principales": [
+      "Housing First",
+      "Coordinación CCAA",
+      "Recuento personas sin hogar",
+      "Centros baja exigencia",
+      "Salud mental calle"
+    ]
+  },
+  {
+    "id": "estatal_254",
+    "nombre": "Homologación de títulos universitarios extranjeros",
+    "url": "https://universidades.sede.gob.es/procedimientos/portada/idp/1029/ida/3513",
+    "sede_electronica": "https://universidades.sede.gob.es",
+    "organismo": "Ministerio de Ciencia, Innovación y Universidades",
+    "nivel": "estatal",
+    "tipo": "tramite",
+    "descripcion": "Procedimiento de homologación y declaración de equivalencia de títulos universitarios extranjeros a títulos oficiales españoles.",
+    "hashtags": [
+      "#Homologacion",
+      "#Universidad",
+      "#TitulosExtranjeros",
+      "#Equivalencia",
+      "#Estudios",
+      "#Migrantes",
+      "#Educacion",
+      "#Internacional",
+      "#Universidades",
+      "#Profesionales"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Declaración equivalencia",
+      "Universidad europea",
+      "Profesiones reguladas",
+      "Resolución"
+    ]
+  },
+  {
+    "id": "estatal_255",
+    "nombre": "Homologación de estudios no universitarios extranjeros",
+    "url": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/catalogo/gestion-titulos/estudios-no-universitarios/titulos-extranjeros.html",
+    "sede_electronica": "https://sede.educacion.gob.es",
+    "organismo": "Ministerio de Educación, Formación Profesional y Deportes",
+    "nivel": "estatal",
+    "tipo": "tramite",
+    "descripcion": "Homologación y convalidación de estudios extranjeros no universitarios (ESO, Bachillerato, FP) a títulos del sistema educativo español.",
+    "hashtags": [
+      "#Homologacion",
+      "#Educacion",
+      "#TitulosExtranjeros",
+      "#ESO",
+      "#Bachillerato",
+      "#FP",
+      "#MEC",
+      "#Estudiantes",
+      "#Migrantes",
+      "#Convalidacion"
+    ],
+    "servicios_principales": [
+      "Solicitud",
+      "Bachillerato",
+      "FP",
+      "ESO",
+      "Volante condicional"
+    ]
+  },
+  {
+    "id": "estatal_256",
+    "nombre": "Plan PRESENTE / PAE - Activación para el Empleo",
+    "url": "https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/rentas-de-insercion-y-subsidios.html",
+    "sede_electronica": "https://sede.sepe.gob.es",
+    "organismo": "Servicio Público de Empleo Estatal (SEPE)",
+    "nivel": "estatal",
+    "tipo": "programa",
+    "descripcion": "Programas SEPE de recualificación y activación profesional para personas desempleadas de larga duración con cargas familiares (sucesores de PREPARA / PAE).",
+    "hashtags": [
+      "#PAE",
+      "#PREPARA",
+      "#SEPE",
+      "#Empleo",
+      "#Desempleo",
+      "#Recualificacion",
+      "#Itinerarios",
+      "#Adultos",
+      "#LargaDuracion",
+      "#Insercion"
+    ],
+    "servicios_principales": [
+      "Itinerario personalizado",
+      "Ayuda económica",
+      "Orientación laboral",
+      "Formación",
+      "Cargas familiares"
+    ]
+  },
+  {
+    "id": "estatal_257",
+    "nombre": "Garantía Juvenil Plus - Programa de Empleo Joven",
+    "url": "https://www.sepe.es/HomeSepe/Personas/encontrar-trabajo/empleo-jovenes/garantia-juvenil.html",
+    "sede_electronica": "https://sede.sepe.gob.es",
+    "organismo": "Servicio Público de Empleo Estatal (SEPE)",
+    "nivel": "estatal",
+    "tipo": "programa",
+    "descripcion": "Plan estatal Garantía Juvenil Plus 2021-2027 con itinerarios para jóvenes 16-30 años: orientación, formación, prácticas y empleo.",
+    "hashtags": [
+      "#GarantiaJuvenil",
+      "#Jovenes",
+      "#Empleo",
+      "#SEPE",
+      "#Itinerarios",
+      "#FP",
+      "#Practicas",
+      "#Formacion",
+      "#Insercion",
+      "#PlanGJ2127"
+    ],
+    "servicios_principales": [
+      "Inscripción",
+      "Itinerario",
+      "Formación",
+      "Prácticas no laborales",
+      "Bonificaciones contratación"
+    ]
+  },
+  {
+    "id": "estatal_258",
+    "nombre": "Tu Primer Empleo EURES",
+    "url": "https://eures.europa.eu/index_es",
+    "sede_electronica": "https://www.sepe.es/eures",
+    "organismo": "Red EURES España - SEPE",
+    "nivel": "estatal",
+    "tipo": "programa",
+    "descripcion": "Programa europeo de movilidad EURES 'Targeted Mobility Scheme' para jóvenes que buscan trabajo o prácticas en otros países de la UE.",
+    "hashtags": [
+      "#EURES",
+      "#TuPrimerEmpleo",
+      "#Movilidad",
+      "#UE",
+      "#Jovenes",
+      "#Empleo",
+      "#SEPE",
+      "#Internacional",
+      "#Erasmus",
+      "#PrimerEmpleo"
+    ],
+    "servicios_principales": [
+      "Ofertas EURES",
+      "Ayuda económica",
+      "Entrevistas",
+      "Mudanza",
+      "Cursos idiomas"
+    ]
+  },
+  {
+    "id": "estatal_259",
+    "nombre": "Bonificaciones para autoempleo de jóvenes",
+    "url": "https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/36537/regimen5236",
+    "sede_electronica": "https://sede.seg-social.gob.es",
+    "organismo": "Tesorería General de la Seguridad Social (TGSS)",
+    "nivel": "estatal",
+    "tipo": "ayuda",
+    "descripcion": "Bonificaciones específicas en la cuota de autónomos para jóvenes (menores de 30) y mujeres (menores de 35) que se dan de alta como autónomos.",
+    "hashtags": [
+      "#Autonomos",
+      "#Jovenes",
+      "#Autoempleo",
+      "#TarifaPlana",
+      "#Emprendimiento",
+      "#TGSS",
+      "#Bonificaciones",
+      "#PrimerEmpleo",
+      "#Mujeres",
+      "#NuevoAutonomo"
+    ],
+    "servicios_principales": [
+      "Tarifa plana joven",
+      "Bonificación 12+12 meses",
+      "Capitalización del paro",
+      "Compatibilidad RAI",
+      "Alta autónomos"
+    ]
+  },
+  {
+    "id": "estatal_260",
+    "nombre": "Permiso de paternidad - Nacimiento y cuidado del menor",
+    "url": "https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/41083",
+    "sede_electronica": "https://sede.seg-social.gob.es",
+    "organismo": "Instituto Nacional de la Seguridad Social (INSS)",
+    "nivel": "estatal",
+    "tipo": "prestacion",
+    "descripcion": "Permiso por nacimiento y cuidado del menor de 16 semanas obligatorio e intransferible para ambos progenitores (paternidad/maternidad equiparados).",
+    "hashtags": [
+      "#Paternidad",
+      "#Maternidad",
+      "#NacimientoYCuidado",
+      "#INSS",
+      "#Conciliacion",
+      "#Hombres",
+      "#Padres",
+      "#Madres",
+      "#Familia",
+      "#Igualdad"
+    ],
+    "servicios_principales": [
+      "Solicitud INSS",
+      "16 semanas",
+      "6 obligatorias",
+      "Disfrute fraccionado",
+      "Adopción / acogimiento"
+    ]
+  },
+  {
+    "id": "estatal_261",
+    "nombre": "Mediación Familiar - Ministerio de Justicia",
+    "url": "https://www.mjusticia.gob.es/es/ciudadania/mediacion",
+    "sede_electronica": "https://sede.mjusticia.gob.es",
+    "organismo": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes",
+    "nivel": "estatal",
+    "tipo": "servicio",
+    "descripcion": "Servicio de mediación familiar y registro estatal de mediadores para resolver conflictos familiares antes de la vía judicial.",
+    "hashtags": [
+      "#Mediacion",
+      "#Familia",
+      "#Justicia",
+      "#Conflictos",
+      "#Divorcio",
+      "#Custodia",
+      "#ResolucionConflictos",
+      "#Mediadores",
+      "#Hijos",
+      "#FamiliasReconstituidas"
+    ],
+    "servicios_principales": [
+      "Registro mediadores",
+      "Mediación civil",
+      "Mediación familiar",
+      "Información ciudadana",
+      "Servicio gratuito tasado"
+    ]
+  },
+  {
+    "id": "estatal_262",
+    "nombre": "Acogimiento familiar y residencial de menores",
+    "url": "https://www.observatoriodelainfancia.es",
+    "sede_electronica": "https://sede.derechossociales.gob.es",
+    "organismo": "Ministerio de Derechos Sociales, Consumo y Agenda 2030",
+    "nivel": "estatal",
+    "tipo": "programa",
+    "descripcion": "Modalidades de acogimiento familiar (urgencia, temporal, permanente, especializado) y residencial gestionadas por las CCAA.",
+    "hashtags": [
+      "#Acogimiento",
+      "#Menores",
+      "#Infancia",
+      "#Familia",
+      "#Proteccion",
+      "#FamiliasAcogedoras",
+      "#Tutela",
+      "#ProteccionMenores",
+      "#DerechosNiño",
+      "#ServiciosSociales"
+    ],
+    "servicios_principales": [
+      "Información acogedoras",
+      "Modalidades",
+      "Coordinación CCAA",
+      "Familias canguro",
+      "Apoyo a la familia acogedora"
+    ]
+  },
+  {
+    "id": "estatal_263",
+    "nombre": "Adopción nacional e internacional",
+    "url": "https://www.observatoriodelainfancia.es/oia/esp/adopciones.aspx",
+    "sede_electronica": "https://sede.derechossociales.gob.es",
+    "organismo": "Ministerio de Derechos Sociales, Consumo y Agenda 2030",
+    "nivel": "estatal",
+    "tipo": "programa",
+    "descripcion": "Marco estatal de adopción nacional e internacional con coordinación de CCAA y autoridad central de adopción internacional.",
+    "hashtags": [
+      "#Adopcion",
+      "#AdopcionInternacional",
+      "#Familia",
+      "#Menores",
+      "#Infancia",
+      "#DerechosNiño",
+      "#FamiliasAdoptantes",
+      "#Tutela",
+      "#Proteccion",
+      "#Idoneidad"
+    ],
+    "servicios_principales": [
+      "Información",
+      "Idoneidad",
+      "Países hábiles",
+      "ECAI",
+      "Trámite internacional"
+    ]
+  },
+  {
+    "id": "estatal_264",
+    "nombre": "Reconocimiento de Familia Monoparental (estatal)",
+    "url": "https://www.derechossociales.gob.es/derechos-sociales/familia/Paginas/familias-monoparentales.aspx",
+    "sede_electronica": "https://sede.derechossociales.gob.es",
+    "organismo": "Ministerio de Derechos Sociales, Consumo y Agenda 2030",
+    "nivel": "estatal",
+    "tipo": "programa",
+    "descripcion": "Marco común estatal y catálogo de derechos para las familias monoparentales (gestión autonómica del título).",
+    "hashtags": [
+      "#FamiliaMonoparental",
+      "#Familias",
+      "#Monoparental",
+      "#DerechosSociales",
+      "#TitulodeFamilia",
+      "#Conciliacion",
+      "#Igualdad",
+      "#Hijos",
+      "#MadresSolteras",
+      "#PadresSolteros"
+    ],
+    "servicios_principales": [
+      "Información derechos",
+      "Coordinación CCAA",
+      "Beneficios fiscales",
+      "Beneficios SS",
+      "Conciliación"
+    ]
+  },
+  {
+    "id": "estatal_265",
+    "nombre": "Centros de Crisis 24h para víctimas de violencia sexual",
+    "url": "https://violenciagenero.igualdad.gob.es/violenciaSexual/centrosDeCrisis/home.htm",
+    "sede_electronica": "https://violenciagenero.igualdad.gob.es",
+    "organismo": "Ministerio de Igualdad",
+    "nivel": "estatal",
+    "tipo": "programa",
+    "descripcion": "Red de Centros de Crisis 24h en cada provincia, para atención psicológica, jurídica y social a víctimas de violencia sexual.",
+    "hashtags": [
+      "#CentrosDeCrisis",
+      "#ViolenciaSexual",
+      "#Mujeres",
+      "#Igualdad",
+      "#24horas",
+      "#PactoEstadoVG",
+      "#Victimas",
+      "#Atencion",
+      "#LeyOnlyYesIsYes",
+      "#ProteccionVictimas"
+    ],
+    "servicios_principales": [
+      "Atención 24h",
+      "Apoyo psicológico",
+      "Asesoramiento jurídico",
+      "Acompañamiento",
+      "Coordinación FCSE"
+    ]
+  },
+  {
+    "id": "estatal_266",
+    "nombre": "Pacto de Estado contra la Violencia de Género",
+    "url": "https://violenciagenero.igualdad.gob.es/pactoEstado/home.htm",
+    "sede_electronica": "https://violenciagenero.igualdad.gob.es",
+    "organismo": "Delegación del Gobierno contra la Violencia de Género",
+    "nivel": "estatal",
+    "tipo": "programa",
+    "descripcion": "Marco político y financiero del Pacto de Estado para reforzar la prevención y atención a víctimas de violencia machista.",
+    "hashtags": [
+      "#PactoDeEstado",
+      "#ViolenciaGenero",
+      "#Igualdad",
+      "#Mujeres",
+      "#Prevencion",
+      "#Sensibilizacion",
+      "#Victimas",
+      "#Educacion",
+      "#Sanidad",
+      "#Justicia"
+    ],
+    "servicios_principales": [
+      "Plan Pacto Estado",
+      "Financiación CCAA",
+      "Educación",
+      "Sensibilización",
+      "Sanidad"
+    ]
+  },
+  {
+    "id": "estatal_267",
+    "nombre": "Programa de Hombres por la Igualdad",
+    "url": "https://www.igualdad.gob.es/ministerio/dgdiversidad/Paginas/hombres-igualdad.aspx",
+    "sede_electronica": "https://sede.igualdad.gob.es",
+    "organismo": "Ministerio de Igualdad",
+    "nivel": "estatal",
+    "tipo": "programa",
+    "descripcion": "Línea de trabajo del Ministerio de Igualdad para implicar a hombres en igualdad, nuevas masculinidades y prevención de violencia machista.",
+    "hashtags": [
+      "#Hombres",
+      "#Igualdad",
+      "#NuevasMasculinidades",
+      "#Genero",
+      "#Educacion",
+      "#Prevencion",
+      "#Coeducacion",
+      "#Igualdadrealyefectiva",
+      "#Cuidados",
+      "#Corresponsabilidad"
+    ],
+    "servicios_principales": [
+      "Materiales",
+      "Talleres",
+      "Estudios",
+      "Coeducación",
+      "Subvenciones a entidades"
+    ]
+  },
+  {
+    "id": "estatal_268",
+    "nombre": "Cheque Bachiller - Becas Generales del Ministerio (libros y material)",
+    "url": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/catalogo/general/05/050130/ficha/050130-2024.html",
+    "sede_electronica": "https://sede.educacion.gob.es",
+    "organismo": "Ministerio de Educación, Formación Profesional y Deportes",
+    "nivel": "estatal",
+    "tipo": "beca",
+    "descripcion": "Becas y ayudas para el alumnado de niveles postobligatorios: matrícula, residencia, materiales, libros y desplazamientos.",
+    "hashtags": [
+      "#BecasMEC",
+      "#Libros",
+      "#Material",
+      "#Bachillerato",
+      "#FP",
+      "#Universidad",
+      "#Estudiantes",
+      "#Educacion",
+      "#Becas",
+      "#Familias"
+    ],
+    "servicios_principales": [
+      "Convocatoria anual",
+      "Bachillerato",
+      "FP",
+      "Universidad",
+      "Necesidades específicas"
+    ]
+  },
+  {
+    "id": "estatal_269",
+    "nombre": "Permiso parental - Cuidado de hijos hasta 8 años",
+    "url": "https://www.mites.gob.es/es/Guia/texto/guia_5/contenidos/guia_5_15.htm",
+    "sede_electronica": "https://sede.mites.gob.es",
+    "organismo": "Ministerio de Trabajo y Economía Social",
+    "nivel": "estatal",
+    "tipo": "derecho",
+    "descripcion": "Permiso parental de hasta 8 semanas no retribuidas para el cuidado de hijos hasta los 8 años (Directiva UE 2019/1158).",
+    "hashtags": [
+      "#PermisoParental",
+      "#Conciliacion",
+      "#Hijos",
+      "#Familia",
+      "#Cuidados",
+      "#PadresMadres",
+      "#UE",
+      "#Directiva",
+      "#Trabajo",
+      "#Crianza"
+    ],
+    "servicios_principales": [
+      "Solicitud empresa",
+      "8 semanas",
+      "Hasta 8 años",
+      "Disfrute flexible",
+      "Reincorporación"
+    ]
+  },
+  {
+    "id": "estatal_270",
+    "nombre": "Información sobre Permisos por Cuidados (5 días anuales)",
+    "url": "https://www.mites.gob.es/es/Guia/texto/guia_5/contenidos/guia_5_15.htm",
+    "sede_electronica": "https://sede.mites.gob.es",
+    "organismo": "Ministerio de Trabajo y Economía Social",
+    "nivel": "estatal",
+    "tipo": "derecho",
+    "descripcion": "Permiso retribuido de 5 días anuales para cuidado de cónyuge, pareja o familiares hasta segundo grado y convivientes.",
+    "hashtags": [
+      "#PermisoCuidados",
+      "#Conciliacion",
+      "#Cuidadores",
+      "#Familia",
+      "#Trabajo",
+      "#Mayores",
+      "#Enfermedad",
+      "#5dias",
+      "#Familiares",
+      "#Trabajadores"
+    ],
+    "servicios_principales": [
+      "Solicitud empresa",
+      "5 días retribuidos",
+      "Familiares 2º grado",
+      "Convivientes",
+      "Acreditación"
+    ]
   }
 ]
