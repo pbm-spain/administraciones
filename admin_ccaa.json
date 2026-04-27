@@ -10656,5 +10656,890 @@
     "sede_electronica": false,
     "id": "ccaa_murcia_019",
     "administracion": "Región de Murcia"
+  },
+  {
+    "id": "ccaa_madrid_020",
+    "nombre": "Consejería de Presidencia, Justicia e Interior",
+    "url": "https://www.comunidad.madrid/gobierno/consejerias/presidencia-justicia-interior",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Presidencia, Justicia e Interior",
+    "descripcion": "Coordinación del Gobierno regional, justicia, protección civil, emergencias y régimen interior",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#presidencia",
+      "#justicia",
+      "#interior",
+      "#proteccióncivil",
+      "#emergencias",
+      "#gobierno",
+      "#consejería"
+    ],
+    "servicios_clave": [
+      "Coordinación del Gobierno",
+      "Justicia",
+      "Protección civil",
+      "Emergencias",
+      "Régimen interior"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_021",
+    "nombre": "Consejería de Economía, Hacienda y Empleo",
+    "url": "https://www.comunidad.madrid/gobierno/consejerias/economia-hacienda-empleo",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Economía, Hacienda y Empleo",
+    "descripcion": "Política económica, presupuestos, tributos autonómicos, empleo y relaciones laborales en Madrid",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#economía",
+      "#hacienda",
+      "#empleo",
+      "#presupuestos",
+      "#tributos",
+      "#consejería"
+    ],
+    "servicios_clave": [
+      "Política económica",
+      "Presupuestos",
+      "Tributos",
+      "Empleo",
+      "Relaciones laborales"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_022",
+    "nombre": "Consejería de Sanidad",
+    "url": "https://www.comunidad.madrid/gobierno/consejerias/sanidad",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Sanidad",
+    "descripcion": "Política sanitaria, ordenación profesional, salud pública y planificación de la sanidad madrileña",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#sanidad",
+      "#salud",
+      "#saludpública",
+      "#consejería",
+      "#sanidadmadrileña"
+    ],
+    "servicios_clave": [
+      "Política sanitaria",
+      "Salud pública",
+      "Planificación sanitaria",
+      "Ordenación profesional"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_023",
+    "nombre": "Consejería de Educación, Ciencia y Universidades",
+    "url": "https://www.comunidad.madrid/gobierno/consejerias/educacion-ciencia-universidades",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Educación, Ciencia y Universidades",
+    "descripcion": "Sistema educativo madrileño, universidades públicas, investigación y política científica",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#educación",
+      "#ciencia",
+      "#universidades",
+      "#investigación",
+      "#consejería"
+    ],
+    "servicios_clave": [
+      "Sistema educativo",
+      "Universidades",
+      "Investigación",
+      "Becas",
+      "Política científica"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_024",
+    "nombre": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "url": "https://www.comunidad.madrid/gobierno/consejerias/familia-juventud-asuntos-sociales",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "descripcion": "Políticas de familia, infancia, juventud, mayores, dependencia, discapacidad y servicios sociales",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#familia",
+      "#juventud",
+      "#asuntossociales",
+      "#mayores",
+      "#dependencia",
+      "#discapacidad",
+      "#consejería"
+    ],
+    "servicios_clave": [
+      "Familia",
+      "Juventud",
+      "Mayores",
+      "Dependencia",
+      "Discapacidad",
+      "Servicios sociales"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_025",
+    "nombre": "Consejería de Vivienda, Transportes e Infraestructuras",
+    "url": "https://www.comunidad.madrid/gobierno/consejerias/vivienda-transportes-infraestructuras",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Vivienda, Transportes e Infraestructuras",
+    "descripcion": "Política de vivienda, transporte público interurbano, carreteras y obras públicas en Madrid",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#vivienda",
+      "#transportes",
+      "#infraestructuras",
+      "#carreteras",
+      "#obraspúblicas",
+      "#consejería"
+    ],
+    "servicios_clave": [
+      "Vivienda",
+      "Transporte",
+      "Infraestructuras",
+      "Carreteras",
+      "Obras públicas"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_026",
+    "nombre": "Consejería de Medio Ambiente, Agricultura e Interior",
+    "url": "https://www.comunidad.madrid/gobierno/consejerias/medio-ambiente-agricultura-interior",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Medio Ambiente, Agricultura e Interior",
+    "descripcion": "Política medioambiental, agricultura, ganadería, montes, espacios protegidos y desarrollo rural",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#medioambiente",
+      "#agricultura",
+      "#ganadería",
+      "#montes",
+      "#desarrollorural",
+      "#consejería"
+    ],
+    "servicios_clave": [
+      "Medio ambiente",
+      "Agricultura",
+      "Ganadería",
+      "Montes",
+      "Desarrollo rural"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_027",
+    "nombre": "Consejería de Cultura, Turismo y Deporte",
+    "url": "https://www.comunidad.madrid/gobierno/consejerias/cultura-turismo-deporte",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Cultura, Turismo y Deporte",
+    "descripcion": "Política cultural, patrimonio histórico, promoción turística y fomento del deporte en Madrid",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#cultura",
+      "#turismo",
+      "#deporte",
+      "#patrimonio",
+      "#consejería"
+    ],
+    "servicios_clave": [
+      "Cultura",
+      "Patrimonio histórico",
+      "Turismo",
+      "Deporte"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_028",
+    "nombre": "Consejería de Digitalización",
+    "url": "https://www.comunidad.madrid/gobierno/consejerias/digitalizacion",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Digitalización",
+    "descripcion": "Transformación digital de la Administración madrileña, datos abiertos y modernización tecnológica",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#digitalización",
+      "#transformacióndigital",
+      "#datosabiertos",
+      "#consejería",
+      "#tecnología"
+    ],
+    "servicios_clave": [
+      "Transformación digital",
+      "Modernización",
+      "Datos abiertos",
+      "Innovación tecnológica"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_029",
+    "nombre": "SaludMadrid - Portal de Salud",
+    "url": "https://www.comunidad.madrid/servicios/salud",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Sanidad",
+    "descripcion": "Portal sanitario de la Comunidad de Madrid: información de salud, prevención, programas y campañas",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#salud",
+      "#SaludMadrid",
+      "#prevención",
+      "#sanidadmadrileña",
+      "#saludpública",
+      "#campañas"
+    ],
+    "servicios_clave": [
+      "Información sanitaria",
+      "Programas de salud",
+      "Prevención",
+      "Campañas",
+      "Vacunación"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_030",
+    "nombre": "SUMMA 112 - Servicio de Urgencia Médica de Madrid",
+    "url": "https://www.comunidad.madrid/centros/summa-112",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Servicio Madrileño de Salud (SERMAS)",
+    "descripcion": "Servicio de Urgencia Médica de Madrid: atención sanitaria urgente, emergencias y transporte sanitario",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#SUMMA112",
+      "#emergencias",
+      "#urgencias",
+      "#sanidad",
+      "#SERMAS",
+      "#emergenciassanitarias",
+      "#transportesanitario"
+    ],
+    "servicios_clave": [
+      "Urgencias sanitarias",
+      "Emergencias",
+      "Transporte sanitario",
+      "Atención prehospitalaria"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_031",
+    "nombre": "Bomberos de la Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/justicia/bomberos-comunidad-madrid",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Presidencia, Justicia e Interior",
+    "descripcion": "Cuerpo de Bomberos de la Comunidad de Madrid: extinción de incendios, rescate y protección civil",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#bomberos",
+      "#emergencias",
+      "#proteccióncivil",
+      "#incendios",
+      "#rescate",
+      "#112"
+    ],
+    "servicios_clave": [
+      "Extinción de incendios",
+      "Rescate",
+      "Salvamento",
+      "Protección civil",
+      "Oposiciones bomberos"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_032",
+    "nombre": "Metro de Madrid",
+    "url": "https://www.metromadrid.es",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Vivienda, Transportes e Infraestructuras",
+    "descripcion": "Red de transporte público metropolitano: líneas, horarios, billetes, abonos y accesibilidad",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#Metro",
+      "#metromadrid",
+      "#transporte",
+      "#movilidad",
+      "#abonotransporte",
+      "#tarjetatransporte"
+    ],
+    "servicios_clave": [
+      "Líneas y horarios",
+      "Billetes y abonos",
+      "Accesibilidad",
+      "Planos",
+      "Atención al viajero"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_033",
+    "nombre": "BOCM - Boletín Oficial de la Comunidad de Madrid",
+    "url": "https://www.bocm.es",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Presidencia, Justicia e Interior",
+    "descripcion": "Boletín Oficial de la Comunidad de Madrid: publicación de leyes, decretos, anuncios y convocatorias",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#BOCM",
+      "#boletínoficial",
+      "#publicaciones",
+      "#diariooficial",
+      "#anuncios",
+      "#convocatorias",
+      "#legislación"
+    ],
+    "servicios_clave": [
+      "Consulta del BOCM",
+      "Anuncios oficiales",
+      "Convocatorias",
+      "Disposiciones generales",
+      "Suscripciones"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_034",
+    "nombre": "Portal de Transparencia de la Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/transparencia",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Comunidad de Madrid",
+    "descripcion": "Información institucional, organizativa, económica y jurídica de la Administración madrileña",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#transparencia",
+      "#buengobierno",
+      "#informaciónpública",
+      "#derechoacceso",
+      "#rendicióndecuentas"
+    ],
+    "servicios_clave": [
+      "Información institucional",
+      "Información económica",
+      "Contratos",
+      "Convenios",
+      "Solicitud de información"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_035",
+    "nombre": "Madrid Digital - Agencia para la Administración Digital",
+    "url": "https://www.comunidad.madrid/centros/madrid-digital",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Digitalización",
+    "descripcion": "Agencia que provee servicios TIC a la Administración madrileña: infraestructuras, sistemas y ciberseguridad",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#MadridDigital",
+      "#TIC",
+      "#tecnología",
+      "#ciberseguridad",
+      "#administracióndigital",
+      "#infraestructurasTIC"
+    ],
+    "servicios_clave": [
+      "Servicios TIC",
+      "Infraestructuras",
+      "Ciberseguridad",
+      "Sistemas corporativos",
+      "Innovación digital"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_036",
+    "nombre": "Datos Abiertos de la Comunidad de Madrid",
+    "url": "https://datos.comunidad.madrid",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Comunidad de Madrid",
+    "descripcion": "Portal de datos abiertos: catálogo de conjuntos de datos públicos para reutilización ciudadana",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#datosabiertos",
+      "#opendata",
+      "#reutilización",
+      "#datospúblicos",
+      "#transparencia",
+      "#APIs"
+    ],
+    "servicios_clave": [
+      "Catálogo de datasets",
+      "Descarga de datos",
+      "API de consulta",
+      "Reutilización",
+      "Visualizaciones"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_037",
+    "nombre": "Oficinas de Atención al Ciudadano - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/informacion-atencion-ciudadano/oficinas-asistencia-materia-registros",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Comunidad de Madrid",
+    "descripcion": "Red de oficinas de asistencia en materia de registros: presentación de documentos y trámites presenciales",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#atenciónciudadano",
+      "#OAC",
+      "#registro",
+      "#trámites",
+      "#oficinas",
+      "#citaprevia"
+    ],
+    "servicios_clave": [
+      "Registro presencial",
+      "Cita previa",
+      "Información presencial",
+      "Compulsa de documentos"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_038",
+    "nombre": "012 - Atención al Ciudadano",
+    "url": "https://www.comunidad.madrid/servicios/informacion-atencion-ciudadano/atencion-telefonica-012",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Comunidad de Madrid",
+    "descripcion": "Servicio telefónico 012 de información administrativa, gestión de citas y consultas de la Comunidad de Madrid",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#012",
+      "#atenciónciudadano",
+      "#teléfono",
+      "#información",
+      "#citaprevia",
+      "#consultas"
+    ],
+    "servicios_clave": [
+      "Información telefónica",
+      "Cita previa",
+      "Consultas",
+      "Gestiones por teléfono"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_039",
+    "nombre": "Plataforma de Contratación Pública - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/contratacion-publica",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Comunidad de Madrid",
+    "descripcion": "Información sobre contratación pública: licitaciones, perfil del contratante y registro de licitadores",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#contratacionpublica",
+      "#licitaciones",
+      "#perfildelcontratante",
+      "#empresas",
+      "#concursos"
+    ],
+    "servicios_clave": [
+      "Licitaciones",
+      "Perfil del contratante",
+      "Registro de licitadores",
+      "Adjudicaciones",
+      "Pliegos"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_040",
+    "nombre": "Registro de Asociaciones de la Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/justicia/registro-asociaciones",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Presidencia, Justicia e Interior",
+    "descripcion": "Inscripción y consulta del registro de asociaciones de ámbito autonómico de Madrid",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#asociaciones",
+      "#registroasociaciones",
+      "#tercersector",
+      "#ONG",
+      "#fundaciones"
+    ],
+    "servicios_clave": [
+      "Inscripción de asociaciones",
+      "Modificaciones",
+      "Disolución",
+      "Consulta del registro"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_041",
+    "nombre": "Formación Profesional - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/educacion/formacion-profesional",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Educación, Ciencia y Universidades",
+    "descripcion": "Oferta de Formación Profesional: ciclos, FP Dual, admisión, títulos y centros integrados",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#FP",
+      "#formaciónprofesional",
+      "#FPDual",
+      "#educación",
+      "#cicloformativo",
+      "#empleabilidad"
+    ],
+    "servicios_clave": [
+      "Ciclos formativos",
+      "FP Dual",
+      "Admisión",
+      "Centros de FP",
+      "Títulos profesionales"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_042",
+    "nombre": "Admisión Escolar - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/educacion/escolarizacion-admision-alumnos",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Educación, Ciencia y Universidades",
+    "descripcion": "Proceso de admisión y escolarización en centros sostenidos con fondos públicos en Madrid",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#admisiónescolar",
+      "#escolarización",
+      "#educación",
+      "#colegios",
+      "#institutos",
+      "#matriculación"
+    ],
+    "servicios_clave": [
+      "Solicitud de admisión",
+      "Baremo",
+      "Adjudicación de plaza",
+      "Matriculación",
+      "Centros educativos"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_043",
+    "nombre": "EducaMadrid",
+    "url": "https://www.educa2.madrid.org/educamadrid/",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Educación, Ciencia y Universidades",
+    "descripcion": "Plataforma educativa de la Comunidad de Madrid: aulas virtuales, recursos y servicios para centros",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#EducaMadrid",
+      "#educación",
+      "#aulavirtual",
+      "#recursoseducativos",
+      "#docentes",
+      "#alumnos"
+    ],
+    "servicios_clave": [
+      "Aulas virtuales",
+      "Mediateca",
+      "Cuentas de correo educativo",
+      "Recursos didácticos"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_044",
+    "nombre": "Red de Bibliotecas Públicas - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/cultura/red-bibliotecas-publicas-comunidad-madrid",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Cultura, Turismo y Deporte",
+    "descripcion": "Red de bibliotecas públicas: catálogo, carné único, préstamo, eBiblio y actividades culturales",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#bibliotecas",
+      "#lectura",
+      "#cultura",
+      "#eBiblio",
+      "#carnébibliotecas",
+      "#préstamo"
+    ],
+    "servicios_clave": [
+      "Catálogo bibliográfico",
+      "Carné único",
+      "Préstamo",
+      "eBiblio",
+      "Actividades"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_045",
+    "nombre": "IMDEA - Institutos Madrileños de Estudios Avanzados",
+    "url": "https://www.madrimasd.org/imdea",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Educación, Ciencia y Universidades",
+    "descripcion": "Red de institutos madrileños de investigación de excelencia en áreas estratégicas",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#IMDEA",
+      "#investigación",
+      "#ciencia",
+      "#I+D+i",
+      "#innovación",
+      "#madrimasd"
+    ],
+    "servicios_clave": [
+      "Investigación",
+      "Convocatorias I+D",
+      "Centros IMDEA",
+      "Transferencia tecnológica"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_046",
+    "nombre": "Agencia de Vivienda Social - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/vivienda/agencia-vivienda-social",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Vivienda, Transportes e Infraestructuras",
+    "descripcion": "Gestión del parque público de vivienda social, alquiler protegido, ayudas y promoción de vivienda",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#viviendasocial",
+      "#AVS",
+      "#alquilerprotegido",
+      "#vivienda",
+      "#ayudasvivienda",
+      "#alquiler"
+    ],
+    "servicios_clave": [
+      "Alquiler social",
+      "Solicitudes",
+      "Ayudas al alquiler",
+      "Vivienda protegida",
+      "Adjudicaciones"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_047",
+    "nombre": "Avalmadrid SGR",
+    "url": "https://www.avalmadrid.es",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Comunidad de Madrid",
+    "descripcion": "Sociedad de garantía recíproca para pymes y autónomos madrileños: avales y financiación",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#Avalmadrid",
+      "#avales",
+      "#SGR",
+      "#pymes",
+      "#autónomos",
+      "#financiación",
+      "#emprendimiento"
+    ],
+    "servicios_clave": [
+      "Avales financieros",
+      "Financiación pymes",
+      "Garantías",
+      "Asesoramiento financiero"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_048",
+    "nombre": "Red de Espacios Naturales Protegidos - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/medio-ambiente/red-espacios-naturales-protegidos",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Medio Ambiente, Agricultura e Interior",
+    "descripcion": "Parques naturales, regionales y reservas: visitas, autorizaciones, biodiversidad y educación ambiental",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#espaciosnaturales",
+      "#parquesnaturales",
+      "#biodiversidad",
+      "#medioambiente",
+      "#sierra",
+      "#educaciónambiental"
+    ],
+    "servicios_clave": [
+      "Información de parques",
+      "Autorizaciones",
+      "Centros de visitantes",
+      "Biodiversidad",
+      "Senderismo"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_049",
+    "nombre": "INFOMA - Plan Especial de Incendios Forestales",
+    "url": "https://www.comunidad.madrid/servicios/justicia/plan-especial-incendios-forestales-comunidad-madrid-infoma",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Presidencia, Justicia e Interior",
+    "descripcion": "Plan Especial de Protección Civil de Emergencias por Incendios Forestales de la Comunidad de Madrid",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#INFOMA",
+      "#incendiosforestales",
+      "#proteccióncivil",
+      "#emergencias",
+      "#prevenciónincendios",
+      "#bomberos"
+    ],
+    "servicios_clave": [
+      "Plan INFOMA",
+      "Niveles de riesgo",
+      "Prevención",
+      "Operativo de extinción"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_050",
+    "nombre": "Carné Joven Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/juventud/carne-joven",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "descripcion": "Carné Joven de la Comunidad de Madrid: descuentos, ventajas y servicios para jóvenes de 14 a 30 años",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#carnejoven",
+      "#juventud",
+      "#descuentos",
+      "#ventajas",
+      "#jóvenes",
+      "#movilidadjuvenil"
+    ],
+    "servicios_clave": [
+      "Solicitud del carné",
+      "Descuentos",
+      "Movilidad europea",
+      "Actividades",
+      "Convenios"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_051",
+    "nombre": "Turismo Madrid",
+    "url": "https://www.turismomadrid.es",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Cultura, Turismo y Deporte",
+    "descripcion": "Portal oficial de turismo de la Comunidad de Madrid: planes, rutas, alojamiento y oficinas de turismo",
+    "hashtags": [
+      "#comunidaddemadrid",
+      "#madrid",
+      "#CAM",
+      "#administraciónautonómica",
+      "#turismomadrid",
+      "#turismo",
+      "#viajes",
+      "#patrimonio",
+      "#sierra",
+      "#gastronomía",
+      "#cultura"
+    ],
+    "servicios_clave": [
+      "Planes turísticos",
+      "Rutas",
+      "Alojamiento",
+      "Oficinas de turismo",
+      "Eventos"
+    ],
+    "sede_electronica": false
   }
 ]
