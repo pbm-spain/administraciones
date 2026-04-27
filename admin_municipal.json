@@ -26494,5 +26494,558 @@
       "Disciplina urbanística"
     ],
     "sede_electronica": true
+  },
+  {
+    "id": "muni_madrid_017",
+    "nombre": "Madrid Salud",
+    "url": "https://madridsalud.es",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Madrid Salud",
+    "descripcion": "Organismo autónomo de salud pública del Ayuntamiento de Madrid: prevención, salud mental comunitaria, drogodependencias, salud bucodental, salud sexual y reproductiva",
+    "hashtags": [
+      "#MadridSalud",
+      "#saludpublica",
+      "#ayuntamientomadrid",
+      "#prevencion",
+      "#saludmental",
+      "#adicciones",
+      "#saludcomunitaria",
+      "#vacunas",
+      "#saludsexual"
+    ],
+    "servicios_clave": [
+      "Centros Madrid Salud",
+      "Programas de prevención",
+      "Salud mental comunitaria",
+      "Atención a adicciones"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "muni_madrid_018",
+    "nombre": "Centros Madrid Salud (CMS) por distrito",
+    "url": "https://madridsalud.es/centros-madrid-salud/",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Madrid Salud",
+    "descripcion": "Red de Centros Municipales de Salud Comunitaria con servicios de prevención, salud mental, adicciones, salud bucodental infantil, salud reproductiva y vacunación internacional",
+    "hashtags": [
+      "#CMS",
+      "#CentroSaludMunicipal",
+      "#MadridSalud",
+      "#prevencion",
+      "#saludmental",
+      "#vacunacioninternacional",
+      "#saludsexual",
+      "#bucodental",
+      "#adicciones",
+      "#distritos"
+    ],
+    "servicios_clave": [
+      "Atención psicológica",
+      "Vacunación internacional",
+      "Salud sexual y reproductiva",
+      "Programas en distritos"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "muni_madrid_019",
+    "nombre": "Espacios de Igualdad - Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Igualdad-entre-mujeres-y-hombres/Espacios-de-Igualdad",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Dirección General de Igualdad entre Mujeres y Hombres",
+    "descripcion": "Red municipal de centros para mujeres en cada distrito: asesoría jurídica, atención psicológica, talleres de empoderamiento, prevención de violencia y dinamización comunitaria",
+    "hashtags": [
+      "#espaciosigualdad",
+      "#mujer",
+      "#igualdadMadrid",
+      "#ayuntamientomadrid",
+      "#empoderamiento",
+      "#asesoriajuridicamujer",
+      "#violenciagenero",
+      "#feminismo",
+      "#corresponsabilidad",
+      "#distritos"
+    ],
+    "servicios_clave": [
+      "Asesoría jurídica gratuita",
+      "Atención psicológica",
+      "Talleres y formación",
+      "Prevención de la violencia de género"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "muni_madrid_020",
+    "nombre": "SAMUR Social - Emergencias sociales 24h",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Servicios-sociales/SAMUR-Social",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Área de Familias, Igualdad y Bienestar Social",
+    "descripcion": "Servicio municipal de atención a urgencias y emergencias sociales 24 horas en la ciudad de Madrid: personas sin hogar, situaciones de riesgo, exclusión y emergencias humanitarias. Tel 900 111 011",
+    "hashtags": [
+      "#SAMURSocial",
+      "#emergenciasocial",
+      "#sinhogar",
+      "#exclusion",
+      "#ayuntamientomadrid",
+      "#900111011",
+      "#vulnerabilidad",
+      "#serviciossociales",
+      "#urgenciasocial",
+      "#calle"
+    ],
+    "servicios_clave": [
+      "Atención 24h a personas sin hogar",
+      "Equipos de calle",
+      "Centros de acogida",
+      "Emergencias sociales"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "muni_madrid_021",
+    "nombre": "Línea Madrid 010",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Atencion-al-ciudadano/Linea-Madrid",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid",
+    "descripcion": "Servicio único de atención al ciudadano del Ayuntamiento de Madrid: 010 telefónico, oficinas presenciales en cada distrito y atención online. Información y trámites municipales",
+    "hashtags": [
+      "#LineaMadrid",
+      "#010",
+      "#ayuntamientomadrid",
+      "#atencionciudadano",
+      "#OACMadrid",
+      "#informacionmunicipal",
+      "#tramitesmadrid",
+      "#citaprevia010",
+      "#distritos"
+    ],
+    "servicios_clave": [
+      "Atención telefónica 010",
+      "Oficinas Línea Madrid (OAC)",
+      "Cita previa de trámites",
+      "Atención telemática"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "muni_madrid_022",
+    "nombre": "Matadero Madrid - Centro de creación contemporánea",
+    "url": "https://www.mataderomadrid.org",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Madrid Destino",
+    "descripcion": "Centro municipal de creación contemporánea en Arganzuela: artes escénicas, audiovisuales, diseño, literatura y exposiciones. Programación gratuita y residencias artísticas",
+    "hashtags": [
+      "#MataderoMadrid",
+      "#cultura",
+      "#arte",
+      "#ayuntamientomadrid",
+      "#arganzuela",
+      "#exposiciones",
+      "#artecontemporaneo",
+      "#residenciasartisticas",
+      "#MadridDestino",
+      "#ocio"
+    ],
+    "servicios_clave": [
+      "Programación cultural gratuita",
+      "Cineteca Madrid",
+      "Central de Diseño",
+      "Naves del Español en Matadero"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "muni_madrid_023",
+    "nombre": "Centros Culturales Municipales - Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Cultura-y-ocio/Centros-culturales",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Área de Cultura, Turismo y Deporte",
+    "descripcion": "Red de centros culturales en los 21 distritos de Madrid: talleres, espectáculos, exposiciones, salas de estudio y actividades intergeneracionales gratuitas o a precio reducido",
+    "hashtags": [
+      "#centroscuturales",
+      "#culturaMadrid",
+      "#ayuntamientomadrid",
+      "#talleres",
+      "#exposiciones",
+      "#salaestudio",
+      "#distritos",
+      "#actividadesgratis",
+      "#ocio"
+    ],
+    "servicios_clave": [
+      "Inscripción a talleres",
+      "Reserva de sala de estudio",
+      "Espectáculos por distrito",
+      "Préstamo de espacios"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "muni_madrid_024",
+    "nombre": "Escuelas Municipales de Música y Danza",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Cultura-y-ocio/Escuelas-Municipales-de-Musica-y-Danza",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Área de Cultura, Turismo y Deporte",
+    "descripcion": "Red municipal de escuelas de música y danza con enseñanzas no regladas en distintos distritos. Inscripciones anuales y oferta para infancia, juventud y personas adultas",
+    "hashtags": [
+      "#escuelamusica",
+      "#escueladanza",
+      "#ayuntamientomadrid",
+      "#musica",
+      "#danza",
+      "#culturaMadrid",
+      "#talleres",
+      "#distritos",
+      "#educacionmusical"
+    ],
+    "servicios_clave": [
+      "Inscripción anual",
+      "Especialidades instrumentales",
+      "Clases de danza",
+      "Conciertos y muestras"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "muni_madrid_025",
+    "nombre": "Deportes Madrid - Instalaciones Deportivas Municipales (IMD)",
+    "url": "https://deportes.madrid.es",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Dirección General de Deportes",
+    "descripcion": "Portal de instalaciones deportivas municipales: piscinas, polideportivos, instalaciones deportivas básicas, abonos deportivos, escuelas deportivas y reservas online",
+    "hashtags": [
+      "#DeportesMadrid",
+      "#IMD",
+      "#ayuntamientomadrid",
+      "#piscinasMadrid",
+      "#polideportivomunicipal",
+      "#abonodeportivo",
+      "#deporte",
+      "#escuelasdeportivas",
+      "#instalacionesdeportivas"
+    ],
+    "servicios_clave": [
+      "Reserva online de instalaciones",
+      "Carné de Abonado Deportivo",
+      "Escuelas deportivas municipales",
+      "Piscinas de verano"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "muni_madrid_026",
+    "nombre": "Madrid Destino - Cultura, Turismo y Negocio",
+    "url": "https://www.madrid-destino.com",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Empresa Municipal Madrid Destino",
+    "descripcion": "Empresa municipal que gestiona los grandes equipamientos culturales y turísticos de Madrid: Centro de Cultura Contemporánea Conde Duque, Teatros, Palacio de Cibeles, Centros de Ferias y Congresos",
+    "hashtags": [
+      "#MadridDestino",
+      "#culturaMadrid",
+      "#turismoMadrid",
+      "#ayuntamientomadrid",
+      "#palaciocibeles",
+      "#teatroespanol",
+      "#condeduque",
+      "#congresos",
+      "#eventos"
+    ],
+    "servicios_clave": [
+      "Programación cultural",
+      "Reserva de espacios",
+      "Información turística",
+      "Eventos y congresos"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "muni_madrid_027",
+    "nombre": "Centro de Turismo Plaza Mayor - Madrid",
+    "url": "https://www.esmadrid.com",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Madrid Destino",
+    "descripcion": "Portal turístico oficial del Ayuntamiento de Madrid: agenda cultural, planes, rutas, gastronomía, alojamiento y oficinas de información turística en la ciudad",
+    "hashtags": [
+      "#esMadrid",
+      "#turismoMadrid",
+      "#visitMadrid",
+      "#planesMadrid",
+      "#agendaMadrid",
+      "#oficinaturismo",
+      "#PlazaMayor",
+      "#guíaMadrid",
+      "#culturaMadrid"
+    ],
+    "servicios_clave": [
+      "Agenda cultural",
+      "Rutas y planes",
+      "Información turística",
+      "Madrid Card"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "muni_madrid_028",
+    "nombre": "Mercamadrid",
+    "url": "https://www.mercamadrid.es",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Mercamadrid S.A. - Ayuntamiento de Madrid",
+    "descripcion": "Mercado mayorista de Madrid: distribución de pescado, frutas y hortalizas, carnes y servicios polivalentes. Información para operadores, transportistas y proveedores municipales",
+    "hashtags": [
+      "#Mercamadrid",
+      "#mercadomayorista",
+      "#abastecimiento",
+      "#ayuntamientomadrid",
+      "#alimentacion",
+      "#mercadocentral",
+      "#operadores",
+      "#carnes",
+      "#pescado"
+    ],
+    "servicios_clave": [
+      "Información a operadores",
+      "Acceso a las naves",
+      "Servicios polivalentes",
+      "Subastas de producto"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "muni_madrid_029",
+    "nombre": "Biblioteca Digital memoriademadrid",
+    "url": "https://www.memoriademadrid.es",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Hemeroteca y Archivo de Villa",
+    "descripcion": "Biblioteca digital del patrimonio histórico y cultural del Ayuntamiento de Madrid: fondos del Archivo de Villa, Hemeroteca Municipal, Biblioteca Histórica y Museo de Historia",
+    "hashtags": [
+      "#memoriademadrid",
+      "#bibliotecadigital",
+      "#patrimonioMadrid",
+      "#archivomadrid",
+      "#hemeroteca",
+      "#culturaMadrid",
+      "#historiaMadrid",
+      "#ayuntamientomadrid",
+      "#fondoshistoricos"
+    ],
+    "servicios_clave": [
+      "Consulta de fondos digitalizados",
+      "Hemeroteca Municipal",
+      "Archivo de Villa",
+      "Biblioteca Histórica"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "muni_madrid_030",
+    "nombre": "Oficinas de Atención a la Ciudadanía Línea Madrid (OAC)",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Atencion-al-ciudadano/Oficinas-y-Atencion-Presencial",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Línea Madrid",
+    "descripcion": "Red de Oficinas de Atención a la Ciudadanía de Línea Madrid en los 21 distritos: padrón, registro, certificados, tributos, atención presencial con cita previa",
+    "hashtags": [
+      "#OAC",
+      "#LineaMadrid",
+      "#atencionciudadana",
+      "#ayuntamientomadrid",
+      "#padron",
+      "#registro",
+      "#certificados",
+      "#citaprevia",
+      "#21distritos",
+      "#tramitespresencial"
+    ],
+    "servicios_clave": [
+      "Empadronamiento",
+      "Registro de documentos",
+      "Certificados de empadronamiento",
+      "Cita previa por distrito"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "muni_madrid_031",
+    "nombre": "Juntas Municipales de Distrito - Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Distritos",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid",
+    "descripcion": "Información sobre los 21 distritos del Ayuntamiento de Madrid: Concejal Presidente, sesiones de la Junta Municipal, equipamientos, actividades y plenos abiertos al público",
+    "hashtags": [
+      "#JMD",
+      "#JuntaMunicipal",
+      "#distritosMadrid",
+      "#21distritos",
+      "#ayuntamientomadrid",
+      "#plenosdistritales",
+      "#equipamientos",
+      "#participacion",
+      "#vecinos"
+    ],
+    "servicios_clave": [
+      "Sesiones del Pleno del Distrito",
+      "Información de equipamientos",
+      "Concejal Presidente",
+      "Plan de Inversión Territorial"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "muni_madrid_032",
+    "nombre": "Madrid 360 - Zona de Bajas Emisiones (ZBE)",
+    "url": "https://www.madrid360.es",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Área de Medio Ambiente y Movilidad",
+    "descripcion": "Estrategia de movilidad sostenible Madrid 360 y Zona de Bajas Emisiones: distintivo ambiental, normativa, ZBEDEP Distrito Centro y Plaza Elíptica, sanciones y excepciones",
+    "hashtags": [
+      "#Madrid360",
+      "#ZBE",
+      "#ZBEDEP",
+      "#zonabajasemisiones",
+      "#distintivoambiental",
+      "#etiquetaDGT",
+      "#ayuntamientomadrid",
+      "#MedioAmbiente",
+      "#movilidad",
+      "#contaminacion"
+    ],
+    "servicios_clave": [
+      "Comprobador de acceso ZBE",
+      "Solicitud de autorización",
+      "Información ZBEDEP",
+      "Excepciones autorizadas"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "muni_madrid_033",
+    "nombre": "BiciMAD - Servicio público de bicicletas",
+    "url": "https://www.bicimad.com",
+    "administracion": "Municipal - Madrid",
+    "organismo": "EMT Madrid - Empresa Municipal de Transportes",
+    "descripcion": "Servicio público de bicicleta eléctrica compartida del Ayuntamiento de Madrid gestionado por la EMT: registro de usuario, tarifas, estaciones, app móvil y abono BiciMAD",
+    "hashtags": [
+      "#BiciMAD",
+      "#bicicletaelectrica",
+      "#movilidadsostenible",
+      "#EMTMadrid",
+      "#ayuntamientomadrid",
+      "#abonoBiciMAD",
+      "#bikesharing",
+      "#movilidadciudad",
+      "#ciclistasmadrid"
+    ],
+    "servicios_clave": [
+      "Registro de usuario",
+      "Abono anual y por viaje",
+      "App BiciMAD",
+      "Mapa de estaciones"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "muni_madrid_034",
+    "nombre": "Servicios Funerarios y Cementerios Municipales de Madrid",
+    "url": "https://sfmadrid.es",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Servicios Funerarios de Madrid S.A.",
+    "descripcion": "Empresa municipal que gestiona los cementerios, tanatorios y crematorios públicos de la ciudad de Madrid: gestión de sepulturas, servicios funerarios y trámites mortuorios",
+    "hashtags": [
+      "#serviciosfunerarios",
+      "#cementeriosMadrid",
+      "#ayuntamientomadrid",
+      "#tanatorio",
+      "#crematorio",
+      "#almudena",
+      "#sursfunerarios",
+      "#sepulturas",
+      "#defuncion"
+    ],
+    "servicios_clave": [
+      "Servicios funerarios completos",
+      "Gestión de sepulturas",
+      "Tanatorios y salas velatorio",
+      "Cementerio de la Almudena y Sur"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "muni_madrid_035",
+    "nombre": "Madrid Emprende",
+    "url": "https://www.madridemprende.es",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Agencia para el Empleo de Madrid",
+    "descripcion": "Portal municipal de apoyo al emprendimiento: ventanilla única empresarial, viveros municipales, programas de aceleración, ayudas y formación para emprendedores y pymes en la ciudad",
+    "hashtags": [
+      "#MadridEmprende",
+      "#emprendimiento",
+      "#viveros",
+      "#ayuntamientomadrid",
+      "#startups",
+      "#PAE",
+      "#ayudaspymes",
+      "#aceleradora",
+      "#autoempleo",
+      "#emprenderMadrid"
+    ],
+    "servicios_clave": [
+      "Viveros y aceleradora",
+      "Punto de Atención al Emprendedor (PAE)",
+      "Programas formativos",
+      "Asesoramiento empresarial"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "muni_madrid_036",
+    "nombre": "SAMUR-Protección Civil",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Emergencias-y-seguridad/SAMUR-Proteccion-Civil",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Área de Portavoz, Seguridad y Emergencias",
+    "descripcion": "Servicio municipal de Asistencia Municipal de Urgencia y Rescate y de Protección Civil: emergencias sanitarias en vía pública, soporte vital avanzado y planes de autoprotección",
+    "hashtags": [
+      "#SAMUR",
+      "#proteccioncivil",
+      "#emergencias",
+      "#ayuntamientomadrid",
+      "#asistenciasanitaria",
+      "#soportevital",
+      "#voluntariado",
+      "#urgenciasmadrid",
+      "#ambulancia"
+    ],
+    "servicios_clave": [
+      "Atención sanitaria urgente en vía pública",
+      "Voluntariado SAMUR-PC",
+      "Planes de autoprotección",
+      "Formación en primeros auxilios"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "muni_madrid_037",
+    "nombre": "Servicios Sociales por Distrito - Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Servicios-sociales/Centros-de-Servicios-Sociales",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Área de Familias, Igualdad y Bienestar Social",
+    "descripcion": "Red de Centros de Servicios Sociales en los 21 distritos: información, valoración y orientación, ayudas económicas municipales, dependencia y prestaciones sociales",
+    "hashtags": [
+      "#serviciossociales",
+      "#CSS",
+      "#ayuntamientomadrid",
+      "#dependencia",
+      "#ayudasmunicipales",
+      "#trabajadorsocial",
+      "#21distritos",
+      "#bienestarsocial",
+      "#emergenciasocial"
+    ],
+    "servicios_clave": [
+      "Cita con trabajador social",
+      "Ayudas económicas municipales",
+      "Tramitación de dependencia",
+      "Orientación en distritos"
+    ],
+    "sede_electronica": true
   }
 ]

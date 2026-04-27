@@ -3969,5 +3969,692 @@
       "Inspecciones de seguridad marítima"
     ],
     "sede_electronica": true
+  },
+  {
+    "id": "estatal_177",
+    "nombre": "Ingreso Mínimo Vital (IMV)",
+    "url": "https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/65850d68-8d06-4645-bde7-05374ee42ac7",
+    "administracion": "Estatal",
+    "organismo": "Instituto Nacional de la Seguridad Social (INSS)",
+    "descripcion": "Prestación no contributiva para garantizar un nivel mínimo de renta a personas en situación de vulnerabilidad económica. Incluye el Complemento de Ayuda para la Infancia (CAPI)",
+    "hashtags": [
+      "#IMV",
+      "#IngresoMinimoVital",
+      "#prestacion",
+      "#renta",
+      "#vulnerabilidad",
+      "#ayudasocial",
+      "#CAPI",
+      "#complementoinfancia",
+      "#pobreza",
+      "#exclusionsocial"
+    ],
+    "servicios_clave": [
+      "Solicitud del IMV",
+      "Complemento Ayuda para la Infancia (CAPI)",
+      "Simulador de derecho",
+      "Renovación anual"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_178",
+    "nombre": "Prestación por nacimiento y cuidado de menor",
+    "url": "https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/10935",
+    "administracion": "Estatal",
+    "organismo": "Instituto Nacional de la Seguridad Social (INSS)",
+    "descripcion": "Prestación contributiva para padre y madre durante el permiso por nacimiento, adopción, guarda con fines de adopción o acogimiento. Sustituye a las antiguas prestaciones de maternidad y paternidad",
+    "hashtags": [
+      "#maternidad",
+      "#paternidad",
+      "#nacimiento",
+      "#permisomaternidad",
+      "#permisopaternidad",
+      "#bajamaternal",
+      "#cuidadomenor",
+      "#prestacion",
+      "#adopcion",
+      "#acogimiento",
+      "#corresponsabilidad"
+    ],
+    "servicios_clave": [
+      "Solicitud de prestación",
+      "Simulador de cuantía",
+      "Permiso por nacimiento",
+      "Permiso por adopción"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_179",
+    "nombre": "Prestación por riesgo durante el embarazo y lactancia",
+    "url": "https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/10952",
+    "administracion": "Estatal",
+    "organismo": "Instituto Nacional de la Seguridad Social (INSS)",
+    "descripcion": "Prestación económica para trabajadoras embarazadas o en lactancia natural cuando deban suspender el contrato por riesgo en el puesto de trabajo y no sea posible un cambio de función",
+    "hashtags": [
+      "#riesgoembarazo",
+      "#embarazo",
+      "#lactancia",
+      "#maternidad",
+      "#prestacion",
+      "#proteccionembarazada",
+      "#suspensioncontrato",
+      "#saludlaboral",
+      "#bajaembarazo"
+    ],
+    "servicios_clave": [
+      "Solicitud de la prestación",
+      "Riesgo durante el embarazo",
+      "Riesgo durante la lactancia natural",
+      "Certificado médico"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_180",
+    "nombre": "Garantía Juvenil (Sistema Nacional)",
+    "url": "https://garantiajuvenil.sepe.es",
+    "administracion": "Estatal",
+    "organismo": "Servicio Público de Empleo Estatal (SEPE)",
+    "descripcion": "Programa para que jóvenes menores de 30 años no ocupados ni integrados en estudios o formación reciban una oferta de empleo, formación o prácticas. Inscripción en el fichero del Sistema Nacional de Garantía Juvenil",
+    "hashtags": [
+      "#GarantiaJuvenil",
+      "#empleojuvenil",
+      "#jovenes",
+      "#formacion",
+      "#practicas",
+      "#empleo",
+      "#SEPE",
+      "#NEET",
+      "#primerempleo",
+      "#orientacionlaboral"
+    ],
+    "servicios_clave": [
+      "Inscripción en Garantía Juvenil",
+      "Ofertas de empleo y formación",
+      "Prácticas no laborales",
+      "Orientación profesional"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_181",
+    "nombre": "Plan MOVES III - Ayudas a la movilidad eléctrica",
+    "url": "https://www.idae.es/ayudas-y-financiacion/para-movilidad-y-vehiculos/plan-moves-iii",
+    "administracion": "Estatal",
+    "organismo": "Ministerio para la Transición Ecológica y el Reto Demográfico (MITECO) - IDAE",
+    "descripcion": "Programa de incentivos a la adquisición de vehículos eléctricos e instalación de puntos de recarga. Las ayudas las gestionan las CCAA con fondos del IDAE",
+    "hashtags": [
+      "#MOVES",
+      "#MOVESIII",
+      "#vehiculoelectrico",
+      "#cocheelectrico",
+      "#movilidad",
+      "#sostenibilidad",
+      "#puntoderecarga",
+      "#IDAE",
+      "#transicionecologica",
+      "#electromovilidad"
+    ],
+    "servicios_clave": [
+      "Ayudas a la compra de vehículo eléctrico",
+      "Ayudas a puntos de recarga",
+      "Achatarramiento",
+      "Bases reguladoras"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "estatal_182",
+    "nombre": "Plan Estatal para el acceso a la vivienda 2022-2025",
+    "url": "https://www.mivau.gob.es/vivienda/alquila-bono-joven/plan-estatal-vivienda",
+    "administracion": "Estatal",
+    "organismo": "Ministerio de Vivienda y Agenda Urbana (MIVAU)",
+    "descripcion": "Plan estatal con programas de ayuda al alquiler, rehabilitación de viviendas y barrios, ayudas a jóvenes y a personas vulnerables. Convocatorias gestionadas por las CCAA",
+    "hashtags": [
+      "#vivienda",
+      "#planvivienda",
+      "#ayudasvivienda",
+      "#alquiler",
+      "#rehabilitacion",
+      "#PlanEstatalVivienda",
+      "#MIVAU",
+      "#bonojoven",
+      "#hogarjoven",
+      "#vulnerabilidad"
+    ],
+    "servicios_clave": [
+      "Ayudas al alquiler",
+      "Programa de rehabilitación",
+      "Bono Alquiler Joven",
+      "Ayudas a familias vulnerables"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "estatal_183",
+    "nombre": "Bono Social Eléctrico",
+    "url": "https://www.bonosocial.gob.es",
+    "administracion": "Estatal",
+    "organismo": "Ministerio para la Transición Ecológica y el Reto Demográfico (MITECO)",
+    "descripcion": "Descuento en la factura eléctrica para consumidores vulnerables. Solicitud a través de la comercializadora de referencia o de la sede electrónica oficial",
+    "hashtags": [
+      "#bonosocial",
+      "#bonosocialelectrico",
+      "#luz",
+      "#facturaluz",
+      "#vulnerabilidad",
+      "#descuentoluz",
+      "#energia",
+      "#consumidoresvulnerables",
+      "#PVPC",
+      "#tarifaluz"
+    ],
+    "servicios_clave": [
+      "Solicitud del bono social",
+      "Renovación anual",
+      "Comprobador de derecho",
+      "Comercializadoras de referencia"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_184",
+    "nombre": "Bono Social Térmico",
+    "url": "https://www.miteco.gob.es/es/ministerio/bono-social-termico.html",
+    "administracion": "Estatal",
+    "organismo": "Ministerio para la Transición Ecológica y el Reto Demográfico (MITECO)",
+    "descripcion": "Ayuda directa única anual para los hogares beneficiarios del bono social eléctrico, destinada a sufragar gastos de calefacción, agua caliente sanitaria o cocina",
+    "hashtags": [
+      "#bonosocialtermico",
+      "#calefaccion",
+      "#energia",
+      "#vulnerabilidad",
+      "#pobrezaenergetica",
+      "#ayudaenergia",
+      "#gas",
+      "#aguacaliente",
+      "#bonotermico"
+    ],
+    "servicios_clave": [
+      "Pago automático del bono térmico",
+      "Requisitos",
+      "Importes por zona climática"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "estatal_185",
+    "nombre": "Bono Alquiler Joven",
+    "url": "https://www.mivau.gob.es/vivienda/alquila-bono-joven/bono-alquiler-joven",
+    "administracion": "Estatal",
+    "organismo": "Ministerio de Vivienda y Agenda Urbana (MIVAU)",
+    "descripcion": "Ayuda de 250 euros mensuales durante 24 meses para jóvenes de hasta 35 años con ingresos limitados, dirigida al alquiler o cesión de uso de la vivienda habitual. Tramitación a través de cada CCAA",
+    "hashtags": [
+      "#bonoalquilerjoven",
+      "#alquilerjoven",
+      "#vivienda",
+      "#jovenes",
+      "#ayudaalquiler",
+      "#emancipacion",
+      "#hasta35",
+      "#alquiler",
+      "#MIVAU",
+      "#hogarjoven"
+    ],
+    "servicios_clave": [
+      "Solicitud del bono alquiler joven",
+      "Requisitos por edad e ingresos",
+      "Tramitación autonómica"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "estatal_186",
+    "nombre": "Programa Kit Digital",
+    "url": "https://www.acelerapyme.gob.es/kit-digital",
+    "administracion": "Estatal",
+    "organismo": "Red.es - Ministerio para la Transformación Digital",
+    "descripcion": "Subvenciones del Plan de Recuperación para la digitalización de pymes, microempresas y autónomos. Bonos digitales para contratar soluciones con agentes digitalizadores",
+    "hashtags": [
+      "#KitDigital",
+      "#digitalizacion",
+      "#autonomos",
+      "#pymes",
+      "#microempresas",
+      "#bonodigital",
+      "#REDes",
+      "#NextGenerationEU",
+      "#PRTR",
+      "#acelerapyme",
+      "#transformaciondigital"
+    ],
+    "servicios_clave": [
+      "Solicitud del bono digital",
+      "Catálogo de soluciones",
+      "Agentes digitalizadores",
+      "Test de diagnóstico digital"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_187",
+    "nombre": "Tarifa reducida para autónomos (antigua tarifa plana)",
+    "url": "https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Alta%20baja%20o%20modificacion%20en%20tu%20actividad%20como%20trabajador/Alta%20en%20autonomos/Tarifa%20reducida",
+    "administracion": "Estatal",
+    "organismo": "Tesorería General de la Seguridad Social (TGSS)",
+    "descripcion": "Cuota reducida en el Régimen Especial de Trabajadores Autónomos (RETA) durante los primeros 12 meses (ampliables a 24) tras el alta como nuevo autónomo",
+    "hashtags": [
+      "#tarifaplana",
+      "#tarifareducida",
+      "#autonomos",
+      "#RETA",
+      "#nuevoautonomo",
+      "#cuotaautonomos",
+      "#altaautonomo",
+      "#bonificacionautonomos",
+      "#emprendimiento"
+    ],
+    "servicios_clave": [
+      "Solicitud de tarifa reducida",
+      "Alta como autónomo",
+      "Bonificaciones por colectivos",
+      "Importass autónomos"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_188",
+    "nombre": "Subsidios por desempleo - SEPE",
+    "url": "https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/he-dejado-de-cobrar-el-paro/subsidios-por-desempleo.html",
+    "administracion": "Estatal",
+    "organismo": "Servicio Público de Empleo Estatal (SEPE)",
+    "descripcion": "Subsidios asistenciales para personas que han agotado la prestación contributiva, sin cotizaciones suficientes, mayores de 52 años, retornados emigrantes o liberados de prisión",
+    "hashtags": [
+      "#subsidio",
+      "#paro",
+      "#desempleo",
+      "#SEPE",
+      "#subsidiomayores52",
+      "#agotamientoparo",
+      "#ayudafamiliar",
+      "#subsidiocotizacion",
+      "#prestacionasistencial"
+    ],
+    "servicios_clave": [
+      "Subsidio por agotamiento",
+      "Subsidio mayores de 52 años",
+      "Subsidio sin cotizaciones suficientes",
+      "Renovaciones trimestrales"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_189",
+    "nombre": "Renta Activa de Inserción (RAI)",
+    "url": "https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/quiero-cobrar-el-paro/renta-activa-insercion.html",
+    "administracion": "Estatal",
+    "organismo": "Servicio Público de Empleo Estatal (SEPE)",
+    "descripcion": "Programa para personas desempleadas con dificultades especiales: víctimas de violencia de género o doméstica, personas con discapacidad, mayores de 45 años o emigrantes retornados",
+    "hashtags": [
+      "#RAI",
+      "#RentaActivaInsercion",
+      "#desempleo",
+      "#violenciagenero",
+      "#discapacidad",
+      "#mayores45",
+      "#emigrantesretornados",
+      "#SEPE",
+      "#insercionlaboral"
+    ],
+    "servicios_clave": [
+      "Solicitud RAI",
+      "Compromiso de actividad",
+      "Renovaciones",
+      "Ayuda complementaria por traslado"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_190",
+    "nombre": "Deducción por maternidad y guardería - IRPF",
+    "url": "https://sede.agenciatributaria.gob.es/Sede/irpf/maternidad-incremento-deduccion-guarderia-escuela-infantil.html",
+    "administracion": "Estatal",
+    "organismo": "Agencia Tributaria (AEAT)",
+    "descripcion": "Deducción de hasta 1.200 euros anuales por hijo menor de 3 años para madres trabajadoras, incrementada por gastos en guardería o centros de educación infantil autorizados",
+    "hashtags": [
+      "#deduccionmaternidad",
+      "#chequeguarderia",
+      "#guarderia",
+      "#IRPF",
+      "#renta",
+      "#hijos",
+      "#menores3anos",
+      "#madretrabajadora",
+      "#escuelainfantil",
+      "#AEAT",
+      "#100euros"
+    ],
+    "servicios_clave": [
+      "Modelo 140 abono anticipado",
+      "Deducción guardería en Renta",
+      "Incremento por gastos custodia",
+      "Verificación del centro autorizado"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_191",
+    "nombre": "Familias Numerosas - Reconocimiento y prestaciones",
+    "url": "https://www.mdsocialesa2030.gob.es/derechos-sociales/familias/familias-numerosas/index.htm",
+    "administracion": "Estatal",
+    "organismo": "Ministerio de Derechos Sociales, Consumo y Agenda 2030",
+    "descripcion": "Información estatal sobre el título de familia numerosa: requisitos, beneficios fiscales, ayudas y descuentos en transporte, ocio y servicios. La expedición la realiza cada CCAA",
+    "hashtags": [
+      "#familianumerosa",
+      "#tituloFN",
+      "#familias",
+      "#beneficiosfamilianumerosa",
+      "#ayudasfamilias",
+      "#tramitescomunidadautonoma",
+      "#carnefamilianumerosa",
+      "#descuentosfamilias"
+    ],
+    "servicios_clave": [
+      "Información del título de familia numerosa",
+      "Beneficios fiscales",
+      "Renovaciones autonómicas",
+      "Categorías general y especial"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "estatal_192",
+    "nombre": "Información sobre certificado y grado de discapacidad",
+    "url": "https://www.imserso.es/web/imserso/discapacidad",
+    "administracion": "Estatal",
+    "organismo": "IMSERSO - Ministerio de Derechos Sociales",
+    "descripcion": "Información estatal sobre el reconocimiento del grado de discapacidad, baremos y derechos asociados. La valoración y expedición del certificado se realiza en los centros base de cada CCAA",
+    "hashtags": [
+      "#discapacidad",
+      "#certificadodiscapacidad",
+      "#gradodiscapacidad",
+      "#IMSERSO",
+      "#centrobase",
+      "#dependencia",
+      "#BVD",
+      "#reconocimientodiscapacidad",
+      "#accesibilidad"
+    ],
+    "servicios_clave": [
+      "Información sobre el reconocimiento",
+      "Baremos de valoración",
+      "Tarjeta acreditativa",
+      "Derechos asociados al grado"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "estatal_193",
+    "nombre": "Bono Cultural Joven",
+    "url": "https://bonoculturajoven.gob.es",
+    "administracion": "Estatal",
+    "organismo": "Ministerio de Cultura",
+    "descripcion": "Ayuda directa de 400 euros para jóvenes que cumplen 18 años en el ejercicio en curso, destinada al consumo de productos y servicios culturales",
+    "hashtags": [
+      "#bonocultural",
+      "#bonoculturajoven",
+      "#cultura",
+      "#jovenes",
+      "#18anos",
+      "#cultura400",
+      "#ayudacultura",
+      "#consumocultural",
+      "#cinemusicalibros"
+    ],
+    "servicios_clave": [
+      "Solicitud del bono cultural",
+      "Empresas adheridas",
+      "Categorías de consumo",
+      "Plazo de utilización"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "estatal_194",
+    "nombre": "Línea 024 - Atención a la conducta suicida",
+    "url": "https://www.sanidad.gob.es/linea024/home.htm",
+    "administracion": "Estatal",
+    "organismo": "Ministerio de Sanidad",
+    "descripcion": "Línea telefónica gratuita 24h de atención a personas con pensamientos, ideación o conducta suicida y a su entorno. Asistencia psicológica especializada y derivación a recursos sanitarios",
+    "hashtags": [
+      "#024",
+      "#suicidio",
+      "#prevencionsuicidio",
+      "#saludmental",
+      "#atencionpsicologica",
+      "#crisisemocional",
+      "#emergenciassaludmental",
+      "#linea024",
+      "#bienestaremocional"
+    ],
+    "servicios_clave": [
+      "Atención telefónica 024 24h",
+      "Apoyo emocional inmediato",
+      "Derivación a salud mental",
+      "Atención al entorno"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "estatal_195",
+    "nombre": "Línea 017 - Tu Ayuda en Ciberseguridad (INCIBE)",
+    "url": "https://www.incibe.es/linea-de-ayuda-en-ciberseguridad",
+    "administracion": "Estatal",
+    "organismo": "Instituto Nacional de Ciberseguridad (INCIBE)",
+    "descripcion": "Servicio gratuito y confidencial 017 para ciudadanos, menores y empresas ante incidentes de ciberseguridad: estafas online, phishing, ciberacoso, suplantación de identidad o robo de datos",
+    "hashtags": [
+      "#017",
+      "#ciberseguridad",
+      "#INCIBE",
+      "#estafaonline",
+      "#phishing",
+      "#ciberacoso",
+      "#suplantacionidentidad",
+      "#fraudeonline",
+      "#proteccionmenores",
+      "#linea017",
+      "#cibervictima"
+    ],
+    "servicios_clave": [
+      "Atención telefónica 017",
+      "Soporte ante phishing y estafas",
+      "Apoyo psicosocial en ciberacoso",
+      "Asistencia a menores y familias"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "estatal_196",
+    "nombre": "Cita Previa Seguridad Social (INSS y TGSS)",
+    "url": "https://citaprevia.seg-social.gob.es/",
+    "administracion": "Estatal",
+    "organismo": "Seguridad Social",
+    "descripcion": "Sistema unificado de cita previa para atención presencial en oficinas del INSS, TGSS e ISM: pensiones, prestaciones, afiliación, vida laboral y bases de cotización",
+    "hashtags": [
+      "#citaprevia",
+      "#seguridadsocial",
+      "#INSS",
+      "#TGSS",
+      "#cita",
+      "#oficinaseguridadsocial",
+      "#atencionpresencial",
+      "#pensiones",
+      "#afiliacion"
+    ],
+    "servicios_clave": [
+      "Reserva de cita presencial",
+      "Anulación y cambio de cita",
+      "Servicios disponibles por oficina",
+      "Atención telefónica concertada"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_197",
+    "nombre": "Cita Previa SEPE - Oficinas de Empleo",
+    "url": "https://sede.sepe.gob.es/citaweb/citaPreviaInternet",
+    "administracion": "Estatal",
+    "organismo": "Servicio Público de Empleo Estatal (SEPE)",
+    "descripcion": "Sistema de cita previa para la atención presencial o telefónica en oficinas del SEPE: prestaciones, demanda de empleo, certificados y consultas administrativas",
+    "hashtags": [
+      "#citaprevia",
+      "#SEPE",
+      "#oficinaempleo",
+      "#paro",
+      "#prestaciondesempleo",
+      "#demandaempleo",
+      "#citaSEPE",
+      "#renovaciondemanda"
+    ],
+    "servicios_clave": [
+      "Cita presencial en oficina",
+      "Atención telefónica concertada",
+      "Solicitud de prestaciones",
+      "Demanda de empleo"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_198",
+    "nombre": "Informe de Vida Laboral",
+    "url": "https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Vida+laboral+e+informes/Informes+sobre+tu+situacion+laboral/Informe+de+tu+vida+laboral",
+    "administracion": "Estatal",
+    "organismo": "Tesorería General de la Seguridad Social (TGSS) - Importass",
+    "descripcion": "Documento oficial con todos los periodos de alta como trabajador o asimilado en cualquier régimen de la Seguridad Social. Descarga inmediata con certificado o Cl@ve",
+    "hashtags": [
+      "#vidalaboral",
+      "#informevidalaboral",
+      "#cotizaciones",
+      "#TGSS",
+      "#Importass",
+      "#seguridadsocial",
+      "#historialaboral",
+      "#periodoscotizados",
+      "#trabajador"
+    ],
+    "servicios_clave": [
+      "Descarga del informe en PDF",
+      "Envío por SMS",
+      "Solicitud por correo postal",
+      "Acceso con Cl@ve"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_199",
+    "nombre": "Informe de Bases de Cotización",
+    "url": "https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Vida+laboral+e+informes/Informes+sobre+bases+de+cotizacion/Informe+de+bases+de+cotizacion",
+    "administracion": "Estatal",
+    "organismo": "Tesorería General de la Seguridad Social (TGSS) - Importass",
+    "descripcion": "Documento que recoge las bases de cotización del trabajador en cada uno de los regímenes y empresas. Imprescindible para calcular pensiones y prestaciones contributivas",
+    "hashtags": [
+      "#basescotizacion",
+      "#cotizacion",
+      "#TGSS",
+      "#Importass",
+      "#vidalaboral",
+      "#calculopension",
+      "#prestacioncontributiva",
+      "#bases",
+      "#nominas"
+    ],
+    "servicios_clave": [
+      "Descarga PDF de bases",
+      "Bases por régimen",
+      "Histórico anual",
+      "Acceso con Cl@ve o certificado"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_200",
+    "nombre": "Simulador de Jubilación - Tu Seguridad Social",
+    "url": "https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Jubilacion/Calcular+la+pension/Simulacion+de+tu+jubilacion",
+    "administracion": "Estatal",
+    "organismo": "Instituto Nacional de la Seguridad Social (INSS) - Importass",
+    "descripcion": "Herramienta online para simular la pensión de jubilación según vida laboral propia, edad de jubilación y proyecciones de cotización futura",
+    "hashtags": [
+      "#simuladorjubilacion",
+      "#jubilacion",
+      "#pension",
+      "#calculopension",
+      "#INSS",
+      "#Importass",
+      "#jubilacionordinaria",
+      "#jubilacionanticipada",
+      "#planjubilacion"
+    ],
+    "servicios_clave": [
+      "Simulación de pensión ordinaria",
+      "Simulación de jubilación anticipada",
+      "Proyección de cotizaciones",
+      "Acceso con Cl@ve"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_201",
+    "nombre": "Acelera Pyme - Oficinas y servicios para pymes",
+    "url": "https://www.acelerapyme.gob.es",
+    "administracion": "Estatal",
+    "organismo": "Red.es - Ministerio para la Transformación Digital",
+    "descripcion": "Portal de apoyo a la digitalización de pymes y autónomos: asesoramiento gratuito, oficinas territoriales Acelera Pyme, formación, recursos y acceso al Kit Digital",
+    "hashtags": [
+      "#acelerapyme",
+      "#pymes",
+      "#autonomos",
+      "#digitalizacion",
+      "#REDes",
+      "#asesoramiento",
+      "#oficinaspyme",
+      "#KitDigital",
+      "#transformaciondigital"
+    ],
+    "servicios_clave": [
+      "Localizador de oficinas Acelera Pyme",
+      "Recursos formativos",
+      "Acceso al Kit Digital",
+      "Asesoramiento gratuito"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "estatal_202",
+    "nombre": "Tu Europa - Derechos y trámites en la UE",
+    "url": "https://europa.eu/youreurope/citizens/index_es.htm",
+    "administracion": "Estatal",
+    "organismo": "Comisión Europea (referencia para ciudadanos españoles)",
+    "descripcion": "Portal oficial sobre derechos y trámites de ciudadanos y empresas dentro de la UE: residencia, trabajo, sanidad, vehículos, viajes y consumo. Útil para movilidad europea desde España",
+    "hashtags": [
+      "#TuEuropa",
+      "#YourEurope",
+      "#UE",
+      "#derechosUE",
+      "#movilidadeuropea",
+      "#ciudadaniaUE",
+      "#tramitesUE",
+      "#residenciaUE",
+      "#trabajoUE",
+      "#viajarUE"
+    ],
+    "servicios_clave": [
+      "Información de derechos UE",
+      "Trámites de movilidad",
+      "Asistencia SOLVIT",
+      "Consultas a Europe Direct"
+    ],
+    "sede_electronica": false
   }
 ]

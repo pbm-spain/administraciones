@@ -11541,5 +11541,476 @@
       "Eventos"
     ],
     "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_052",
+    "nombre": "Dirección General de Igualdad - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/mujer",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "descripcion": "Política autonómica de igualdad y mujer: Red de Centros de la Mujer, programas de empleo, prevención de violencia de género, conciliación y empoderamiento femenino",
+    "hashtags": [
+      "#igualdad",
+      "#mujer",
+      "#ComunidaddeMadrid",
+      "#violenciadegenero",
+      "#empoderamiento",
+      "#conciliacion",
+      "#empleomujer",
+      "#feminismo",
+      "#brechagenero",
+      "#corresponsabilidad"
+    ],
+    "servicios_clave": [
+      "Red de Centros de la Mujer",
+      "Programas de empleo para mujeres",
+      "Atención a víctimas de violencia",
+      "Subvenciones a entidades de mujer"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_053",
+    "nombre": "Renta Mínima de Inserción (RMI) - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/renta-minima-insercion",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "descripcion": "Prestación económica autonómica complementaria al IMV para personas y familias en situación de exclusión social en la Comunidad de Madrid, vinculada a un proyecto de inserción",
+    "hashtags": [
+      "#RMI",
+      "#RentaMinimaInsercion",
+      "#exclusionsocial",
+      "#ayudasocial",
+      "#ComunidaddeMadrid",
+      "#serviciossociales",
+      "#vulnerabilidad",
+      "#prestacionautonomica",
+      "#insercionsocial"
+    ],
+    "servicios_clave": [
+      "Solicitud de RMI",
+      "Proyecto individual de inserción",
+      "Compatibilidad con IMV",
+      "Renovación anual"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_054",
+    "nombre": "Ayudas a familias - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/familia",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "descripcion": "Programa autonómico de ayudas a familias con hijos: deducciones autonómicas IRPF, ayudas por nacimiento, prestación por hijo a cargo, ayudas a familias numerosas y monoparentales",
+    "hashtags": [
+      "#familias",
+      "#ayudafamilias",
+      "#ComunidaddeMadrid",
+      "#nacimiento",
+      "#familianumerosa",
+      "#familiamonoparental",
+      "#deduccionautonomica",
+      "#hijoacargo",
+      "#conciliacion"
+    ],
+    "servicios_clave": [
+      "Ayuda por nacimiento o adopción",
+      "Deducciones autonómicas IRPF",
+      "Título de familia numerosa autonómico",
+      "Acreditación familia monoparental"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_055",
+    "nombre": "Red de Centros de la Mujer - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/red-centros-mujer",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "descripcion": "Red autonómica de centros de atención integral a mujeres víctimas de violencia y a mujeres en general: atención psicológica, jurídica y social, además de centros de emergencia y casas de acogida",
+    "hashtags": [
+      "#centrosmujer",
+      "#violenciadegenero",
+      "#atencionintegral",
+      "#ComunidaddeMadrid",
+      "#casadeacogida",
+      "#asesoramientojuridico",
+      "#atencionpsicologica",
+      "#mujeresvictimas",
+      "#telefono012"
+    ],
+    "servicios_clave": [
+      "Atención psicológica especializada",
+      "Asesoramiento jurídico gratuito",
+      "Centros de acogida",
+      "Coordinación con 016 y 112"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_056",
+    "nombre": "Puntos Municipales del Observatorio de Violencia de Género - CM",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/puntos-municipales-observatorio-violencia-genero",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "descripcion": "Red de Puntos Municipales del Observatorio Regional de Violencia de Género en ayuntamientos y mancomunidades de la Comunidad de Madrid para atención local a mujeres víctimas e hijos",
+    "hashtags": [
+      "#PMORVG",
+      "#violenciadegenero",
+      "#observatorioVG",
+      "#puntosmunicipales",
+      "#ComunidaddeMadrid",
+      "#atencionvictimas",
+      "#proteccionvictimas",
+      "#redmunicipal",
+      "#violenciamachista"
+    ],
+    "servicios_clave": [
+      "Atención psicológica y social municipal",
+      "Asesoramiento jurídico",
+      "Acompañamiento a víctimas",
+      "Intervención con hijos e hijas"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_057",
+    "nombre": "Salud Mental - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/salud/salud-mental",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Servicio Madrileño de Salud (SERMAS)",
+    "descripcion": "Red asistencial pública de salud mental: Centros de Salud Mental (CSM), hospitales de día, unidades de hospitalización, programas para infancia y adolescencia y prevención del suicidio",
+    "hashtags": [
+      "#saludmental",
+      "#SERMAS",
+      "#ComunidaddeMadrid",
+      "#CSM",
+      "#psiquiatria",
+      "#psicologiaclinica",
+      "#prevencionsuicidio",
+      "#saludmentalinfantojuvenil",
+      "#hospitaldedia"
+    ],
+    "servicios_clave": [
+      "Centros de Salud Mental por área",
+      "Hospital de día",
+      "Programas infantojuveniles",
+      "Prevención del suicidio"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_058",
+    "nombre": "Centros de Atención a la Infancia (CAI) - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/proteccion-menor",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "descripcion": "Red de Centros de Atención a la Infancia y Adolescencia: prevención del riesgo y desamparo, intervención psicosocial con menores y familias, acogimiento y adopciones",
+    "hashtags": [
+      "#CAI",
+      "#proteccionmenor",
+      "#infancia",
+      "#adolescencia",
+      "#ComunidaddeMadrid",
+      "#acogimientofamiliar",
+      "#adopcion",
+      "#serviciossociales",
+      "#ninosninas",
+      "#desamparo"
+    ],
+    "servicios_clave": [
+      "Atención a menores en riesgo",
+      "Programas familiares",
+      "Acogimiento familiar",
+      "Adopciones"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_059",
+    "nombre": "Tarjeta Transporte Público (Abono) - Consorcio Transportes Madrid",
+    "url": "https://tarjetatransportepublico.crtm.es",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consorcio Regional de Transportes de Madrid (CRTM)",
+    "descripcion": "Portal oficial de la Tarjeta Transporte Público de Madrid: solicitud y renovación, abonos joven, normal y tercera edad, recargas online y consulta de movimientos",
+    "hashtags": [
+      "#abonotransporte",
+      "#TTP",
+      "#tarjetatransporte",
+      "#abonoMadrid",
+      "#abonojoven",
+      "#tercereaedad",
+      "#metro",
+      "#EMT",
+      "#cercanias",
+      "#CRTM",
+      "#Madrid20euros"
+    ],
+    "servicios_clave": [
+      "Solicitud TTP",
+      "Renovación anual",
+      "Recarga online",
+      "Abono Joven hasta 26 años"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_060",
+    "nombre": "Plan MOVES Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/transportes/plan-moves",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Medio Ambiente, Agricultura e Interior - FENERCOM",
+    "descripcion": "Convocatorias autonómicas del Plan MOVES en la Comunidad de Madrid: ayudas a la compra de vehículos eléctricos e instalación de infraestructura de recarga, gestionadas por FENERCOM",
+    "hashtags": [
+      "#MOVES",
+      "#MOVESMadrid",
+      "#vehiculoelectrico",
+      "#FENERCOM",
+      "#ComunidaddeMadrid",
+      "#cocheelectrico",
+      "#recargavehiculo",
+      "#sostenibilidad",
+      "#electromovilidad"
+    ],
+    "servicios_clave": [
+      "Solicitud autonómica MOVES III",
+      "Subvención puntos de recarga",
+      "Achatarramiento",
+      "Estado de la convocatoria"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_061",
+    "nombre": "Escuelas Infantiles Públicas (0-3 años) - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/educacion/escuelas-infantiles",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Educación, Ciencia y Universidades",
+    "descripcion": "Red pública autonómica de escuelas infantiles para el Primer Ciclo de Educación Infantil (0-3 años). Procesos de admisión, baremo de puntos, listado de centros y becas de comedor",
+    "hashtags": [
+      "#escuelainfantil",
+      "#guarderia",
+      "#0a3",
+      "#ComunidaddeMadrid",
+      "#educacioninfantil",
+      "#admisionEI",
+      "#primerciclo",
+      "#chequeguarderia",
+      "#concertadasinfantil"
+    ],
+    "servicios_clave": [
+      "Solicitud de plaza 0-3",
+      "Listado de escuelas infantiles",
+      "Baremo de admisión",
+      "Becas de escolaridad"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_062",
+    "nombre": "Becas de Comedor Escolar - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/educacion/becas-comedor-escolar",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Educación, Ciencia y Universidades",
+    "descripcion": "Convocatoria anual de ayudas para comedor escolar en colegios públicos y concertados de la Comunidad de Madrid en función de renta familiar y situación social",
+    "hashtags": [
+      "#becacomedor",
+      "#comedorescolar",
+      "#ComunidaddeMadrid",
+      "#educacion",
+      "#ayudacomedor",
+      "#renta",
+      "#familiavulnerable",
+      "#colegiopublico",
+      "#concertado"
+    ],
+    "servicios_clave": [
+      "Solicitud anual",
+      "Cuantía según renta",
+      "Plazos de presentación",
+      "Recursos y resoluciones"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_063",
+    "nombre": "Cheque Guardería - Comunidad de Madrid (Primer Ciclo Infantil)",
+    "url": "https://www.comunidad.madrid/servicios/educacion/precios-cuotas-primer-ciclo-educacion-infantil",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Educación, Ciencia y Universidades",
+    "descripcion": "Sistema de cuotas reducidas y becas autonómicas para el Primer Ciclo de Educación Infantil (0-3) en escuelas públicas y centros privados autorizados de la Comunidad de Madrid",
+    "hashtags": [
+      "#chequeguarderia",
+      "#guarderia",
+      "#educacioninfantil",
+      "#ComunidaddeMadrid",
+      "#0a3",
+      "#cuotaguarderia",
+      "#ayudaguarderia",
+      "#primerciclo",
+      "#beca"
+    ],
+    "servicios_clave": [
+      "Solicitud de beca de escolarización",
+      "Cuotas según renta",
+      "Centros adheridos",
+      "Compatibilidad con deducción AEAT"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_064",
+    "nombre": "Plan de Empleo Femenino - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/empleo/empleo-mujer",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Economía, Hacienda y Empleo - SEPE Madrid",
+    "descripcion": "Programas autonómicos de inserción laboral para mujeres: itinerarios de orientación, formación específica, ayudas a la contratación, autoempleo y conciliación",
+    "hashtags": [
+      "#empleomujer",
+      "#empleofemenino",
+      "#ComunidaddeMadrid",
+      "#orientacionlaboral",
+      "#insercionlaboral",
+      "#formacionmujer",
+      "#autoempleomujer",
+      "#brechagenero",
+      "#conciliacion"
+    ],
+    "servicios_clave": [
+      "Itinerarios de orientación",
+      "Formación para mujeres",
+      "Ayudas a la contratación femenina",
+      "Autoempleo de mujeres"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_065",
+    "nombre": "Ayudas a Autónomos - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/empleo/autonomos",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Economía, Hacienda y Empleo",
+    "descripcion": "Programas autonómicos de fomento del autoempleo: subvención a la cuota de autónomos durante el primer año, ayudas a la consolidación, formación y acompañamiento al emprendedor",
+    "hashtags": [
+      "#autonomos",
+      "#ayudaautonomo",
+      "#cuotaautonomo",
+      "#ComunidaddeMadrid",
+      "#emprendimiento",
+      "#tarifaceroMadrid",
+      "#empleoautonomo",
+      "#consolidacion",
+      "#asesoramiento"
+    ],
+    "servicios_clave": [
+      "Subvención cuota autónomo",
+      "Ayudas a la consolidación",
+      "Formación para emprendedores",
+      "Acompañamiento al alta"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_066",
+    "nombre": "Registro de Uniones de Hecho - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/registro-uniones-hecho",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Presidencia, Justicia y Administración Local",
+    "descripcion": "Registro autonómico para inscribir parejas de hecho residentes en la Comunidad de Madrid. Solicitud de inscripción, modificación, baja y certificados",
+    "hashtags": [
+      "#parejadehecho",
+      "#uniondehecho",
+      "#registroparejas",
+      "#ComunidaddeMadrid",
+      "#derechofamilia",
+      "#inscripcionpareja",
+      "#certificadopareja",
+      "#convivencia"
+    ],
+    "servicios_clave": [
+      "Inscripción de pareja",
+      "Certificados de unión de hecho",
+      "Baja registral",
+      "Cita previa"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_067",
+    "nombre": "Atención Temprana - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/atencion-temprana",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Familia, Juventud y Asuntos Sociales",
+    "descripcion": "Red de Centros de Atención Temprana (CAT) para menores de 0-6 años con trastornos del desarrollo o riesgo de padecerlos: valoración, intervención y apoyo a familias",
+    "hashtags": [
+      "#atenciontemprana",
+      "#CAT",
+      "#ComunidaddeMadrid",
+      "#discapacidadinfantil",
+      "#estimulaciontemprana",
+      "#trastornodesarrollo",
+      "#0a6",
+      "#diversidadfuncional",
+      "#familiamenores"
+    ],
+    "servicios_clave": [
+      "Solicitud de valoración",
+      "Tratamiento en centro CAT",
+      "Apoyo a familias",
+      "Coordinación con sanidad y educación"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_068",
+    "nombre": "eBiblio Madrid - Préstamo digital de bibliotecas",
+    "url": "https://madrid.ebiblio.es",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Cultura, Turismo y Deporte",
+    "descripcion": "Plataforma de préstamo gratuito de libros electrónicos, audiolibros y revistas digitales para usuarios con carné de la Red de Bibliotecas Públicas de la Comunidad de Madrid",
+    "hashtags": [
+      "#eBiblio",
+      "#bibliotecadigital",
+      "#prestamodigital",
+      "#ebooks",
+      "#audiolibros",
+      "#ComunidaddeMadrid",
+      "#bibliotecasMadrid",
+      "#lectura",
+      "#cultura"
+    ],
+    "servicios_clave": [
+      "Préstamo de libros electrónicos",
+      "Audiolibros y revistas",
+      "Carné de biblioteca",
+      "Acceso multidispositivo"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_069",
+    "nombre": "Oficinas Municipales de Información al Consumidor (OMIC) - CM",
+    "url": "https://www.comunidad.madrid/servicios/consumo/red-oficinas-municipales-informacion-al-consumidor-omic",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Dirección General de Comercio y Consumo",
+    "descripcion": "Localizador de Oficinas Municipales de Información al Consumidor en municipios de la Comunidad de Madrid. Reclamaciones de consumo, información al usuario y arbitraje",
+    "hashtags": [
+      "#OMIC",
+      "#consumo",
+      "#consumidor",
+      "#reclamaciones",
+      "#ComunidaddeMadrid",
+      "#hojareclamaciones",
+      "#arbitrajeconsumo",
+      "#defensaconsumidor",
+      "#municipal"
+    ],
+    "servicios_clave": [
+      "Localizador de OMIC",
+      "Reclamaciones de consumo",
+      "Arbitraje",
+      "Información al consumidor"
+    ],
+    "sede_electronica": false
   }
 ]
