@@ -4656,5 +4656,229 @@
       "Consultas a Europe Direct"
     ],
     "sede_electronica": false
+  },
+  {
+    "id": "estatal_203",
+    "nombre": "Prestación por nacimiento y cuidado de menor (maternidad/paternidad)",
+    "url": "https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/6b58d816-44c8-4eb8-a743-3652e84df8be",
+    "administracion": "Estatal",
+    "organismo": "Seguridad Social - Instituto Nacional de la Seguridad Social (INSS)",
+    "descripcion": "Prestación económica equivalente al 100% de la base reguladora durante el permiso por nacimiento, adopción, acogimiento o guarda. Sustituye a las antiguas prestaciones de maternidad y paternidad.",
+    "hashtags": [
+      "#Maternidad",
+      "#Paternidad",
+      "#NacimientoYCuidado",
+      "#PermisoParental",
+      "#SeguridadSocial",
+      "#INSS",
+      "#Conciliacion",
+      "#Familia",
+      "#Bebes",
+      "#Prestaciones"
+    ],
+    "servicios_clave": [
+      "Solicitud prestación",
+      "Cálculo base reguladora",
+      "Distribución del permiso",
+      "Acreditación documentación",
+      "Consulta del expediente"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_204",
+    "nombre": "Tarifa Plana para nuevos autónomos",
+    "url": "https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/36537",
+    "administracion": "Estatal",
+    "organismo": "Seguridad Social - Tesorería General de la Seguridad Social (TGSS)",
+    "descripcion": "Cuota reducida de 80€ mensuales durante los primeros 12 meses (prorrogable otros 12) para nuevas altas en el RETA. Reemplaza la antigua tarifa plana de 60€.",
+    "hashtags": [
+      "#TarifaPlana",
+      "#Autonomos",
+      "#RETA",
+      "#NuevosAutonomos",
+      "#SeguridadSocial",
+      "#TGSS",
+      "#Cuota",
+      "#Emprendedores",
+      "#Bonificacion",
+      "#Cotizacion"
+    ],
+    "servicios_clave": [
+      "Alta en RETA con tarifa plana",
+      "Solicitud de prórroga",
+      "Compatibilidad con pluriactividad",
+      "Cuota reducida 80€",
+      "Beneficios para mujeres y discapacitados"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_205",
+    "nombre": "Deducción por maternidad y guardería (Cheque guardería IRPF)",
+    "url": "https://sede.agenciatributaria.gob.es/Sede/procedimientoini/G601.shtml",
+    "administracion": "Estatal",
+    "organismo": "Agencia Tributaria (AEAT)",
+    "descripcion": "Deducción de hasta 1.200€ anuales por maternidad con incremento adicional de hasta 1.000€ por gastos de guardería o centros de educación infantil autorizados para hijos menores de 3 años.",
+    "hashtags": [
+      "#ChequeGuarderia",
+      "#DeduccionMaternidad",
+      "#IRPF",
+      "#AEAT",
+      "#Guarderia",
+      "#EducacionInfantil",
+      "#Conciliacion",
+      "#Familias",
+      "#Hacienda",
+      "#Renta"
+    ],
+    "servicios_clave": [
+      "Modelo 140 abono anticipado",
+      "Deducción en Renta",
+      "Incremento por guardería",
+      "Acreditación del centro educativo",
+      "Consulta del estado del expediente"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_206",
+    "nombre": "Cita Previa SEPE",
+    "url": "https://sede.sepe.gob.es/portalSedeEstaticos/flows/gestorContenidos?page=cpr01",
+    "administracion": "Estatal",
+    "organismo": "Servicio Público de Empleo Estatal (SEPE)",
+    "descripcion": "Reserva de cita previa para acudir a oficinas de prestaciones del SEPE: solicitud de paro, subsidios, sellado, certificados.",
+    "hashtags": [
+      "#CitaPreviaSEPE",
+      "#SEPE",
+      "#Paro",
+      "#Desempleo",
+      "#Subsidio",
+      "#OficinaEmpleo",
+      "#Prestaciones",
+      "#TramitesPresenciales",
+      "#Empleo",
+      "#CitaPrevia"
+    ],
+    "servicios_clave": [
+      "Reserva de cita por NIE/DNI",
+      "Anulación de cita",
+      "Selección de oficina",
+      "Tipo de trámite",
+      "Confirmación por correo"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_207",
+    "nombre": "Tu Seguridad Social (Import@ss / portal personal)",
+    "url": "https://portal.seg-social.gob.es/wps/portal/importass",
+    "administracion": "Estatal",
+    "organismo": "Seguridad Social - Tesorería General de la Seguridad Social (TGSS)",
+    "descripcion": "Portal personal del ciudadano con todos sus datos en la Seguridad Social: cotizaciones, prestaciones, pensiones, familia, simuladores y trámites guiados sin formularios.",
+    "hashtags": [
+      "#Importass",
+      "#TuSeguridadSocial",
+      "#SeguridadSocial",
+      "#TGSS",
+      "#PortalCiudadano",
+      "#Cotizaciones",
+      "#Pensiones",
+      "#Simulador",
+      "#AreaPersonal",
+      "#Tramites"
+    ],
+    "servicios_clave": [
+      "Consulta cotizaciones",
+      "Simulador de jubilación",
+      "Datos de afiliación",
+      "Comunicación de cambios",
+      "Trámites por situación"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_208",
+    "nombre": "Teléfono 016 - Atención a víctimas de violencia de género",
+    "url": "https://violenciagenero.igualdad.gob.es/informacionUtil/recursos/telefono016/home.htm",
+    "administracion": "Estatal",
+    "organismo": "Ministerio de Igualdad - Delegación del Gobierno contra la Violencia de Género",
+    "descripcion": "Servicio telefónico (016), WhatsApp (600 000 016), correo (016-online@igualdad.gob.es) y chat para víctimas de todas las formas de violencia contra la mujer. Gratuito, 24h, confidencial y en 53 idiomas.",
+    "hashtags": [
+      "#016",
+      "#ViolenciaGenero",
+      "#ViolenciaMachista",
+      "#Igualdad",
+      "#Mujeres",
+      "#VictimasViolencia",
+      "#24Horas",
+      "#Confidencial",
+      "#WhatsApp016",
+      "#Ministerio"
+    ],
+    "servicios_clave": [
+      "Atención telefónica 24/7",
+      "WhatsApp 600 000 016",
+      "Chat online",
+      "Atención en 53 idiomas",
+      "Asesoramiento jurídico y psicológico"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "estatal_209",
+    "nombre": "Registro Civil online (DICIREG / DGRN)",
+    "url": "https://sede.mjusticia.gob.es/es/tramites/certificacion-nacimiento",
+    "administracion": "Estatal",
+    "organismo": "Ministerio de Justicia - Dirección General de Seguridad Jurídica y Fe Pública",
+    "descripcion": "Solicitud telemática de certificados literales y de extracto del Registro Civil (nacimiento, matrimonio, defunción, fe de vida y estado) y trámites del nuevo Registro Civil único electrónico.",
+    "hashtags": [
+      "#RegistroCivil",
+      "#DICIREG",
+      "#Justicia",
+      "#CertificadoNacimiento",
+      "#CertificadoMatrimonio",
+      "#CertificadoDefuncion",
+      "#FeVida",
+      "#DGRN",
+      "#Online",
+      "#MinisterioJusticia"
+    ],
+    "servicios_clave": [
+      "Certificado de nacimiento",
+      "Certificado de matrimonio",
+      "Certificado de defunción",
+      "Fe de vida y estado",
+      "Inscripciones electrónicas"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_210",
+    "nombre": "Plan Estatal de Vivienda 2022-2025",
+    "url": "https://www.mivau.gob.es/vivienda/alquila-bono-joven-y-plan-estatal-2022-2025",
+    "administracion": "Estatal",
+    "organismo": "Ministerio de Vivienda y Agenda Urbana (MIVAU)",
+    "descripcion": "Plan estatal con líneas de ayuda al alquiler, rehabilitación, eficiencia energética y vivienda asequible. Incluye el Bono Alquiler Joven (250€/mes) gestionado por las CCAA.",
+    "hashtags": [
+      "#PlanVivienda",
+      "#BonoAlquilerJoven",
+      "#Vivienda",
+      "#Alquiler",
+      "#MIVAU",
+      "#Rehabilitacion",
+      "#Jovenes",
+      "#AyudasVivienda",
+      "#NextGenerationEU",
+      "#EficienciaEnergetica"
+    ],
+    "servicios_clave": [
+      "Bono Alquiler Joven 250€",
+      "Ayudas al alquiler",
+      "Rehabilitación de vivienda",
+      "Vivienda asequible incentivada",
+      "Tramitación autonómica"
+    ],
+    "sede_electronica": true
   }
 ]

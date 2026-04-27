@@ -27047,5 +27047,117 @@
       "Orientación en distritos"
     ],
     "sede_electronica": true
+  },
+  {
+    "id": "muni_madrid_038",
+    "nombre": "SAMUR Social - Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Personas-sin-hogar/SAMUR-Social/",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Área de Familias, Igualdad y Bienestar Social",
+    "descripcion": "Servicio municipal de emergencias sociales 24 horas para personas sin hogar y situaciones de exclusión grave. Atención telefónica 900 525 280, equipos de calle y centros de acogida.",
+    "hashtags": [
+      "#SAMURSocial",
+      "#Madrid",
+      "#PersonasSinHogar",
+      "#EmergenciasSociales",
+      "#Ayuntamiento",
+      "#Sintecho",
+      "#ExclusionSocial",
+      "#Acogida",
+      "#24Horas",
+      "#BienestarSocial"
+    ],
+    "servicios_clave": [
+      "Atención 24h 900 525 280",
+      "Equipos de calle",
+      "Centros de acogida municipales",
+      "Frío y calor extremos",
+      "Coordinación servicios sociales"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "muni_madrid_039",
+    "nombre": "Línea Madrid - 010 Atención al Ciudadano",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Atencion-a-la-ciudadania/Linea-Madrid/",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Área de Coordinación Territorial, Transparencia y Participación Ciudadana",
+    "descripcion": "Servicio integral de atención al ciudadano del Ayuntamiento de Madrid: teléfono 010, oficinas de atención (OAC) y atención telemática. Información municipal, gestiones y reserva de cita previa.",
+    "hashtags": [
+      "#Linea010",
+      "#Madrid",
+      "#AtencionCiudadana",
+      "#Ayuntamiento",
+      "#OAC",
+      "#CitaPrevia",
+      "#Tramites",
+      "#TelefonoMadrid",
+      "#Informacion",
+      "#LineaMadrid"
+    ],
+    "servicios_clave": [
+      "Teléfono 010",
+      "Oficinas de Atención (OAC)",
+      "Cita previa municipal",
+      "Información de servicios",
+      "Quejas y sugerencias"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "muni_madrid_040",
+    "nombre": "Registro Civil Único de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Servicios-sociales/Registro-Civil-Unico-de-Madrid/",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ministerio de Justicia - Registro Civil Único de Madrid (sede en C/ Pradillo)",
+    "descripcion": "Oficina del Registro Civil que centraliza para Madrid capital la inscripción y certificación de nacimientos, matrimonios, defunciones y la nacionalidad. Cita previa obligatoria.",
+    "hashtags": [
+      "#RegistroCivil",
+      "#Madrid",
+      "#Justicia",
+      "#Nacimientos",
+      "#Matrimonios",
+      "#Defunciones",
+      "#Nacionalidad",
+      "#CitaPrevia",
+      "#Pradillo",
+      "#Certificados"
+    ],
+    "servicios_clave": [
+      "Inscripción de nacimiento",
+      "Matrimonio civil",
+      "Inscripción de defunción",
+      "Expediente de nacionalidad",
+      "Certificados literales"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "muni_madrid_041",
+    "nombre": "Servicios Funerarios de Madrid - SFM",
+    "url": "https://www.sfmadrid.es",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Empresa Mixta Servicios Funerarios de Madrid S.A. - Ayuntamiento de Madrid",
+    "descripcion": "Empresa mixta del Ayuntamiento que presta servicios funerarios y gestiona los cementerios y tanatorios municipales (La Almudena, Carabanchel, Sur, San Isidro, Norte, Hortaleza, Vicálvaro, Vallecas, Barajas, El Pardo).",
+    "hashtags": [
+      "#ServiciosFunerarios",
+      "#SFM",
+      "#Madrid",
+      "#Cementerios",
+      "#Tanatorios",
+      "#Ayuntamiento",
+      "#Almudena",
+      "#Funeral",
+      "#Defunciones",
+      "#Sepelios"
+    ],
+    "servicios_clave": [
+      "Servicio funerario completo",
+      "Tanatorios municipales",
+      "Cementerios",
+      "Incineración",
+      "Asistencia 24 horas"
+    ],
+    "sede_electronica": false
   }
 ]

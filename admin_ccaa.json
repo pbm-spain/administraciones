@@ -12012,5 +12012,229 @@
       "Información al consumidor"
     ],
     "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_070",
+    "nombre": "Centros de Atención Integral a Mujeres Víctimas de Violencia (CIMASCAM, CRFEM, CAM) - Madrid",
+    "url": "https://www.comunidad.madrid/servicios/asuntos-sociales/red-atencion-mujeres-victimas-violencia-genero",
+    "administracion": "Madrid",
+    "organismo": "Dirección General de Igualdad - Comunidad de Madrid",
+    "descripcion": "Red autonómica de centros de atención integral, residencial y especializada para mujeres víctimas de violencia de género, agresiones sexuales y trata: CIMASCAM, CAM, CRFEM y casas de emergencia.",
+    "hashtags": [
+      "#CentrosMujer",
+      "#ViolenciaGenero",
+      "#CIMASCAM",
+      "#CRFEM",
+      "#CAM",
+      "#ComunidadMadrid",
+      "#AgresionSexual",
+      "#Trata",
+      "#AtencionIntegral",
+      "#RedMadrid"
+    ],
+    "servicios_clave": [
+      "Atención psicológica",
+      "Asesoramiento jurídico",
+      "Acogida en piso tutelado",
+      "Atención a agresiones sexuales",
+      "Protección integral"
+    ],
+    "sede_electronica": false
+  },
+  {
+    "id": "ccaa_madrid_071",
+    "nombre": "Red de Salud Mental - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/salud/atencion-salud-mental",
+    "administracion": "Madrid",
+    "organismo": "Servicio Madrileño de Salud (SERMAS)",
+    "descripcion": "Red asistencial pública de salud mental con centros de salud mental (CSM), unidades de hospitalización breve, hospitales de día, unidades de adolescentes y dispositivos de rehabilitación. Acceso por derivación desde Atención Primaria.",
+    "hashtags": [
+      "#SaludMental",
+      "#SERMAS",
+      "#ComunidadMadrid",
+      "#CentroSaludMental",
+      "#CSM",
+      "#Psicologia",
+      "#Psiquiatria",
+      "#AtencionSanitaria",
+      "#HospitalDia",
+      "#Adolescentes"
+    ],
+    "servicios_clave": [
+      "Centros de Salud Mental (CSM)",
+      "Hospitales de día",
+      "Unidades infanto-juveniles",
+      "Conducta suicida",
+      "Trastornos graves"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_072",
+    "nombre": "Cheque Guardería - Beca Infantil Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/educacion/becas-educacion-infantil-0-3-anos",
+    "administracion": "Madrid",
+    "organismo": "Consejería de Educación, Ciencia y Universidades - Comunidad de Madrid",
+    "descripcion": "Beca para escolarización en centros privados de educación infantil 0-3 años (popularmente «cheque guardería»). Cuantía variable según renta familiar y modalidad.",
+    "hashtags": [
+      "#ChequeGuarderia",
+      "#BecaInfantil",
+      "#0a3",
+      "#Educacion",
+      "#ComunidadMadrid",
+      "#Conciliacion",
+      "#Familias",
+      "#GuarderiaPrivada",
+      "#Becas",
+      "#EducacionInfantil"
+    ],
+    "servicios_clave": [
+      "Solicitud beca infantil 0-3",
+      "Acreditación de renta",
+      "Listado de centros adheridos",
+      "Pago al centro",
+      "Compatibilidades"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_073",
+    "nombre": "Becas comedor escolar - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/educacion/precios-reducidos-comedor-escolar",
+    "administracion": "Madrid",
+    "organismo": "Consejería de Educación, Ciencia y Universidades - Comunidad de Madrid",
+    "descripcion": "Precios reducidos y becas de comedor escolar para alumnado de centros sostenidos con fondos públicos. Distintos tramos según renta, situación social y familias monoparentales o numerosas.",
+    "hashtags": [
+      "#BecasComedor",
+      "#ComedorEscolar",
+      "#Educacion",
+      "#ComunidadMadrid",
+      "#Familias",
+      "#FamiliasNumerosas",
+      "#Monoparentales",
+      "#PreciosReducidos",
+      "#Colegios",
+      "#AyudasEducacion"
+    ],
+    "servicios_clave": [
+      "Solicitud precio reducido",
+      "Becas extraordinarias",
+      "Familias numerosas y monoparentales",
+      "Centros concertados y públicos",
+      "Conciliación familiar"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_074",
+    "nombre": "Abono Transporte Joven - Consorcio Regional de Transportes de Madrid",
+    "url": "https://www.crtm.es/billetes-y-tarifas/abonos-de-transporte/abono-joven.aspx",
+    "administracion": "Madrid",
+    "organismo": "Consorcio Regional de Transportes de Madrid (CRTM)",
+    "descripcion": "Abono mensual de 8€ para todas las zonas (A, B y C) destinado a menores de 26 años, válido en Metro, Metro Ligero, EMT, Cercanías y autobuses interurbanos.",
+    "hashtags": [
+      "#AbonoJoven",
+      "#TransportePublico",
+      "#ComunidadMadrid",
+      "#CRTM",
+      "#Metro",
+      "#Cercanias",
+      "#EMT",
+      "#Jovenes",
+      "#Menores26",
+      "#TarjetaTransporte"
+    ],
+    "servicios_clave": [
+      "Solicitud tarjeta transporte joven",
+      "Recarga mensual",
+      "Renovación",
+      "Duplicado por pérdida",
+      "Atención al cliente CRTM"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_075",
+    "nombre": "Oficinas de Vivienda - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/vivienda/oficinas-vivienda",
+    "administracion": "Madrid",
+    "organismo": "Agencia de Vivienda Social - Comunidad de Madrid",
+    "descripcion": "Red de oficinas presenciales de información y tramitación en materia de vivienda protegida, ayudas al alquiler, Bono Alquiler Joven, vivienda social y mediación hipotecaria.",
+    "hashtags": [
+      "#OficinasVivienda",
+      "#ViviendaSocial",
+      "#ComunidadMadrid",
+      "#AgenciaVivienda",
+      "#Alquiler",
+      "#BonoJoven",
+      "#Hipoteca",
+      "#ViviendaProtegida",
+      "#AyudasVivienda",
+      "#Madrid"
+    ],
+    "servicios_clave": [
+      "Información sobre vivienda",
+      "Bono Alquiler Joven",
+      "Ayudas al alquiler",
+      "Vivienda protegida",
+      "Mediación hipotecaria"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_076",
+    "nombre": "Plan de Adicciones - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/salud/red-asistencial-drogodependencias-otros-trastornos-adictivos",
+    "administracion": "Madrid",
+    "organismo": "Servicio Madrileño de Salud - Subdirección General de Adicciones",
+    "descripcion": "Red asistencial autonómica para drogodependencias y otros trastornos adictivos: Centros de Atención Integral a Drogodependientes (CAID), unidades hospitalarias de desintoxicación y comunidades terapéuticas.",
+    "hashtags": [
+      "#Adicciones",
+      "#Drogas",
+      "#PlanDrogas",
+      "#CAID",
+      "#SaludMental",
+      "#ComunidadMadrid",
+      "#SERMAS",
+      "#Drogodependencias",
+      "#JuegoPatologico",
+      "#Prevencion"
+    ],
+    "servicios_clave": [
+      "CAID - Centros atención adicciones",
+      "Programas de prevención",
+      "Desintoxicación hospitalaria",
+      "Comunidades terapéuticas",
+      "Atención a familias"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_077",
+    "nombre": "Tarjeta Sanitaria Virtual - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/salud/tarjeta-sanitaria-individual",
+    "administracion": "Madrid",
+    "organismo": "Servicio Madrileño de Salud (SERMAS)",
+    "descripcion": "Versión digital de la tarjeta sanitaria del SERMAS, accesible desde la app Tarjeta Sanitaria Virtual. Permite identificarse en centros sanitarios, consultar datos clínicos básicos y gestionar la cita médica.",
+    "hashtags": [
+      "#TarjetaSanitariaVirtual",
+      "#TSV",
+      "#SERMAS",
+      "#ComunidadMadrid",
+      "#SaludDigital",
+      "#AppSalud",
+      "#CitaMedica",
+      "#TarjetaSanitaria",
+      "#Telemedicina",
+      "#Madrid"
+    ],
+    "servicios_clave": [
+      "Descarga de la app TSV",
+      "Tarjeta digital en el móvil",
+      "Acceso a citas médicas",
+      "Identificación en centros",
+      "Consulta historial básico"
+    ],
+    "sede_electronica": true
   }
 ]
