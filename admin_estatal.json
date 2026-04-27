@@ -6620,5 +6620,276 @@
       "Convivientes",
       "Acreditación"
     ]
+  },
+  {
+    "id": "estatal_271",
+    "nombre": "Portal de Subastas del BOE",
+    "url": "https://subastas.boe.es",
+    "administracion": "Estatal",
+    "organismo": "Boletín Oficial del Estado (BOE) - Ministerio de la Presidencia",
+    "descripcion": "Portal central de subastas electrónicas judiciales y administrativas. Subasta de bienes embargados por juzgados, AEAT, Seguridad Social y otras administraciones. Pujas online con identificación digital",
+    "hashtags": [
+      "#subastas",
+      "#subastasBOE",
+      "#subastaspublicas",
+      "#subastaspúblicas",
+      "#subastaselectronicas",
+      "#subastasjudiciales",
+      "#BOE",
+      "#embargos",
+      "#bienesembargados",
+      "#pujas",
+      "#patrimonio",
+      "#inmuebles",
+      "#vehiculos"
+    ],
+    "servicios_clave": [
+      "Subastas judiciales electrónicas",
+      "Subastas administrativas",
+      "Consulta de lotes y bienes",
+      "Pujas online con certificado digital",
+      "Depósitos y resguardos"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_272",
+    "nombre": "Subastas de bienes embargados - Agencia Tributaria (AEAT)",
+    "url": "https://sede.agenciatributaria.gob.es/Sede/procedimientoini/G410.shtml",
+    "administracion": "Estatal",
+    "organismo": "Agencia Estatal de Administración Tributaria - Ministerio de Hacienda",
+    "descripcion": "Subastas de bienes embargados en procedimientos de recaudación de la AEAT: inmuebles, vehículos, joyas, obras de arte y otros bienes. Tramitación a través del Portal de Subastas del BOE",
+    "hashtags": [
+      "#subastas",
+      "#AEAT",
+      "#embargos",
+      "#hacienda",
+      "#bienesembargados",
+      "#recaudacion",
+      "#subastasAEAT",
+      "#subastaspúblicas",
+      "#inmueblesembargados",
+      "#deudatributaria",
+      "#apremio",
+      "#subastaselectronicas"
+    ],
+    "servicios_clave": [
+      "Subastas de inmuebles embargados",
+      "Subastas de vehículos",
+      "Subastas de bienes muebles",
+      "Consulta de procedimientos de apremio",
+      "Información sobre pujas y depósitos"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_273",
+    "nombre": "Subastas de la Tesorería General de la Seguridad Social (TGSS)",
+    "url": "https://www.seg-social.es/wps/portal/wss/internet/Empresarios/CotizacionRecaudacionEmpresarios/RecaudacionEjecutiva/Subastas",
+    "administracion": "Estatal",
+    "organismo": "Tesorería General de la Seguridad Social - Ministerio de Inclusión, Seguridad Social y Migraciones",
+    "descripcion": "Subastas de bienes embargados por la TGSS en procedimientos de recaudación ejecutiva por deudas con la Seguridad Social. Inmuebles, vehículos y otros bienes adjudicados a través del Portal de Subastas del BOE",
+    "hashtags": [
+      "#subastas",
+      "#TGSS",
+      "#segsocial",
+      "#seguridadsocial",
+      "#embargos",
+      "#recaudacion",
+      "#bienesembargados",
+      "#apremio",
+      "#subastaspúblicas",
+      "#deudasegsocial",
+      "#inmueblesembargados",
+      "#subastaselectronicas"
+    ],
+    "servicios_clave": [
+      "Subastas de bienes embargados por TGSS",
+      "Subastas de inmuebles",
+      "Subastas de vehículos",
+      "Información sobre procedimientos de apremio",
+      "Consulta de lotes adjudicados"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_274",
+    "nombre": "Patrimonio del Estado - Dirección General",
+    "url": "https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Patrimonio%20del%20Estado/Paginas/PatrimoniodelEstado.aspx",
+    "administracion": "Estatal",
+    "organismo": "Dirección General del Patrimonio del Estado - Ministerio de Hacienda",
+    "descripcion": "Gestión del patrimonio inmobiliario y mobiliario del Estado: enajenación, arrendamiento y subastas de bienes públicos. Adjudicación de inmuebles, fincas rústicas y otros activos del Estado",
+    "hashtags": [
+      "#patrimonio",
+      "#patrimonioEstado",
+      "#subastas",
+      "#bienesEstado",
+      "#enajenacion",
+      "#hacienda",
+      "#inmuebles",
+      "#fincasrusticas",
+      "#subastaspúblicas",
+      "#dgpatrimonio",
+      "#concursospúblicos",
+      "#ventabienespublicos"
+    ],
+    "servicios_clave": [
+      "Enajenación de inmuebles del Estado",
+      "Subastas de bienes patrimoniales",
+      "Arrendamiento de inmuebles",
+      "Inventario de patrimonio",
+      "Concursos públicos de venta"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_275",
+    "nombre": "Portal de venta de bienes del Estado (Patrimonio.gob.es)",
+    "url": "https://patrimoniodelestado.hacienda.gob.es",
+    "administracion": "Estatal",
+    "organismo": "Dirección General del Patrimonio del Estado - Ministerio de Hacienda",
+    "descripcion": "Portal de información y consulta de bienes inmuebles del Estado en venta o subasta. Anuncios de procedimientos de enajenación, fincas rústicas y urbanas, y bienes muebles patrimoniales",
+    "hashtags": [
+      "#patrimonio",
+      "#ventabienespublicos",
+      "#subastas",
+      "#bienesEstado",
+      "#inmueblesEstado",
+      "#enajenacion",
+      "#hacienda",
+      "#patrimonioEstado",
+      "#fincasrusticas",
+      "#subastaspúblicas",
+      "#concursospúblicos",
+      "#anunciosventa"
+    ],
+    "servicios_clave": [
+      "Consulta de inmuebles en venta",
+      "Anuncios de subastas patrimoniales",
+      "Información de procedimientos de enajenación",
+      "Pliegos de condiciones",
+      "Calendario de subastas"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_276",
+    "nombre": "Subastas judiciales - Consejo General del Poder Judicial",
+    "url": "https://www.poderjudicial.es",
+    "administracion": "Estatal",
+    "organismo": "Consejo General del Poder Judicial (CGPJ)",
+    "descripcion": "Información sobre subastas judiciales electrónicas tramitadas por juzgados y tribunales. Las pujas se realizan a través del Portal de Subastas del BOE. Procedimientos de ejecución hipotecaria, ejecución civil y concursales",
+    "hashtags": [
+      "#subastasjudiciales",
+      "#CGPJ",
+      "#poderjudicial",
+      "#subastas",
+      "#ejecucionhipotecaria",
+      "#concursal",
+      "#juzgados",
+      "#tribunales",
+      "#embargos",
+      "#subastaspúblicas",
+      "#subastaselectronicas",
+      "#pujasjudiciales"
+    ],
+    "servicios_clave": [
+      "Información sobre subastas judiciales",
+      "Procedimientos de ejecución",
+      "Subastas concursales",
+      "Subastas hipotecarias",
+      "Acceso al Portal de Subastas del BOE"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_277",
+    "nombre": "Subastas de Defensa - Material militar dado de baja",
+    "url": "https://www.defensa.gob.es/portalservicios/servicios/subastas/",
+    "administracion": "Estatal",
+    "organismo": "Ministerio de Defensa - Dirección General de Infraestructura",
+    "descripcion": "Subastas de material militar dado de baja, vehículos, equipos, mobiliario, embarcaciones, aeronaves y otros bienes desafectados de las Fuerzas Armadas españolas. Subastas a sobre cerrado y públicas",
+    "hashtags": [
+      "#subastasDefensa",
+      "#subastas",
+      "#defensa",
+      "#materialmilitar",
+      "#FAS",
+      "#FuerzasArmadas",
+      "#subastaspúblicas",
+      "#vehículosmilitares",
+      "#desafectacion",
+      "#bajamaterial",
+      "#enajenacion",
+      "#bienesdefensa"
+    ],
+    "servicios_clave": [
+      "Subastas de vehículos militares",
+      "Subastas de material desafectado",
+      "Subastas de embarcaciones",
+      "Subastas de aeronaves",
+      "Pliegos y procedimientos"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_278",
+    "nombre": "Subastas de Aduanas - Bienes decomisados y mercancías abandonadas",
+    "url": "https://sede.agenciatributaria.gob.es/Sede/aduanas/subastas-mercancias-abandonadas-decomisadas.html",
+    "administracion": "Estatal",
+    "organismo": "Departamento de Aduanas e II.EE. - Agencia Tributaria",
+    "descripcion": "Subastas de mercancías abandonadas en aduana, bienes decomisados en operaciones de contrabando y artículos no retirados por importadores. Tabaco, alcohol, electrónica, vehículos y otros bienes adjudicados al Estado a través del Portal de Subastas del BOE",
+    "hashtags": [
+      "#subastasAduanas",
+      "#aduanas",
+      "#subastas",
+      "#decomiso",
+      "#contrabando",
+      "#mercancíasabandonadas",
+      "#AEAT",
+      "#subastaspúblicas",
+      "#bienesdecomisados",
+      "#aduanasespaña",
+      "#importacion",
+      "#subastaselectronicas"
+    ],
+    "servicios_clave": [
+      "Subastas de mercancías decomisadas",
+      "Subastas de vehículos aprehendidos",
+      "Subastas de bienes abandonados",
+      "Información de lotes",
+      "Pliegos y condiciones"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "estatal_279",
+    "nombre": "Subastas de Correos - Objetos no reclamados y paquetería abandonada",
+    "url": "https://www.correos.es/es/es/atencion-al-cliente/quien-somos/subastas",
+    "administracion": "Estatal",
+    "organismo": "Sociedad Estatal Correos y Telégrafos S.A.",
+    "descripcion": "Subastas públicas de envíos postales y paquetes no reclamados ni devueltos al remitente, transcurridos los plazos legales. Lotes con objetos diversos, electrónica, ropa, libros y otros bienes adjudicados a través del Portal de Subastas del BOE",
+    "hashtags": [
+      "#subastasCorreos",
+      "#correos",
+      "#subastas",
+      "#objetosperdidos",
+      "#paquetesabandonados",
+      "#subastaspúblicas",
+      "#envíospostales",
+      "#lotes",
+      "#noreclamados",
+      "#correosespaña",
+      "#subastapostal",
+      "#paquetería"
+    ],
+    "servicios_clave": [
+      "Subastas de paquetes no reclamados",
+      "Subastas de envíos abandonados",
+      "Información de lotes y procedimientos",
+      "Calendario de subastas",
+      "Pliegos y condiciones"
+    ],
+    "sede_electronica": false
   }
 ]

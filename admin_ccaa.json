@@ -13367,5 +13367,95 @@
       "Cuantía"
     ],
     "comunidad_autonoma": "Comunidad de Madrid"
+  },
+  {
+    "id": "ccaa_madrid_117",
+    "nombre": "Subastas y enajenaciones de patrimonio - Comunidad de Madrid",
+    "url": "https://www.comunidad.madrid/servicios/contratacion-publica/subastas-patrimonio",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Economía, Hacienda y Empleo - Dirección General de Patrimonio",
+    "descripcion": "Subastas y procedimientos de enajenación del patrimonio inmobiliario y mobiliario de la Comunidad de Madrid. Venta de inmuebles, parcelas y bienes desafectados pertenecientes a la administración autonómica madrileña",
+    "hashtags": [
+      "#subastas",
+      "#patrimonioCM",
+      "#ComunidadMadrid",
+      "#subastaspúblicas",
+      "#enajenacion",
+      "#bienesCM",
+      "#inmueblesCM",
+      "#patrimonio",
+      "#concursospúblicos",
+      "#ventabienespublicos",
+      "#hacienda",
+      "#Madrid"
+    ],
+    "servicios_clave": [
+      "Subastas de inmuebles autonómicos",
+      "Enajenación de patrimonio CM",
+      "Concursos públicos de venta",
+      "Pliegos y condiciones",
+      "Procedimientos de adjudicación"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_118",
+    "nombre": "Portal de Contratación Pública - Comunidad de Madrid (licitaciones y subastas)",
+    "url": "https://www.madrid.org/contratos-publicos",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Consejería de Economía, Hacienda y Empleo",
+    "descripcion": "Portal específico de contratación pública de la Comunidad de Madrid. Anuncios de licitaciones, concursos, subastas, perfil del contratante, pliegos técnicos y administrativos, y resoluciones de adjudicación",
+    "hashtags": [
+      "#contratacion",
+      "#licitaciones",
+      "#ComunidadMadrid",
+      "#contratacionpública",
+      "#perfilcontratante",
+      "#concursospúblicos",
+      "#subastas",
+      "#pliegos",
+      "#adjudicaciones",
+      "#contratosCM",
+      "#sectorpublico",
+      "#Madrid"
+    ],
+    "servicios_clave": [
+      "Anuncios de licitaciones",
+      "Perfil del contratante",
+      "Consulta de pliegos",
+      "Resoluciones de adjudicación",
+      "Subastas y concursos"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "ccaa_madrid_119",
+    "nombre": "Subastas de viviendas públicas - Agencia de Vivienda Social CM",
+    "url": "https://www.comunidad.madrid/servicios/vivienda/subastas-viviendas-agencia-vivienda-social",
+    "administracion": "Comunidad de Madrid",
+    "organismo": "Agencia de Vivienda Social de la Comunidad de Madrid (antiguo IVIMA)",
+    "descripcion": "Subastas y procedimientos públicos de adjudicación de viviendas, locales y plazas de garaje del parque público de la Agencia de Vivienda Social de Madrid. Venta de inmuebles desafectados y enajenación de patrimonio social",
+    "hashtags": [
+      "#subastasvivienda",
+      "#viviendaCM",
+      "#AVS",
+      "#IVIMA",
+      "#agenciaviviendasocial",
+      "#subastas",
+      "#viviendapublica",
+      "#ComunidadMadrid",
+      "#adjudicacionvivienda",
+      "#subastaspúblicas",
+      "#enajenacion",
+      "#Madrid"
+    ],
+    "servicios_clave": [
+      "Subastas de viviendas públicas",
+      "Subastas de locales y garajes",
+      "Adjudicación de inmuebles AVS",
+      "Pliegos y condiciones",
+      "Procedimientos de venta"
+    ],
+    "sede_electronica": true
   }
 ]

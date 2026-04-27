@@ -27748,5 +27748,125 @@
     "comunidad_autonoma": "Comunidad de Madrid",
     "municipio": "Madrid",
     "provincia": "Madrid"
+  },
+  {
+    "id": "muni_madrid_061",
+    "nombre": "Subastas y enajenaciones de patrimonio municipal - Ayuntamiento de Madrid",
+    "url": "https://sede.madrid.es/portal/site/tramites/menuitem.62876cb64654a55e2dbd7003a8a409a0/?vgnextoid=patrimoniomunicipal",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Área de Hacienda y Personal",
+    "descripcion": "Subastas y procedimientos públicos de enajenación del patrimonio inmobiliario y mobiliario del Ayuntamiento de Madrid. Venta de solares, locales, plazas de garaje y otros bienes municipales desafectados",
+    "hashtags": [
+      "#subastas",
+      "#patrimoniomunicipal",
+      "#Madrid",
+      "#ayuntamiento",
+      "#subastaspúblicas",
+      "#enajenacion",
+      "#bienesmunicipales",
+      "#solares",
+      "#locales",
+      "#garajes",
+      "#hacienda",
+      "#concursospúblicos"
+    ],
+    "servicios_clave": [
+      "Subastas de inmuebles municipales",
+      "Enajenación de solares",
+      "Subastas de locales y garajes",
+      "Concursos públicos de venta",
+      "Pliegos y procedimientos"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "muni_madrid_062",
+    "nombre": "Portal de Contratación del Ayuntamiento de Madrid",
+    "url": "https://contratos.madrid.es",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Dirección General de Contratación y Servicios",
+    "descripcion": "Perfil del contratante del Ayuntamiento de Madrid. Anuncios de licitaciones, concursos, subastas y procedimientos de adjudicación. Pliegos administrativos y técnicos, perfil del contratante y resoluciones de adjudicación",
+    "hashtags": [
+      "#contratacion",
+      "#licitaciones",
+      "#Madrid",
+      "#ayuntamiento",
+      "#perfilcontratante",
+      "#concursospúblicos",
+      "#subastas",
+      "#pliegos",
+      "#adjudicaciones",
+      "#contratosmunicipales",
+      "#sectorpublico",
+      "#contratacionMadrid"
+    ],
+    "servicios_clave": [
+      "Anuncios de licitaciones municipales",
+      "Perfil del contratante",
+      "Consulta de pliegos",
+      "Resoluciones de adjudicación",
+      "Subastas y concursos públicos"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "muni_madrid_063",
+    "nombre": "Oficina de Objetos Perdidos del Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Movilidad-y-transportes/Objetos-perdidos/",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Área de Movilidad y Transportes",
+    "descripcion": "Servicio de objetos perdidos del Ayuntamiento de Madrid. Custodia, registro y devolución de objetos hallados en vía pública, transporte municipal y dependencias municipales. Los objetos no reclamados pueden ser subastados o entregados al hallador",
+    "hashtags": [
+      "#objetosperdidos",
+      "#Madrid",
+      "#ayuntamiento",
+      "#objetosolvidados",
+      "#perdidoencontrado",
+      "#subastas",
+      "#noreclamados",
+      "#oficinaobjetosperdidos",
+      "#movilidad",
+      "#tesoro",
+      "#hallazgo",
+      "#bienesabandonados"
+    ],
+    "servicios_clave": [
+      "Consulta de objetos perdidos",
+      "Reclamación de objetos",
+      "Registro de hallazgos",
+      "Subastas de objetos no reclamados",
+      "Información sobre devoluciones"
+    ],
+    "sede_electronica": true
+  },
+  {
+    "id": "muni_madrid_064",
+    "nombre": "Subastas de vehículos del depósito municipal - Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Movilidad-y-transportes/Servicio-de-grua/",
+    "administracion": "Municipal - Madrid",
+    "organismo": "Ayuntamiento de Madrid - Servicio de Grúa Municipal",
+    "descripcion": "Subastas públicas de vehículos abandonados o no retirados del depósito municipal del servicio de grúa de Madrid. Vehículos retirados de la vía pública declarados abandonados tras los plazos legales y adjudicados en subasta",
+    "hashtags": [
+      "#subastasvehiculos",
+      "#Madrid",
+      "#gruamunicipal",
+      "#depositomunicipal",
+      "#vehiculosabandonados",
+      "#subastas",
+      "#subastaspúblicas",
+      "#ayuntamiento",
+      "#cochesgrua",
+      "#vehiculosgrua",
+      "#noreclamados",
+      "#movilidad"
+    ],
+    "servicios_clave": [
+      "Subastas de vehículos abandonados",
+      "Información del depósito municipal",
+      "Reclamación de vehículos",
+      "Pliegos y condiciones de subasta",
+      "Calendario de subastas"
+    ],
+    "sede_electronica": true
   }
 ]
